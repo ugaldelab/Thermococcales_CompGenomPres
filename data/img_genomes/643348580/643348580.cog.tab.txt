@@ -1,0 +1,1494 @@
+gene_oid	gene_length	percent_identity	query_start	query_end	subj_start	subj_end	evalue	bit_score	cog_id	cog_name	cog_length
+643420513	1308	42.02	6	497	1	519	1.0e-107	385	COG0417	DNA polymerase elongation subunit (family B)	792
+643420514	231	26.5	1	229	4	229	6.0e-24	104	COG1011	Predicted hydrolase (HAD superfamily)	229
+643420516	213	36.94	60	213	61	217	5.0e-33	134	COG4711	Predicted membrane protein	217
+643420518	392	16.81	39	380	41	387	4.0e-13	69.5	COG2814	Arabinose efflux permease	394
+643420519	741	59.29	3	738	2	714	0.0e+00	942	COG1107	Archaea-specific RecJ-like exonuclease, contains DnaJ-type Zn finger domain	715
+643420522	392	20.41	39	390	54	433	3.0e-09	56.7	COG2271	Sugar phosphate permease	448
+643420523	96	36.96	5	95	11	102	3.0e-09	53.7	COG1695	Predicted transcriptional regulators	138
+643420524	128	31.82	1	126	12	141	2.0e-15	74.3	COG2050	Uncharacterized protein, possibly involved in aromatic compounds catabolism	141
+643420525	132	17.14	7	131	11	150	1.0e-07	49.2	COG3612	Uncharacterized protein conserved in archaea	157
+643420526	346	38.64	31	293	22	271	6.0e-61	227	COG2998	ABC-type tungstate transport system, permease component	280
+643420527	235	39.13	4	231	1	225	1.0e-39	156	COG4662	ABC-type tungstate transport system, periplasmic component	227
+643420528	240	42.62	1	236	1	235	3.0e-64	238	COG3839	ABC-type sugar transport systems, ATPase components	338
+643420529	179	40.86	1	175	3	188	3.0e-39	154	COG1335	Amidases related to nicotinamidase	205
+643420530	348	20.83	1	324	11	342	4.0e-26	112	COG0628	Predicted permease	355
+643420533	638	53.78	24	631	12	627	0.0e+00	768	COG4231	Indolepyruvate ferredoxin oxidoreductase, alpha and beta subunits	640
+643420537	105	25.96	1	104	1	99	1.0e-06	44.6	COG1694	Predicted pyrophosphatase	102
+643420538	149	39.39	1	128	1	132	4.0e-30	123	COG0537	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases	138
+643420540	260	54.39	8	241	1	236	2.0e-65	242	COG0638	20S proteasome, alpha and beta subunits	236
+643420541	236	58.97	2	235	1	234	2.0e-83	302	COG1500	Predicted exosome subunit	234
+643420542	256	51.45	3	242	2	239	3.0e-70	258	COG1097	RNA-binding protein Rrp4 and related proteins (contain S1 domain and KH domain)	239
+643420543	249	50	9	235	1	230	3.0e-77	281	COG0689	RNase PH	230
+643420544	272	56.46	1	270	1	271	2.0e-87	315	COG2123	RNase PH-related exoribonuclease	272
+643420546	132	31.82	1	132	2	118	2.0e-12	64.5	COG2450	Uncharacterized conserved protein	124
+643420547	211	49.49	8	203	9	198	6.0e-54	203	COG1779	C4-type Zn-finger protein	201
+643420549	333	40	1	329	2	327	1.0e-78	286	COG0460	Homoserine dehydrogenase	333
+643420550	280	26.52	143	274	262	368	4.0e-07	49.2	COG3448	CBS-domain-containing membrane protein	382
+643420550	280	30.09	6	113	137	249	4.0e-12	65.7	COG2239	Mg/Co/Ni transporter MgtE (contains CBS domain)	451
+643420551	375	66.67	5	375	1	375	0.0e+00	482	COG1883	Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, beta subunit	375
+643420552	154	37.91	1	153	4	138	8.0e-21	93.2	COG0511	Biotin carboxyl carrier protein	140
+643420553	128	26.88	1	93	1	84	2.0e-08	51.1	COG3630	Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, gamma subunit	84
+643420554	522	63.95	1	522	9	526	0.0e+00	724	COG4799	Acetyl-CoA carboxylase, carboxyltransferase component (subunits alpha and beta)	526
+643420555	143	52.63	9	140	6	138	2.0e-41	161	COG1601	Translation initiation factor 2, beta subunit (eIF-2beta)/eIF-5 N-terminal domain	151
+643420556	1157	53.24	798	1157	321	682	8.0e-111	395	COG1241	Predicted ATPase involved in replication control, Cdc46/Mcm family	682
+643420558	170	36.93	1	168	2	172	3.0e-37	147	COG0622	Predicted phosphoesterase	172
+643420561	340	58.82	3	338	2	340	2.0e-116	412	COG0430	RNA 3'-terminal phosphate cyclase	341
+643420563	281	60.14	1	280	5	285	6.0e-110	390	COG1831	Predicted metal-dependent hydrolase (urease superfamily)	285
+643420565	415	40.47	1	415	3	428	2.0e-100	359	COG3259	Coenzyme F420-reducing hydrogenase, alpha subunit	441
+643420566	246	34.78	2	244	1	247	7.0e-56	210	COG1941	Coenzyme F420-reducing hydrogenase, gamma subunit	247
+643420567	291	29.58	2	283	1	249	1.0e-43	170	COG0543	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases	252
+643420569	278	38.28	1	250	9	252	3.0e-50	192	COG0543	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases	252
+643420570	474	47.31	19	471	1	450	2.0e-126	446	COG0493	NADPH-dependent glutamate synthase beta chain and related oxidoreductases	457
+643420571	300	29.32	4	297	123	433	4.0e-60	225	COG0017	Aspartyl/asparaginyl-tRNA synthetases	435
+643420572	197	27.57	1	182	112	296	4.0e-26	111	COG0630	Type IV secretory pathway, VirB11 components, and related ATPases involved in archaeal flagella biosynthesis	312
+643420574	384	42.31	22	384	4	366	4.0e-109	388	COG0075	Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase	383
+643420576	182	33.13	12	174	2	146	9.0e-32	129	COG0197	Ribosomal protein L16/L10E	146
+643420577	380	49.35	1	379	2	382	4.0e-116	411	COG1423	ATP-dependent DNA ligase, homolog of eukaryotic ligase III	382
+643420578	305	49.81	50	305	4	268	5.0e-70	257	COG2106	Uncharacterized conserved protein	272
+643420579	347	27.95	38	332	1	218	3.0e-50	192	COG0087	Ribosomal protein L3	218
+643420580	255	33.47	1	243	2	214	5.0e-46	177	COG0088	Ribosomal protein L4	214
+643420581	86	50.57	3	86	1	87	3.0e-19	86.8	COG0089	Ribosomal protein L23	94
+643420582	239	45.23	1	238	34	268	5.0e-72	264	COG0090	Ribosomal protein L2	275
+643420583	133	61.7	33	126	1	93	5.0e-34	136	COG0185	Ribosomal protein S19	93
+643420584	156	40.14	8	153	1	117	5.0e-29	120	COG0091	Ribosomal protein L22	120
+643420585	208	42.79	2	208	13	217	2.0e-53	202	COG0092	Ribosomal protein S3	233
+643420586	66	49.23	2	66	4	67	1.0e-05	41.4	COG0255	Ribosomal protein L29	69
+643420587	98	49.48	2	98	8	104	6.0e-22	95.7	COG0023	Translation initiation factor 1 (eIF-1/SUI1) and related proteins	104
+643420588	125	53.26	35	124	2	93	8.0e-20	89.2	COG1588	RNase P/RNase MRP subunit p29	95
+643420589	111	53.41	23	110	1	87	7.0e-25	105	COG0186	Ribosomal protein S17	87
+643420590	141	49.21	20	141	1	122	2.0e-31	128	COG0093	Ribosomal protein L14	122
+643420591	121	30.95	42	114	1	82	5.0e-11	59.9	COG0198	Ribosomal protein L24	104
+643420592	243	59.17	4	243	2	238	1.0e-90	326	COG1471	Ribosomal protein S4E	241
+643420593	183	41.76	2	162	11	180	2.0e-48	185	COG0094	Ribosomal protein L5	180
+643420594	56	42.31	7	55	10	59	2.0e-06	44.4	COG0199	Ribosomal protein S14	61
+643420595	130	51.88	1	130	1	132	6.0e-41	159	COG0096	Ribosomal protein S8	132
+643420596	184	41.67	6	183	4	178	3.0e-44	171	COG0097	Ribosomal protein L6P/L9E	178
+643420597	126	68.55	3	126	7	128	2.0e-34	138	COG1717	Ribosomal protein L32E	133
+643420598	148	63.95	2	148	4	150	6.0e-41	160	COG2147	Ribosomal protein L19E	150
+643420599	201	44.53	5	131	1	125	9.0e-35	139	COG0256	Ribosomal protein L18	125
+643420600	235	40.69	26	229	1	180	1.0e-44	173	COG0098	Ribosomal protein S5	181
+643420601	155	43.64	4	58	1	55	2.0e-13	68.6	COG1841	Ribosomal protein L30/L7E	55
+643420602	148	28.76	2	148	1	151	3.0e-23	101	COG0200	Ribosomal protein L15	152
+643420603	481	29.29	9	481	1	436	6.0e-72	265	COG0201	Preprotein translocase subunit SecY	436
+643420604	196	56.84	2	191	4	189	6.0e-61	227	COG2019	Archaeal adenylate kinase	189
+643420605	175	41.71	1	175	25	198	5.0e-41	160	COG1422	Predicted membrane protein	201
+643420606	90	65.52	1	86	2	88	1.0e-21	94.6	COG2174	Ribosomal protein L34E	93
+643420607	197	60.34	6	183	1	179	4.0e-71	260	COG1102	Cytidylate kinase	179
+643420608	83	53.75	1	79	2	81	4.0e-14	69.6	COG2163	Ribosomal protein L14E/L6E/L27E	125
+643420609	235	31.37	1	235	6	259	3.0e-43	168	COG0300	Short-chain dehydrogenases of various substrate specificities	265
+643420610	334	43.43	34	326	5	271	2.0e-76	279	COG0130	Pseudouridine synthase	271
+643420615	209	42.79	14	208	102	298	1.0e-57	216	COG2813	16S RNA G1207 methylase RsmC	300
+643420617	149	37.06	8	148	1	121	2.0e-30	124	COG0099	Ribosomal protein S13	121
+643420618	180	31.29	6	168	8	159	2.0e-31	128	COG0522	Ribosomal protein S4 and related proteins	205
+643420619	139	53.17	11	136	13	129	4.0e-38	150	COG0100	Ribosomal protein S11	129
+643420620	260	23.81	14	249	20	310	3.0e-28	118	COG0202	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	317
+643420622	120	67.5	1	120	3	122	2.0e-43	167	COG1727	Ribosomal protein L18E	122
+643420623	142	42.86	1	113	15	139	2.0e-27	114	COG0102	Ribosomal protein L13	148
+643420624	135	43.38	1	135	3	130	5.0e-33	133	COG0103	Ribosomal protein S9	130
+643420625	65	72.58	1	62	1	62	2.0e-23	100	COG1644	DNA-directed RNA polymerase, subunit N (RpoN/RPB10)	63
+643420627	57	35.09	1	56	11	67	4.0e-08	49.9	COG1758	DNA-directed RNA polymerase, subunit K/omega	74
+643420628	341	32.06	1	340	1	418	2.0e-77	282	COG0148	Enolase	423
+643420629	201	35.08	6	200	4	250	3.0e-53	201	COG0052	Ribosomal protein S2	252
+643420631	52	65.31	1	49	1	49	2.0e-08	51.1	COG1552	Ribosomal protein L40E	50
+643420632	108	40.7	11	94	4	88	5.0e-10	56.4	COG1695	Predicted transcriptional regulators	138
+643420633	99	55.56	1	99	11	109	3.0e-22	96.9	COG2383	Uncharacterized conserved protein	109
+643420637	150	38	1	147	5	154	1.0e-25	108	COG1522	Transcriptional regulators	154
+643420639	238	35.33	73	238	15	178	9.0e-32	130	COG0503	Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins	179
+643420640	166	32.12	19	155	5	127	4.0e-15	74.3	COG0727	Predicted Fe-S-cluster oxidoreductase	132
+643420641	79	39.74	1	76	67	144	2.0e-07	47.7	COG1522	Transcriptional regulators	154
+643420642	448	51.45	2	447	1	446	0.0e+00	567	COG0541	Signal recognition particle GTPase	451
+643420644	283	45.83	1	282	1	285	9.0e-77	280	COG1578	Uncharacterized conserved protein	285
+643420647	267	52.16	1	249	16	262	6.0e-81	294	COG0005	Purine nucleoside phosphorylase	262
+643420648	445	30.95	48	420	51	398	2.0e-50	193	COG1251	NAD(P)H-nitrite reductase	793
+643420652	277	51.41	13	256	2	248	2.0e-80	292	COG2820	Uridine phosphorylase	248
+643420653	291	48.82	1	290	2	279	1.0e-89	323	COG1355	Predicted dioxygenase	279
+643420654	334	48.33	3	329	1	307	7.0e-82	297	COG1577	Mevalonate kinase	307
+643420655	258	43.41	2	258	3	252	1.0e-59	223	COG1608	Predicted archaeal kinase	252
+643420656	374	38.65	1	361	1	360	1.0e-87	316	COG1304	L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy acid dehydrogenases	360
+643420657	440	38.79	2	439	9	427	2.0e-109	389	COG0595	Predicted hydrolase of the metallo-beta-lactamase superfamily	555
+643420658	342	44.44	5	342	1	322	7.0e-82	297	COG0142	Geranylgeranyl pyrophosphate synthase	322
+643420661	269	24.46	10	145	14	145	7.0e-07	48	COG2226	Methylase involved in ubiquinone/menaquinone biosynthesis	238
+643420662	967	35.04	1	880	2	789	0.0e+00	721	COG0495	Leucyl-tRNA synthetase	814
+643420664	356	40.86	2	356	13	383	6.0e-81	294	COG0006	Xaa-Pro aminopeptidase	384
+643420665	194	70.1	1	194	2	195	3.0e-66	244	COG1632	Ribosomal protein L15E	195
+643420666	151	47.33	1	150	2	148	6.0e-37	146	COG1325	Predicted exosome subunit	149
+643420667	223	38.1	16	219	3	209	1.0e-42	166	COG1603	RNase P/RNase MRP subunit p30	229
+643420668	443	70.53	1	430	2	432	0.0e+00	710	COG1350	Predicted alternative tryptophan synthase beta-subunit (paralog of TrpB)	432
+643420669	335	27.7	124	334	31	238	2.0e-11	63.4	COG1808	Predicted membrane protein	334
+643420671	138	49.63	1	134	2	136	1.0e-36	144	COG0864	Predicted transcriptional regulators containing the CopG/Arc/MetJ DNA-binding domain and a metal-binding domain	136
+643420673	649	42.37	1	574	1	564	8.0e-124	438	COG1293	Predicted RNA-binding protein homologous to eukaryotic snRNP	564
+643420674	565	45.34	1	533	1	503	0.0e+00	524	COG1543	Uncharacterized conserved protein	504
+643420675	105	56.25	1	104	1	112	3.0e-27	113	COG0347	Nitrogen regulatory protein PII	112
+643420677	527	37.01	1	460	2	437	4.0e-96	345	COG0733	Na+-dependent transporters of the SNF family	439
+643420678	419	57.87	5	417	2	411	0.0e+00	551	COG0334	Glutamate dehydrogenase/leucine dehydrogenase	411
+643420679	342	29.19	4	325	26	305	5.0e-34	138	COG4177	ABC-type branched-chain amino acid transport system, permease component	314
+643420680	301	34.45	1	295	7	294	7.0e-38	151	COG0559	Branched-chain amino acid ABC-type transport system, permease components	297
+643420681	257	47.23	1	234	3	237	2.0e-81	295	COG0410	ABC-type branched-chain amino acid transport systems, ATPase component	237
+643420682	255	45.06	4	255	3	250	3.0e-79	288	COG0411	ABC-type branched-chain amino acid transport systems, ATPase component	250
+643420683	428	26.96	34	412	3	357	8.0e-42	164	COG0683	ABC-type branched-chain amino acid transport systems, periplasmic component	366
+643420685	203	48.54	2	203	25	230	1.0e-53	203	COG0638	20S proteasome, alpha and beta subunits	236
+643420686	648	65.42	8	648	3	637	0.0e+00	972	COG1782	Predicted metal-dependent RNase, consists of a metallo-beta-lactamase domain and an RNA-binding KH domain	637
+643420687	444	38.2	364	442	1	89	6.0e-08	52.5	COG1695	Predicted transcriptional regulators	138
+643420687	444	39.46	4	358	7	374	7.0e-80	291	COG0498	Threonine synthase	411
+643420689	227	57.46	1	227	3	227	1.0e-78	285	COG0120	Ribose 5-phosphate isomerase	227
+643420692	199	45.28	2	196	5	216	3.0e-61	227	COG1458	Predicted DNA-binding protein containing PIN domain	221
+643420693	402	17.44	20	387	28	447	4.0e-19	89.7	COG2407	L-fucose isomerase and related proteins	470
+643420695	773	46.87	73	395	47	379	3.0e-69	256	COG4666	TRAP-type uncharacterized transport system, fused permease components	642
+643420696	149	21.62	4	148	6	152	8.0e-09	53.1	COG4729	Uncharacterized conserved protein	156
+643420697	329	43.48	9	324	1	321	4.0e-80	291	COG2358	TRAP-type uncharacterized transport system, periplasmic component	321
+643420698	272	48.36	1	272	1	266	7.0e-81	293	COG1650	Uncharacterized protein conserved in archaea	266
+643420699	382	57.19	40	371	1	334	1.0e-100	359	COG0206	Cell division GTPase	338
+643420700	61	50	6	61	9	64	5.0e-10	56	COG2443	Preprotein translocase subunit Sss1	65
+643420701	152	25.28	2	147	1	178	2.0e-18	85	COG0250	Transcription antiterminator	178
+643420702	163	50	3	140	6	141	1.0e-41	162	COG0080	Ribosomal protein L11	141
+643420703	216	47.03	1	215	16	226	3.0e-55	208	COG0081	Ribosomal protein L1	228
+643420704	339	31.5	1	199	1	175	9.0e-26	111	COG0244	Ribosomal protein L10	175
+643420705	105	66.67	1	96	1	96	2.0e-06	44.2	COG2058	Ribosomal protein L12E/L44/L45/RPP1/RPP2	109
+643420708	155	36.26	1	154	2	183	4.0e-38	150	COG0717	Deoxycytidine deaminase	183
+643420709	67	59.7	1	67	17	83	1.0e-12	65	COG2036	Histones H3 and H4	91
+643420710	424	24.83	4	423	22	460	6.0e-48	185	COG1032	Fe-S oxidoreductase	490
+643420711	133	35.65	13	122	3	115	1.0e-15	75.4	COG1658	Small primase-like proteins (Toprim domain)	127
+643420712	464	26.32	35	448	34	545	9.0e-43	168	COG0358	DNA primase (bacterial type)	568
+643420713	573	37.73	89	559	1	472	1.0e-116	414	COG0008	Glutamyl- and glutaminyl-tRNA synthetases	472
+643420715	833	35.01	21	760	4	743	0.0e+00	678	COG0058	Glucan phosphorylase	750
+643420716	625	40.48	10	608	3	608	0.0e+00	730	COG1274	Phosphoenolpyruvate carboxykinase (GTP)	608
+643420717	68	55.07	1	68	2	70	2.0e-18	83.9	COG1208	Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon)	358
+643420718	66	39.68	4	65	114	176	4.0e-07	46.4	COG1044	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	338
+643420719	235	24.03	4	208	18	250	2.0e-21	96.2	COG1109	Phosphomannomutase	464
+643420720	205	48.8	1	202	4	205	7.0e-54	203	COG0125	Thymidylate kinase	208
+643420721	289	20.74	33	289	354	618	3.0e-18	86	COG1506	Dipeptidyl aminopeptidases/acylaminoacyl-peptidases	620
+643420722	436	21.64	1	423	4	420	4.0e-15	76.4	COG2211	Na+/melibiose symporter and related transporters	467
+643420723	441	21.59	13	420	18	435	2.0e-21	97.6	COG2211	Na+/melibiose symporter and related transporters	467
+643420724	245	22.31	2	227	4	252	2.0e-18	86	COG0584	Glycerophosphoryl diester phosphodiesterase	257
+643420725	249	30.62	7	245	5	256	1.0e-34	139	COG0584	Glycerophosphoryl diester phosphodiesterase	257
+643420726	493	64.92	1	489	3	498	0.0e+00	794	COG0554	Glycerol kinase	499
+643420727	496	37.35	1	418	2	429	2.0e-104	373	COG0579	Predicted dehydrogenase	429
+643420728	418	28.96	6	334	2	347	8.0e-28	118	COG1249	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3) component, and related enzymes	454
+643420729	116	51.3	3	114	1	112	2.0e-29	120	COG3862	Uncharacterized protein with conserved CXXC pairs	117
+643420732	235	37.5	6	227	42	272	1.0e-30	126	COG2339	Predicted membrane protein	274
+643420733	226	42.67	1	224	7	235	1.0e-42	166	COG1407	Predicted ICC-like phosphoesterases	235
+643420735	229	23.71	1	219	5	229	2.0e-11	63	COG1011	Predicted hydrolase (HAD superfamily)	229
+643420737	446	48.14	1	446	8	448	0.0e+00	554	COG0403	Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain	450
+643420738	502	55.89	4	499	1	494	0.0e+00	715	COG1003	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	496
+643420743	82	61.25	1	80	1	80	2.0e-24	103	COG2012	DNA-directed RNA polymerase, subunit H, RpoH/RPB5	80
+643420744	1120	37.41	1	1120	1	1060	0.0e+00	1166	COG0085	DNA-directed RNA polymerase, beta subunit/140 kD subunit	1060
+643420745	905	36.66	8	894	4	807	0.0e+00	858	COG0086	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	808
+643420746	391	39.48	50	385	403	747	2.0e-67	249	COG0086	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	808
+643420747	100	58.33	1	96	5	100	8.0e-30	121	COG1911	Ribosomal protein L30E	100
+643420748	145	26.71	1	145	42	183	4.0e-25	107	COG0195	Transcription elongation factor	190
+643420749	147	43.48	10	147	1	124	4.0e-35	140	COG0048	Ribosomal protein S12	129
+643420750	215	39.31	43	215	1	148	9.0e-40	156	COG0049	Ribosomal protein S7	148
+643420751	374	27.57	1	362	38	435	2.0e-52	200	COG1524	Uncharacterized proteins of the AP superfamily	450
+643420754	421	49.75	6	407	3	402	0.0e+00	478	COG1602	Uncharacterized conserved protein	402
+643420757	67	38.33	12	67	9	68	2.0e-07	47.1	COG2104	Sulfur transfer protein involved in thiamine biosynthesis	68
+643420760	399	42.18	3	396	2	392	9.0e-98	350	COG0436	Aspartate/tyrosine/aromatic aminotransferase	393
+643420762	193	44.56	1	192	107	297	1.0e-37	149	COG2431	Predicted membrane protein	297
+643420764	94	68.09	1	94	1	94	1.0e-26	111	COG1631	Ribosomal protein L44E	94
+643420765	65	66.67	1	65	2	67	4.0e-21	93	COG2051	Ribosomal protein S27E	67
+643420766	275	60	1	269	1	268	1.0e-85	309	COG1093	Translation initiation factor 2, alpha subunit (eIF-2alpha)	269
+643420767	58	72.55	1	51	1	51	2.0e-14	70.8	COG2260	Predicted Zn-ribbon RNA-binding protein	59
+643420768	266	55.43	1	266	2	257	4.0e-83	301	COG2047	Uncharacterized protein (ATP-grasp superfamily)	258
+643420769	204	38.81	1	199	1	201	1.0e-27	116	COG0310	ABC-type Co2+ transport system, permease component	204
+643420771	219	27.03	5	219	25	246	1.0e-11	63.5	COG0619	ABC-type cobalt transport system, permease component CbiQ and related transporters	252
+643420772	266	50.21	1	228	3	235	5.0e-66	244	COG1122	ABC-type cobalt transport system, ATPase component	235
+643420773	455	47.6	3	455	8	462	8.0e-127	447	COG1109	Phosphomannomutase	464
+643420774	460	47.93	1	323	2	333	2.0e-121	429	COG0836	Mannose-1-phosphate guanylyltransferase	333
+643420774	460	53.54	332	458	1	127	1.0e-36	147	COG0662	Mannose-6-phosphate isomerase	127
+643420775	453	43.97	6	452	1	462	0.0e+00	461	COG4809	Archaeal ADP-dependent phosphofructokinase/glucokinase	466
+643420776	189	43.15	3	189	4	200	2.0e-49	188	COG2140	Thermophilic glucose-6-phosphate isomerase and related metalloenzymes	209
+643420777	198	30.6	17	198	18	188	2.0e-12	66.2	COG1994	Zn-dependent proteases	230
+643420780	233	43.04	1	222	8	230	3.0e-46	178	COG1916	Uncharacterized homolog of PrgY (pheromone shutdown protein)	388
+643420781	311	40.53	1	297	1	292	3.0e-75	275	COG1234	Metal-dependent hydrolases of the beta-lactamase superfamily III	292
+643420783	258	47.64	2	246	1	254	7.0e-75	273	COG1120	ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components	258
+643420784	344	46.9	9	344	3	333	1.0e-58	220	COG0609	ABC-type Fe3+-siderophore transport system, permease component	334
+643420785	378	30.24	2	330	1	319	4.0e-47	182	COG0614	ABC-type Fe3+-hydroxamate transport system, periplasmic component	319
+643420786	232	50.24	13	217	11	206	4.0e-60	224	COG2191	Formylmethanofuran dehydrogenase subunit E	206
+643420787	124	36.84	1	111	1	113	5.0e-22	96.5	COG1433	Uncharacterized conserved protein	121
+643420788	341	36.34	1	333	2	316	2.0e-48	186	COG1275	Tellurite resistance protein and related permeases	329
+643420789	295	42.27	1	286	7	296	4.0e-77	281	COG1230	Co/Zn/Cd efflux system component	296
+643420790	139	32.35	1	136	1	115	5.0e-25	106	COG0375	Zn finger protein HypA/HybF (possibly regulating hydrogenase expression)	115
+643420791	248	39.07	16	226	54	265	3.0e-42	165	COG0489	ATPases involved in chromosome partitioning	265
+643420792	158	36.91	11	154	2	148	7.0e-24	103	COG0680	Ni,Fe-hydrogenase maturation factor	160
+643420793	193	34.2	1	189	5	189	2.0e-41	162	COG0746	Molybdopterin-guanine dinucleotide biosynthesis protein A	192
+643420795	521	36.92	1	512	1	499	1.0e-69	257	COG0651	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	504
+643420796	161	35.15	1	161	1	158	5.0e-25	107	COG1863	Multisubunit Na+/H+ antiporter, MnhE subunit	158
+643420797	130	38.79	14	129	8	115	5.0e-16	76.8	COG1006	Multisubunit Na+/H+ antiporter, MnhC subunit	115
+643420798	257	23.08	99	251	7	162	7.0e-10	58.1	COG2111	Multisubunit Na+/H+ antiporter, MnhB subunit	162
+643420800	118	37.29	1	117	1	113	1.0e-16	78.3	COG1320	Multisubunit Na+/H+ antiporter, MnhG subunit	113
+643420803	266	53.9	5	158	7	141	2.0e-48	185	COG3260	Ni,Fe-hydrogenase III small subunit	148
+643420804	205	37.21	23	146	28	155	1.0e-27	116	COG1143	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	172
+643420805	583	47.89	104	174	80	148	3.0e-16	80.8	COG0852	NADH:ubiquinone oxidoreductase 27 kD subunit	176
+643420805	583	51.98	190	566	4	381	0.0e+00	488	COG3261	Ni,Fe-hydrogenase III large subunit	382
+643420806	300	37.38	1	298	5	309	3.0e-44	172	COG0650	Formate hydrogenlyase subunit 4	309
+643420807	659	33.98	22	477	31	480	3.0e-55	210	COG0651	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	504
+643420808	483	34.85	7	476	5	473	2.0e-70	260	COG1009	NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	606
+643420809	165	40.24	1	148	9	172	1.0e-35	142	COG0437	Fe-S-cluster-containing hydrogenase components 1	203
+643420810	689	39.91	6	689	262	940	0.0e+00	627	COG3383	Uncharacterized anaerobic dehydrogenase	978
+643420811	183	26.23	2	182	12	194	6.0e-14	70.4	COG1309	Transcriptional regulator	201
+643420812	81	56.96	1	76	1	79	5.0e-23	99.2	COG0298	Hydrogenase maturation factor	82
+643420813	118	38.94	1	113	3	110	4.0e-36	143	COG0409	Hydrogenase maturation factor	364
+643420814	230	52.84	2	230	136	364	1.0e-95	342	COG0409	Hydrogenase maturation factor	364
+643420815	813	52.47	47	803	1	750	0.0e+00	981	COG0068	Hydrogenase maturation factor	750
+643420816	336	51.75	1	336	1	339	9.0e-105	373	COG0309	Hydrogenase maturation factor	339
+643420818	399	50.12	1	396	2	405	1.0e-126	446	COG0520	Selenocysteine lyase	405
+643420819	378	51.58	1	378	2	355	9.0e-96	343	COG3199	Uncharacterized conserved protein	355
+643420821	114	47.06	48	98	248	296	6.0e-07	46.1	COG0731	Fe-S oxidoreductases	296
+643420825	536	26.1	214	507	33	319	3.0e-43	170	COG0614	ABC-type Fe3+-hydroxamate transport system, periplasmic component	319
+643420826	314	42.59	4	313	11	334	7.0e-51	194	COG0609	ABC-type Fe3+-siderophore transport system, permease component	334
+643420827	259	43.19	1	254	2	258	7.0e-80	290	COG1120	ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components	258
+643420830	283	31.65	38	169	91	228	9.0e-16	77.8	COG2041	Sulfite oxidase and related enzymes	271
+643420832	246	60.32	1	245	4	248	4.0e-82	298	COG2014	Uncharacterized conserved protein	250
+643420834	441	36.07	5	423	1	415	7.0e-60	225	COG0446	Uncharacterized NAD(FAD)-dependent dehydrogenases	415
+643420835	388	37.95	1	388	4	355	8.0e-72	264	COG1499	NMD protein affecting ribosome stability and mRNA decay	355
+643420836	99	68.04	2	98	4	100	2.0e-33	133	COG2412	Uncharacterized conserved protein	101
+643420837	1414	30.83	345	578	164	377	4.0e-15	78.1	COG1404	Subtilisin-like serine proteases	508
+643420839	821	24.89	1	221	1	219	5.0e-13	70.1	COG1807	4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of PMT family	535
+643420840	782	45.5	3	770	1	740	0.0e+00	669	COG0574	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	740
+643420841	461	37.5	23	461	17	454	1.0e-80	294	COG0534	Na+-driven multidrug efflux pump	455
+643420842	474	35.22	15	473	12	452	2.0e-72	266	COG0534	Na+-driven multidrug efflux pump	455
+643420843	222	46.83	15	219	8	210	7.0e-61	226	COG0035	Uracil phosphoribosyltransferase	210
+643420845	717	39.87	4	589	3	565	0.0e+00	550	COG0550	Topoisomerase IA	570
+643420846	396	32.58	3	393	1	387	2.0e-68	253	COG0644	Dehydrogenases (flavoproteins)	396
+643420847	67	33.93	8	62	65	120	1.0e-07	48.4	COG1149	MinD superfamily P-loop ATPase containing an inserted ferredoxin domain	284
+643420848	236	34.58	1	214	3	214	1.0e-39	156	COG1777	Predicted transcriptional regulators	217
+643420849	226	23.08	6	226	3	195	4.0e-18	85	COG3634	Alkyl hydroperoxide reductase, large subunit	520
+643420850	85	52.81	1	85	1	89	2.0e-19	87.2	COG1343	Uncharacterized protein predicted to be involved in DNA repair	89
+643420856	263	42.04	1	244	1	240	2.0e-56	212	COG1583	Uncharacterized protein predicted to be involved in DNA repair (RAMP superfamily)	240
+643420857	232	23.98	1	230	3	244	4.0e-36	144	COG1042	Acyl-CoA synthetase (NDP forming)	598
+643420858	432	23.02	173	432	151	421	1.0e-12	67.7	COG5316	Uncharacterized conserved protein	421
+643420860	176	26.06	1	175	23	209	1.0e-09	56.6	COG4715	Uncharacterized conserved protein	587
+643420861	1221	55.65	1	1219	3	1186	0.0e+00	1509	COG1110	Reverse gyrase	1187
+643420862	264	23.29	3	249	1	247	3.0e-27	115	COG1378	Predicted transcriptional regulators	247
+643420864	109	36.63	8	105	9	109	7.0e-18	82.4	COG1645	Uncharacterized Zn-finger containing protein	131
+643420865	241	26.94	39	241	90	299	1.0e-21	96.6	COG0010	Arginase/agmatinase/formimionoglutamate hydrolase, arginase family	305
+643420866	406	33.66	211	405	1	202	2.0e-47	183	COG0794	Predicted sugar phosphate isomerase involved in capsule formation	202
+643420866	406	52.11	1	210	4	215	1.0e-61	230	COG0269	3-hexulose-6-phosphate synthase and related proteins	217
+643420867	251	19.5	71	251	117	314	1.0e-21	96.9	COG0206	Cell division GTPase	338
+643420868	214	36.56	1	213	4	229	2.0e-31	129	COG1011	Predicted hydrolase (HAD superfamily)	229
+643420871	206	33.66	17	204	20	221	7.0e-26	110	COG1418	Predicted HD superfamily hydrolase	222
+643420872	170	25	1	170	16	180	3.0e-20	91.4	COG0195	Transcription elongation factor	190
+643420873	443	49.32	6	443	1	435	0.0e+00	543	COG0017	Aspartyl/asparaginyl-tRNA synthetases	435
+643420875	118	59.66	1	117	3	121	7.0e-38	148	COG1990	Uncharacterized conserved protein	122
+643420876	416	43.2	6	414	8	397	5.0e-101	361	COG0585	Uncharacterized conserved protein	406
+643420877	235	22.35	1	227	2	261	2.0e-32	132	COG0561	Predicted hydrolases of the HAD superfamily	264
+643420878	382	48.08	1	381	1	390	4.0e-122	431	COG1473	Metal-dependent amidase/aminoacylase/carboxypeptidase	392
+643420881	95	58.51	1	93	1	90	7.0e-21	91.9	COG1849	Uncharacterized protein conserved in archaea	90
+643420882	126	60	1	115	1	115	5.0e-40	156	COG1885	Uncharacterized protein conserved in archaea	115
+643420884	533	67.92	3	530	2	530	0.0e+00	900	COG0504	CTP synthase (UTP-ammonia lyase)	533
+643420886	130	68.75	1	126	1	127	4.0e-36	143	COG2007	Ribosomal protein S8E	127
+643420888	358	57.86	1	335	1	336	3.0e-119	421	COG1084	Predicted GTPase	346
+643420889	268	43.91	1	268	1	259	2.0e-63	236	COG1237	Metal-dependent hydrolases of the beta-lactamase superfamily II	259
+643420890	271	24.63	11	271	10	270	1.0e-13	70.6	COG1968	Uncharacterized bacitracin resistance protein	270
+643420891	419	38.67	1	399	2	358	5.0e-77	281	COG1208	Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon)	358
+643420893	391	25.95	136	266	251	373	3.0e-15	76.6	COG3448	CBS-domain-containing membrane protein	382
+643420895	295	43.93	2	203	9	219	2.0e-60	226	COG0024	Methionine aminopeptidase	255
+643420896	493	36.99	13	483	2	485	5.0e-86	311	COG0168	Trk-type K+ transport systems, membrane components	499
+643420897	284	50	1	246	1	235	2.0e-65	242	COG1122	ABC-type cobalt transport system, ATPase component	235
+643420899	184	51.1	1	177	1	178	1.0e-36	146	COG1437	Adenylate cyclase, class 2 (thermophilic)	178
+643420900	184	43.65	1	181	3	177	6.0e-50	190	COG1913	Predicted Zn-dependent proteases	181
+643420901	129	25.96	23	125	26	129	3.0e-06	44.1	COG2445	Uncharacterized conserved protein	138
+643420902	345	48.13	1	338	2	346	2.0e-98	352	COG1363	Cellulase M and related proteins	355
+643420904	133	43.18	1	126	1	132	4.0e-32	130	COG1591	Holliday junction resolvase - archaeal type	137
+643420905	174	56.9	1	174	2	175	1.0e-60	225	COG0663	Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily	176
+643420906	264	59.91	33	264	15	244	9.0e-87	313	COG0020	Undecaprenyl pyrophosphate synthase	245
+643420909	627	32.96	2	614	1	589	0.0e+00	483	COG0441	Threonyl-tRNA synthetase	589
+643420910	195	58.82	6	192	1	185	2.0e-57	215	COG1096	Predicted RNA-binding protein (consists of S1 domain and a Zn-ribbon domain)	188
+643420911	210	47.6	4	210	1	204	6.0e-44	170	COG3286	Uncharacterized protein conserved in archaea	204
+643420912	95	41.76	1	91	5	93	2.0e-18	84.2	COG1761	DNA-directed RNA polymerase, subunit L	99
+643420915	268	24.8	15	241	14	242	3.0e-17	82.6	COG1082	Sugar phosphate isomerases/epimerases	274
+643420916	335	36.51	69	311	38	289	2.0e-50	192	COG0616	Periplasmic serine proteases (ClpP class)	317
+643420918	333	22.81	1	330	11	348	3.0e-23	102	COG0628	Predicted permease	355
+643420919	272	40.89	11	272	8	269	2.0e-52	199	COG0294	Dihydropteroate synthase and related enzymes	274
+643420921	325	45.08	1	308	2	312	1.0e-83	303	COG1907	Predicted archaeal sugar kinases	312
+643420922	263	49.59	20	261	2	242	1.0e-60	226	COG4047	Uncharacterized protein conserved in archaea	243
+643420923	288	26.32	1	206	4	212	4.0e-10	59	COG1277	ABC-type transport system involved in multi-copper enzyme maturation, permease component	278
+643420924	305	36.81	1	305	4	292	2.0e-68	252	COG1131	ABC-type multidrug transport system, ATPase component	293
+643420925	421	39.52	1	421	5	458	2.0e-116	413	COG0043	3-polyprenyl-4-hydroxybenzoate decarboxylase and related decarboxylases	477
+643420926	458	30.42	60	448	1	422	2.0e-65	243	COG1061	DNA or RNA helicases of superfamily II	442
+643420927	267	40.45	1	246	2	264	4.0e-64	238	COG0101	Pseudouridylate synthase	266
+643420928	572	30.12	1	568	1	548	2.0e-121	430	COG0072	Phenylalanyl-tRNA synthetase beta subunit	650
+643420929	500	32.25	101	495	1	335	4.0e-85	309	COG0016	Phenylalanyl-tRNA synthetase alpha subunit	335
+643420930	350	39.55	5	347	1	350	9.0e-79	287	COG1063	Threonine dehydrogenase and related Zn-dependent dehydrogenases	350
+643420931	247	32.52	1	245	3	242	5.0e-47	181	COG0455	ATPases involved in chromosome partitioning	262
+643420932	408	52.76	6	408	2	411	0.0e+00	468	COG1257	Hydroxymethylglutaryl-CoA reductase	436
+643420935	630	64.24	1	628	2	631	0.0e+00	853	COG2511	Archaeal Glu-tRNAGln amidotransferase subunit E (contains GAD domain)	631
+643420936	439	39.74	53	426	1	351	5.0e-107	381	COG0252	L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D	351
+643420937	125	54.08	29	125	1	97	2.0e-26	111	COG3357	Predicted transcriptional regulator containing an HTH domain fused to a Zn-ribbon	97
+643420938	386	51.4	1	386	2	393	1.0e-118	420	COG1258	Predicted pseudouridylate synthase	398
+643420939	116	59.38	21	116	1	96	8.0e-33	132	COG2139	Ribosomal protein L21E	98
+643420940	120	42.5	1	120	2	113	6.0e-16	76.4	COG1460	Uncharacterized protein conserved in archaea	114
+643420941	206	59.49	14	205	7	201	1.0e-65	242	COG1491	Predicted RNA-binding protein	202
+643420942	272	41.64	13	271	1	259	1.0e-63	236	COG0030	Dimethyladenosine transferase (rRNA methylation)	259
+643420944	581	59.97	1	579	1	560	0.0e+00	782	COG1031	Uncharacterized Fe-S oxidoreductase	560
+643420948	348	46.42	37	300	1	260	1.0e-75	276	COG1180	Pyruvate-formate lyase-activating enzyme	260
+643420949	240	21.25	3	240	67	266	3.0e-17	82.4	COG0726	Predicted xylanase/chitin deacetylase	267
+643420950	407	27.44	5	384	2	375	5.0e-35	142	COG0438	Glycosyltransferase	381
+643420951	292	25.45	13	291	44	322	4.0e-15	75.5	COG0392	Predicted integral membrane protein	322
+643420952	311	41.64	2	308	5	317	1.0e-71	263	COG0611	Thiamine monophosphate kinase	317
+643420954	421	61.94	3	403	1	402	0.0e+00	590	COG1379	Uncharacterized conserved protein	403
+643420956	573	29.84	441	562	186	304	9.0e-14	72.2	COG4109	Predicted transcriptional regulator containing CBS domains	432
+643420956	573	38.36	6	440	10	443	5.0e-66	246	COG0038	Chloride channel protein EriC	443
+643420957	446	30.25	14	443	6	421	2.0e-41	163	COG0025	NhaP-type Na+/H+ and K+/H+ antiporters	429
+643420958	287	38.89	1	285	1	303	5.0e-58	217	COG0010	Arginase/agmatinase/formimionoglutamate hydrolase, arginase family	305
+643420959	136	32.06	4	134	1	128	2.0e-27	114	COG0231	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	131
+643420961	219	54.79	1	215	2	217	2.0e-72	265	COG1756	Uncharacterized conserved protein	223
+643420962	362	35.26	1	352	2	381	1.0e-77	283	COG1748	Saccharopine dehydrogenase and related proteins	389
+643420963	192	22.73	23	162	3	133	8.0e-07	47.3	COG0622	Predicted phosphoesterase	172
+643420967	371	44.3	61	370	43	353	4.0e-88	318	COG0144	tRNA and rRNA cytosine-C5-methylases	355
+643420968	315	61.41	2	311	1	310	0.0e+00	481	COG0078	Ornithine carbamoyltransferase	310
+643420969	168	36.87	4	162	3	181	5.0e-18	84.1	COG2245	Predicted membrane protein	182
+643420970	245	32.81	1	239	14	267	9.0e-55	206	COG1351	Predicted alternative thymidylate synthase	273
+643420971	218	23.45	82	212	299	442	9.0e-06	44.1	COG0527	Aspartokinases	447
+643420972	543	31.35	2	519	1	484	7.0e-65	242	COG1757	Na+/H+ antiporter	485
+643420974	167	40.43	19	158	1	138	3.0e-33	134	COG0537	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases	138
+643420975	410	55.26	1	404	2	408	0.0e+00	544	COG3635	Predicted phosphoglycerate mutase, AP superfamily	408
+643420976	278	44.4	11	273	7	258	1.0e-71	263	COG0656	Aldo/keto reductases, related to diketogulonate reductase	280
+643420977	618	44	1	603	1	614	0.0e+00	617	COG2414	Aldehyde:ferredoxin oxidoreductase	614
+643420979	241	67.36	1	241	1	219	5.0e-80	290	COG2517	Predicted RNA-binding protein containing a C-terminal EMAP domain	219
+643420982	328	27.25	1	325	1	326	4.0e-47	182	COG0618	Exopolyphosphatase-related proteins	332
+643420984	116	52.59	1	116	1	116	3.0e-15	73.7	COG1382	Prefoldin, chaperonin cofactor	119
+643420985	92	51.95	16	92	4	78	9.0e-20	88.5	COG2892	Uncharacterized protein conserved in archaea	82
+643420986	213	36.87	1	198	3	191	6.0e-40	157	COG2136	Predicted exosome subunit/U3 small nucleolar ribonucleoprotein (snoRNP) component, contains IMP4 domain	191
+643420987	49	61.22	1	49	2	49	1.0e-08	51.5	COG1996	DNA-directed RNA polymerase, subunit RPC10 (contains C4-type Zn-finger)	49
+643420988	86	68.75	1	80	1	80	1.0e-24	104	COG1997	Ribosomal protein L37AE/L43A	89
+643420991	253	29.53	1	253	2	212	4.0e-35	142	COG0602	Organic radical activating enzymes	212
+643420995	440	66.74	4	440	6	450	0.0e+00	589	COG1224	DNA helicase TIP49, TBP-interacting protein	450
+643420999	153	50	1	153	15	167	2.0e-43	168	COG5423	Predicted metal-binding protein	167
+643421000	115	35	58	97	26	65	1.0e-05	42.3	COG1881	Phospholipid-binding protein	174
+643421001	35	51.43	2	35	128	162	1.0e-07	48.1	COG1881	Phospholipid-binding protein	174
+643421005	242	26.64	29	237	10	220	3.0e-10	58.8	COG0785	Cytochrome c biogenesis protein	220
+643421009	128	29.17	8	127	1	119	1.0e-21	95.4	COG2522	Predicted transcriptional regulator	119
+643421010	454	44.1	33	453	155	576	0.0e+00	465	COG1151	6Fe-6S prismane cluster-containing protein	576
+643421013	446	52.87	9	443	3	409	0.0e+00	460	COG2461	Uncharacterized conserved protein	409
+643421014	103	32.97	13	102	20	110	4.0e-10	56.6	COG0662	Mannose-6-phosphate isomerase	127
+643421015	359	30.48	1	359	2	374	5.0e-61	228	COG0006	Xaa-Pro aminopeptidase	384
+643421016	153	42.36	5	146	4	147	2.0e-26	111	COG1522	Transcriptional regulators	154
+643421017	443	51.04	1	428	16	447	0.0e+00	512	COG0160	4-aminobutyrate aminotransferase and related aminotransferases	447
+643421018	433	41.84	9	433	2	433	2.0e-83	303	COG2233	Xanthine/uracil permeases	451
+643421019	194	33.33	3	183	1	177	9.0e-18	83.4	COG2245	Predicted membrane protein	182
+643421020	232	35.26	15	169	12	167	9.0e-35	140	COG1143	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	172
+643421021	391	43.14	12	391	1	398	0.0e+00	468	COG0649	NADH:ubiquinone oxidoreductase 49 kD subunit 7	398
+643421022	177	31.74	12	177	10	172	2.0e-30	125	COG0852	NADH:ubiquinone oxidoreductase 27 kD subunit	176
+643421023	190	40.91	1	176	20	194	4.0e-64	237	COG0377	NADH:ubiquinone oxidoreductase 20 kD subunit and related Fe-S oxidoreductases	194
+643421024	309	36.45	1	308	3	309	8.0e-61	227	COG0650	Formate hydrogenlyase subunit 4	309
+643421025	620	33.92	1	493	1	491	3.0e-65	243	COG0651	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	504
+643421026	495	35.85	8	485	7	494	7.0e-62	232	COG0651	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	504
+643421027	114	51.3	1	114	1	114	2.0e-22	97.6	COG1006	Multisubunit Na+/H+ antiporter, MnhC subunit	115
+643421028	236	27.74	79	226	1	151	3.0e-12	65.4	COG2111	Multisubunit Na+/H+ antiporter, MnhB subunit	162
+643421029	94	42.17	1	83	5	87	3.0e-11	60.3	COG1563	Predicted subunit of the Multisubunit Na+/H+ antiporter	87
+643421030	136	44.83	1	116	1	113	5.0e-29	119	COG1320	Multisubunit Na+/H+ antiporter, MnhG subunit	113
+643421031	84	40.96	1	83	4	86	2.0e-08	50.5	COG2212	Multisubunit Na+/H+ antiporter, MnhF subunit	89
+643421032	168	48.17	7	168	1	158	9.0e-38	149	COG1863	Multisubunit Na+/H+ antiporter, MnhE subunit	158
+643421033	166	53.89	1	166	1	167	3.0e-49	187	COG2150	Predicted regulator of amino acid metabolism, contains ACT domain	167
+643421034	419	62.77	4	419	2	414	0.0e+00	578	COG2100	Predicted Fe-S oxidoreductase	414
+643421035	377	48.3	1	375	4	383	2.0e-119	422	COG0381	UDP-N-acetylglucosamine 2-epimerase	383
+643421036	429	49.09	2	427	1	436	0.0e+00	513	COG0677	UDP-N-acetyl-D-mannosaminuronate dehydrogenase	436
+643421037	375	56	1	348	1	346	3.0e-114	405	COG1817	Uncharacterized protein conserved in archaea	346
+643421038	190	38.12	12	189	23	201	6.0e-18	84.2	COG1300	Uncharacterized membrane protein	207
+643421040	642	36.51	6	642	3	577	0.0e+00	518	COG0018	Arginyl-tRNA synthetase	577
+643421041	293	37.07	1	292	5	294	9.0e-73	267	COG0329	Dihydrodipicolinate synthase/N-acetylneuraminate lyase	299
+643421042	415	61.46	5	414	6	409	0.0e+00	478	COG1503	Peptide chain release factor 1 (eRF1)	411
+643421047	416	13.11	140	374	140	375	9.0e-10	58.3	COG0750	Predicted membrane-associated Zn-dependent proteases 1	375
+643421048	130	61.36	1	130	1	131	6.0e-37	146	COG1786	Uncharacterized conserved protein	131
+643421049	386	54.39	1	386	4	402	0.0e+00	498	COG1679	Uncharacterized conserved protein	403
+643421053	151	33.33	44	148	1	89	6.0e-20	90.2	COG0184	Ribosomal protein S15P/S13E	89
+643421054	476	29.22	1	475	13	490	5.0e-63	235	COG0608	Single-stranded DNA-specific exonuclease	491
+643421056	200	55.96	7	199	4	196	7.0e-68	250	COG1890	Ribosomal protein S3AE	214
+643421057	351	50.57	1	170	2	175	1.0e-38	153	COG1818	Predicted RNA-binding protein, contains THUMP domain	175
+643421058	237	44.77	1	237	9	247	2.0e-48	185	COG1836	Predicted membrane protein	247
+643421059	149	31.54	1	147	2	149	5.0e-18	84	COG1522	Transcriptional regulators	154
+643421060	100	30.43	4	95	11	96	5.0e-09	52.7	COG1694	Predicted pyrophosphatase	102
+643421061	125	33.67	28	124	1	98	1.0e-07	49	COG0640	Predicted transcriptional regulators	110
+643421062	123	27.13	4	123	2	129	2.0e-15	74.4	COG1310	Predicted metal-dependent protease of the PAD1/JAB1 superfamily	134
+643421063	127	52.34	1	127	3	128	2.0e-33	135	COG0251	Putative translation initiation inhibitor, yjgF family	130
+643421065	635	46.43	24	633	10	638	0.0e+00	627	COG1067	Predicted ATP-dependent protease	647
+643421066	248	54.84	1	245	3	248	1.0e-85	309	COG0396	ABC-type transport system involved in Fe-S cluster assembly, ATPase component	251
+643421067	445	31.41	17	444	2	412	6.0e-91	328	COG0719	ABC-type transport system involved in Fe-S cluster assembly, permease component	412
+643421069	149	31.82	1	149	2	153	2.0e-21	95.4	COG0680	Ni,Fe-hydrogenase maturation factor	160
+643421070	429	39.91	4	429	1	428	1.0e-125	443	COG3259	Coenzyme F420-reducing hydrogenase, alpha subunit	441
+643421071	265	41.18	3	246	2	247	1.0e-65	243	COG1941	Coenzyme F420-reducing hydrogenase, gamma subunit	247
+643421072	291	32.01	11	285	1	252	2.0e-46	179	COG0543	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases	252
+643421074	329	36.26	5	264	1	256	2.0e-44	173	COG2116	Formate/nitrite family of transporters	265
+643421075	680	43.59	9	680	268	941	0.0e+00	746	COG3383	Uncharacterized anaerobic dehydrogenase	978
+643421076	163	34.39	1	140	9	165	2.0e-30	125	COG0437	Fe-S-cluster-containing hydrogenase components 1	203
+643421077	125	35.48	2	55	52	112	5.0e-07	46.6	COG1143	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	172
+643421078	352	35.36	3	352	107	453	7.0e-65	241	COG0493	NADPH-dependent glutamate synthase beta chain and related oxidoreductases	457
+643421079	168	33.15	1	166	8	185	8.0e-33	133	COG0437	Fe-S-cluster-containing hydrogenase components 1	203
+643421080	406	35.43	21	401	10	377	3.0e-78	285	COG1454	Alcohol dehydrogenase, class IV	377
+643421082	624	34.34	328	608	22	318	2.0e-47	184	COG0614	ABC-type Fe3+-hydroxamate transport system, periplasmic component	319
+643421084	190	53.97	1	188	1	185	3.0e-56	211	COG3620	Predicted transcriptional regulator with C-terminal CBS domains	187
+643421085	289	26.72	11	141	8	137	1.0e-09	57.1	COG2510	Predicted membrane protein	140
+643421086	275	22.83	9	259	25	272	5.0e-11	61.8	COG0382	4-hydroxybenzoate polyprenyltransferase and related prenyltransferases	289
+643421087	264	35	4	263	3	257	2.0e-48	185	COG4742	Predicted transcriptional regulator	260
+643421090	487	36.63	146	482	1	332	2.0e-55	210	COG0618	Exopolyphosphatase-related proteins	332
+643421091	69	39.19	1	65	4	77	2.0e-08	51	COG1873	Uncharacterized conserved protein	87
+643421093	211	46.23	5	211	4	214	1.0e-55	209	COG1339	Transcriptional regulator of a riboflavin/FAD biosynthetic operon	214
+643421094	189	40.48	4	186	3	210	1.0e-42	166	COG1515	Deoxyinosine 3'endonuclease (endonuclease V)	212
+643421095	205	55.72	3	202	1	201	6.0e-56	210	COG2178	Predicted RNA-binding protein of the translin family	204
+643421096	405	69.08	5	405	1	400	0.0e+00	609	COG1812	Archaeal S-adenosylmethionine synthetase	400
+643421098	180	48.07	1	177	1	180	3.0e-41	161	COG1936	Predicted nucleotide kinase (related to CMP and AMP kinases)	180
+643421099	285	30.66	3	281	26	300	4.0e-34	138	COG0501	Zn-dependent protease with chaperone function	302
+643421100	216	45.54	1	216	4	224	2.0e-57	215	COG2129	Predicted phosphoesterases, related to the Icc protein	226
+643421101	389	50.25	5	387	1	393	4.0e-120	424	COG0436	Aspartate/tyrosine/aromatic aminotransferase	393
+643421102	534	50.09	1	532	2	551	0.0e+00	613	COG2192	Predicted carbamoyl transferase, NodU family	555
+643421104	482	37.3	4	482	10	499	0.0e+00	473	COG0442	Prolyl-tRNA synthetase	500
+643421105	333	43.25	1	320	1	324	1.0e-92	332	COG1052	Lactate dehydrogenase and related dehydrogenases	324
+643421106	331	43.6	1	331	3	346	9.0e-88	317	COG1363	Cellulase M and related proteins	355
+643421107	254	41.34	1	251	4	257	3.0e-21	95.8	COG0730	Predicted permeases	258
+643421109	243	37.35	1	243	4	252	1.0e-17	83.9	COG0730	Predicted permeases	258
+643421112	282	28.17	31	281	19	254	3.0e-27	115	COG2512	Uncharacterized membrane-associated protein/domain	258
+643421114	317	24.91	25	316	14	254	3.0e-24	105	COG2512	Uncharacterized membrane-associated protein/domain	258
+643421115	733	45.08	620	732	2	123	4.0e-26	113	COG0073	EMAP domain	123
+643421115	733	46.13	1	558	4	553	0.0e+00	641	COG0143	Methionyl-tRNA synthetase	558
+643421116	115	36.8	1	114	1	125	2.0e-20	91.2	COG0720	6-pyruvoyl-tetrahydropterin synthase	127
+643421117	156	36.44	3	116	6	121	4.0e-20	90.7	COG1430	Uncharacterized conserved protein	126
+643421118	186	34.01	1	183	2	197	2.0e-28	119	COG1014	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, gamma subunit	203
+643421119	281	41.24	7	274	1	273	5.0e-76	277	COG1013	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, beta subunit	294
+643421120	382	40.05	12	382	5	360	1.0e-83	303	COG0674	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, alpha subunit	365
+643421121	170	39.79	1	170	4	194	9.0e-30	123	COG1014	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, gamma subunit	203
+643421122	284	40.96	13	277	6	274	1.0e-75	276	COG1013	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, beta subunit	294
+643421123	396	39.01	20	395	1	361	3.0e-86	312	COG0674	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, alpha subunit	365
+643421124	90	44.62	25	89	1	61	2.0e-08	50.6	COG1146	Ferredoxin	68
+643421125	323	52.98	3	320	33	347	1.0e-104	373	COG1244	Predicted Fe-S oxidoreductase	358
+643421126	260	42.53	2	257	1	252	5.0e-68	250	COG0496	Predicted acid phosphatase	252
+643421128	301	53.11	1	299	40	340	3.0e-95	341	COG0552	Signal recognition particle GTPase	340
+643421130	407	37.78	1	391	3	341	4.0e-66	245	COG1744	Uncharacterized ABC-type transport system, periplasmic component/surface lipoprotein	345
+643421131	508	55.58	5	504	3	501	0.0e+00	647	COG3845	ABC-type uncharacterized transport systems, ATPase components	501
+643421132	344	39.77	8	344	11	353	9.0e-67	247	COG4603	ABC-type uncharacterized transport system, permease component	356
+643421133	298	43.89	1	298	1	303	2.0e-69	256	COG1079	Uncharacterized ABC-type transport system, permease component	304
+643421134	327	29.57	1	290	7	303	2.0e-33	136	COG0803	ABC-type metal ion transport system, periplasmic component/surface adhesin	303
+643421137	215	45	3	201	1	192	2.0e-49	189	COG2236	Predicted phosphoribosyltransferases	192
+643421138	476	57.77	3	474	2	464	0.0e+00	681	COG0215	Cysteinyl-tRNA synthetase	464
+643421139	349	43.02	3	174	2	157	5.0e-36	145	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerases 2	174
+643421141	250	33.86	3	250	7	256	1.0e-34	140	COG3503	Predicted membrane protein	323
+643421142	641	66.03	3	631	1	593	0.0e+00	778	COG2401	ABC-type ATPase fused to a predicted acetyltransferase domain	593
+643421143	152	58.67	5	151	3	152	7.0e-47	179	COG0054	Riboflavin synthase beta-chain	152
+643421144	388	37.77	6	185	7	194	1.0e-41	164	COG0108	3,4-dihydroxy-2-butanone 4-phosphate synthase	203
+643421144	388	54.69	195	384	2	193	3.0e-63	235	COG0807	GTP cyclohydrolase II	193
+643421145	185	47.12	1	180	1	191	1.0e-55	209	COG0307	Riboflavin synthase alpha chain	204
+643421146	361	35.14	149	352	1	216	2.0e-38	153	COG1985	Pyrimidine reductase, riboflavin biosynthesis	218
+643421146	361	57.82	2	148	3	146	3.0e-55	209	COG0117	Pyrimidine deaminase	146
+643421147	616	44.04	1	614	2	647	0.0e+00	636	COG1505	Serine proteases of the peptidase family S9A	648
+643421148	234	33.75	5	233	4	240	2.0e-33	136	COG0467	RecA-superfamily ATPases implicated in signal transduction	260
+643421149	1389	60.97	871	1383	310	799	0.0e+00	520	COG1201	Lhr-like helicases	814
+643421151	349	34.59	3	346	13	382	2.0e-41	162	COG1215	Glycosyltransferases, probably involved in cell wall biogenesis	439
+643421152	305	40.19	3	305	8	323	5.0e-44	171	COG0306	Phosphate/sulphate permeases	326
+643421153	580	38.13	6	345	1	372	1.0e-107	384	COG0343	Queuine/archaeosine tRNA-ribosyltransferase	372
+643421153	580	57.14	434	579	9	155	4.0e-49	189	COG1370	Prefoldin, molecular chaperone implicated in de novo protein folding, alpha subunit	155
+643421156	381	52.09	1	379	3	373	4.0e-128	451	COG1415	Uncharacterized conserved protein	373
+643421157	242	15.21	14	230	5	213	4.0e-10	58.8	COG1475	Predicted transcriptional regulators	240
+643421158	217	29.91	1	215	3	219	2.0e-28	119	COG0546	Predicted phosphatases	220
+643421162	327	27.14	2	325	12	343	7.0e-37	148	COG4260	Putative virion core protein (lumpy skin disease virus)	345
+643421164	340	35.92	1	335	1	345	1.0e-88	320	COG1363	Cellulase M and related proteins	355
+643421165	294	21.03	3	283	9	297	7.0e-12	64.9	COG0679	Predicted permeases	311
+643421166	134	29.87	63	134	15	91	1.0e-07	48.6	COG4742	Predicted transcriptional regulator	260
+643421171	411	19.67	41	399	51	387	1.0e-06	48.3	COG2814	Arabinose efflux permease	394
+643421172	171	45.2	1	171	5	181	1.0e-47	182	COG2096	Uncharacterized conserved protein	184
+643421173	879	23.35	22	213	188	438	1.0e-12	69.3	COG2374	Predicted extracellular nuclease	798
+643421174	275	40.34	1	272	1	290	4.0e-65	241	COG1184	Translation initiation factor 2B subunit, eIF-2B alpha/beta/delta family	301
+643421175	252	40	1	252	2	253	2.0e-66	245	COG1058	Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis enzyme MoeA	255
+643421176	334	19.42	2	319	1	335	3.0e-69	255	COG0057	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	335
+643421177	368	26.3	1	368	6	408	3.0e-28	119	COG0814	Amino acid permeases	415
+643421178	94	43.3	1	94	3	99	3.0e-19	86.5	COG1872	Uncharacterized conserved protein	102
+643421179	168	51.76	2	162	8	177	5.0e-46	177	COG2306	Uncharacterized conserved protein	183
+643421180	567	56.37	1	567	2	554	0.0e+00	751	COG0423	Glycyl-tRNA synthetase (class II)	558
+643421181	78	40.79	1	72	4	79	2.0e-11	60.7	COG1958	Small nuclear ribonucleoprotein (snRNP) homolog	79
+643421182	62	55.74	1	61	1	60	2.0e-08	51.1	COG2126	Ribosomal protein L37E	61
+643421183	455	38	8	455	17	450	3.0e-74	272	COG0534	Na+-driven multidrug efflux pump	455
+643421184	364	34.56	149	359	13	229	3.0e-23	103	COG1814	Uncharacterized membrane protein	229
+643421185	377	49.62	1	376	1	376	5.0e-122	431	COG1867	N2,N2-dimethylguanosine tRNA methyltransferase	380
+643421186	88	37.93	3	88	8	94	1.0e-17	81.1	COG2451	Ribosomal protein L35AE/L33A	100
+643421188	348	42.55	2	348	13	381	4.0e-89	322	COG0006	Xaa-Pro aminopeptidase	384
+643421189	357	54.44	1	357	1	352	2.0e-104	373	COG1537	Predicted RNA-binding proteins	352
+643421190	332	35.45	5	324	10	334	4.0e-57	215	COG0309	Hydrogenase maturation factor	339
+643421191	264	25.54	1	264	2	271	6.0e-24	104	COG0037	Predicted ATPase of the PP-loop superfamily implicated in cell cycle control	298
+643421192	132	44.74	17	130	1	103	1.0e-20	91.8	COG4818	Predicted membrane protein	105
+643421193	75	38.89	3	73	1	72	5.0e-11	59.4	COG1918	Fe2+ transport system protein A	75
+643421194	658	49.18	1	657	2	652	0.0e+00	724	COG0370	Fe2+ transport system protein B	653
+643421196	413	38.86	1	364	2	358	3.0e-76	279	COG1208	Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon)	358
+643421197	267	26.07	56	264	49	245	1.0e-24	107	COG1624	Uncharacterized conserved protein	247
+643421198	161	53.85	1	160	3	171	2.0e-64	237	COG0163	3-polyprenyl-4-hydroxybenzoate decarboxylase	191
+643421199	160	32.26	1	154	3	152	1.0e-16	78.9	COG1522	Transcriptional regulators	154
+643421200	173	52.87	1	164	2	174	7.0e-31	126	COG1437	Adenylate cyclase, class 2 (thermophilic)	178
+643421202	330	21.03	37	254	22	266	4.0e-09	55.7	COG2342	Predicted extracellular endo alpha-1,4 polygalactosaminidase or related polysaccharide hydrolase	300
+643421203	397	34.1	1	390	3	366	1.0e-101	363	COG0012	Predicted GTPase, probable translation factor	372
+643421204	64	43.4	6	58	194	246	3.0e-11	59.9	COG1237	Metal-dependent hydrolases of the beta-lactamase superfamily II	259
+643421205	39	56.41	1	39	284	322	8.0e-10	55.4	COG0598	Mg2+ and Co2+ transporters	322
+643421206	229	41.05	3	228	1	229	9.0e-64	236	COG1794	Aspartate racemase	230
+643421207	114	23.58	8	113	23	128	1.0e-13	68.3	COG1917	Uncharacterized conserved protein, contains double-stranded beta-helix domain	131
+643421208	455	35.27	1	455	1	453	4.0e-97	348	COG0312	Predicted Zn-dependent proteases and their inactivated homologs	454
+643421209	441	29.35	9	441	14	454	3.0e-78	286	COG0312	Predicted Zn-dependent proteases and their inactivated homologs	454
+643421210	331	50.44	1	331	3	341	2.0e-90	326	COG2520	Predicted methyltransferase	341
+643421213	385	46.49	16	356	1	336	2.0e-85	309	COG2419	Uncharacterized conserved protein	336
+643421214	193	22.16	6	178	1	176	9.0e-14	70.4	COG1633	Uncharacterized conserved protein	176
+643421215	884	43.08	2	884	1	876	0.0e+00	995	COG0525	Valyl-tRNA synthetase	877
+643421216	272	39.81	44	142	54	153	3.0e-14	72.6	COG2226	Methylase involved in ubiquinone/menaquinone biosynthesis	238
+643421217	320	36.84	10	318	12	351	5.0e-65	241	COG0079	Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase	356
+643421218	294	43.53	1	290	3	319	8.0e-74	270	COG1270	Cobalamin biosynthesis protein CobD/CbiB	320
+643421219	248	27.49	103	245	33	201	5.0e-12	65	COG1573	Uracil-DNA glycosylase	202
+643421221	213	41.43	1	203	1	210	1.0e-49	190	COG2102	Predicted ATPases of PP-loop superfamily	223
+643421222	136	28.39	5	133	5	159	4.0e-21	93.8	COG1267	Phosphatidylglycerophosphatase A and related proteins	160
+643421223	233	36.97	1	227	5	242	2.0e-35	142	COG0368	Cobalamin-5-phosphate synthase	246
+643421224	371	43.19	106	360	25	278	9.0e-67	247	COG2342	Predicted extracellular endo alpha-1,4 polygalactosaminidase or related polysaccharide hydrolase	300
+643421225	181	39.01	1	178	2	171	4.0e-40	157	COG2266	GTP:adenosylcobinamide-phosphate guanylyltransferase	177
+643421226	484	45.75	2	483	1	486	0.0e+00	475	COG1492	Cobyric acid synthase	486
+643421227	335	37.28	2	328	23	347	6.0e-75	274	COG2038	NaMN:DMB phosphoribosyltransferase	347
+643421228	195	43	1	194	2	199	6.0e-48	184	COG1865	Uncharacterized conserved protein	200
+643421229	171	50.31	7	166	1	157	1.0e-43	169	COG0521	Molybdopterin biosynthesis enzymes	169
+643421230	396	47.79	2	396	1	401	3.0e-117	415	COG0303	Molybdopterin biosynthesis enzyme	404
+643421234	427	20.92	14	420	29	431	2.0e-19	90.7	COG1541	Coenzyme F390 synthetase	438
+643421235	416	41.18	1	414	1	416	1.0e-96	347	COG1078	HD superfamily phosphohydrolases	421
+643421236	319	46.52	2	313	1	313	1.0e-73	270	COG1395	Predicted transcriptional regulator	313
+643421237	177	33.9	10	176	5	180	2.0e-21	95.8	COG1670	Acetyltransferases, including N-acetylases of ribosomal proteins	187
+643421238	427	48.59	1	422	1	418	2.0e-128	452	COG1571	Predicted DNA-binding protein containing a Zn-ribbon domain	421
+643421239	390	24.41	44	367	42	358	6.0e-22	98.9	COG1373	Predicted ATPase (AAA+ superfamily)	398
+643421240	335	50.3	5	334	1	312	3.0e-112	398	COG1899	Deoxyhypusine synthase	318
+643421241	348	32.46	16	328	125	456	3.0e-51	195	COG0493	NADPH-dependent glutamate synthase beta chain and related oxidoreductases	457
+643421242	268	29.06	5	263	1	251	1.0e-27	117	COG1028	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	251
+643421243	380	26.55	1	377	11	402	8.0e-60	224	COG1228	Imidazolonepropionase and related amidohydrolases	406
+643421244	290	37.41	3	288	26	302	1.0e-42	167	COG0501	Zn-dependent protease with chaperone function	302
+643421246	550	48.97	14	535	2	524	0.0e+00	498	COG0459	Chaperonin GroEL (HSP60 family)	524
+643421248	220	55.5	1	218	1	204	3.0e-63	235	COG3642	Mn2+-dependent serine/threonine protein kinase	204
+643421249	419	28.65	22	404	41	407	4.0e-29	122	COG0840	Methyl-accepting chemotaxis protein	408
+643421250	576	26.06	4	566	148	723	3.0e-57	216	COG1193	Mismatch repair ATPase (MutS family)	753
+643421252	156	58.06	1	153	1	148	6.0e-52	196	COG0315	Molybdenum cofactor biosynthesis enzyme	157
+643421253	479	52.94	21	479	4	432	0.0e+00	596	COG1690	Uncharacterized conserved protein	432
+643421254	148	39.23	18	146	1	127	2.0e-27	114	COG3270	Uncharacterized conserved protein	127
+643421255	312	37.7	3	308	50	355	9.0e-75	273	COG0144	tRNA and rRNA cytosine-C5-methylases	355
+643421256	297	59.71	159	297	3	137	1.0e-41	163	COG1371	Uncharacterized conserved protein	137
+643421257	285	56.34	3	267	1	268	1.0e-101	362	COG0413	Ketopantoate hydroxymethyltransferase	268
+643421258	221	29.09	5	221	3	216	2.0e-20	92.9	COG0463	Glycosyltransferases involved in cell wall biogenesis	291
+643421263	148	27.7	2	142	5	152	2.0e-21	95	COG4087	Soluble P-type ATPase	152
+643421264	205	42.93	1	197	2	199	4.0e-46	177	COG1739	Uncharacterized conserved protein	203
+643421265	891	35.14	1	612	22	622	0.0e+00	482	COG1205	Distinct helicase family with a unique C-terminal domain including a metal-binding cysteine cluster	851
+643421267	591	66.33	1	589	3	591	0.0e+00	970	COG1245	Predicted ATPase, RNase L inhibitor (RLI) homolog	591
+643421270	394	29.11	4	373	2	336	5.0e-36	145	COG2247	Putative cell wall-binding domain	337
+643421271	276	51.79	2	194	1	187	7.0e-57	214	COG4902	Uncharacterized protein conserved in archaea	189
+643421274	98	30.95	5	88	2	85	3.0e-08	50	COG1777	Predicted transcriptional regulators	217
+643421276	330	38.81	4	330	10	339	6.0e-82	297	COG0309	Hydrogenase maturation factor	339
+643421277	290	35.94	10	263	5	257	6.0e-42	164	COG2810	Predicted type IV restriction endonuclease	284
+643421278	248	63.71	1	246	4	249	3.0e-79	288	COG2014	Uncharacterized conserved protein	250
+643421279	263	24.14	1	254	1	246	2.0e-21	96.2	COG0121	Predicted glutamine amidotransferase	252
+643421280	135	28.46	7	128	151	273	1.0e-19	88.8	COG2905	Predicted signal-transduction protein containing cAMP-binding and CBS domains	610
+643421281	503	27.93	2	274	1	290	1.0e-42	167	COG1409	Predicted phosphohydrolases	301
+643421282	296	51.52	1	292	1	295	1.0e-84	306	COG2074	2-phosphoglycerate kinase	299
+643421283	432	28.76	3	431	10	436	4.0e-82	298	COG2403	Predicted GTPase	449
+643421285	292	23.95	1	232	10	241	8.0e-16	78	COG0491	Zn-dependent hydrolases, including glyoxylases	252
+643421286	214	25.87	16	210	19	188	8.0e-18	83.9	COG1468	RecB family exonuclease	190
+643421288	279	46.89	11	278	69	341	6.0e-74	271	COG2520	Predicted methyltransferase	341
+643421289	621	45.85	3	612	1	614	0.0e+00	624	COG2414	Aldehyde:ferredoxin oxidoreductase	614
+643421292	102	43.69	1	102	3	104	3.0e-28	116	COG0051	Ribosomal protein S10	104
+643421293	428	64.76	1	426	1	428	0.0e+00	613	COG5256	Translation elongation factor EF-1alpha (GTPase)	428
+643421294	130	38.95	1	95	246	320	1.0e-06	45.5	COG1672	Predicted ATPase (AAA+ superfamily)	359
+643421295	178	42.33	1	163	1	142	2.0e-18	85.6	COG1672	Predicted ATPase (AAA+ superfamily)	359
+643421296	732	36.33	15	718	4	697	0.0e+00	655	COG0480	Translation elongation factors (GTPases)	697
+643421297	354	37.71	1	349	3	412	4.0e-70	258	COG1078	HD superfamily phosphohydrolases	421
+643421298	268	37.76	3	268	5	282	3.0e-65	241	COG1469	Uncharacterized conserved protein	289
+643421302	136	56.92	1	129	4	133	4.0e-30	123	COG1710	Uncharacterized protein conserved in archaea	139
+643421303	415	49.79	3	415	2	470	4.0e-94	338	COG1771	Uncharacterized protein conserved in archaea	471
+643421304	386	46.15	21	383	8	356	1.0e-117	416	COG1697	DNA topoisomerase VI, subunit A	356
+643421305	563	56.44	1	546	1	509	0.0e+00	663	COG1389	DNA topoisomerase VI, subunit B	538
+643421306	234	50.26	34	224	5	194	2.0e-51	195	COG1094	Predicted RNA-binding protein (contains KH domains)	194
+643421307	259	52.4	8	255	6	252	4.0e-73	267	COG1718	Serine/threonine protein kinase involved in cell cycle control	268
+643421308	118	32.89	22	96	1	75	6.0e-18	82.9	COG0361	Translation initiation factor 1 (IF-1)	75
+643421309	264	37.16	1	259	2	254	2.0e-63	235	COG1121	ABC-type Mn/Zn transport systems, ATPase component	254
+643421310	273	21.25	1	273	9	267	1.0e-21	97.1	COG1108	ABC-type Mn2+/Zn2+ transport systems, permease components	274
+643421311	227	36.11	4	215	3	198	2.0e-48	186	COG0164	Ribonuclease HII	199
+643421312	461	41.55	35	448	56	429	2.0e-85	310	COG4346	Predicted membrane-bound dolichyl-phosphate-mannose-protein mannosyltransferase	438
+643421313	382	28.81	5	159	196	372	3.0e-09	56.9	COG2265	SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase	432
+643421315	602	53.47	1	602	1	597	0.0e+00	783	COG0449	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	597
+643421316	954	20.86	31	726	18	701	5.0e-56	213	COG1287	Uncharacterized membrane protein, required for N-linked glycosylation	773
+643421318	223	27.43	1	194	13	238	3.0e-27	115	COG2226	Methylase involved in ubiquinone/menaquinone biosynthesis	238
+643421319	93	51.65	1	91	2	92	3.0e-23	99	COG0011	Uncharacterized conserved protein	100
+643421320	94	39.36	1	94	2	84	1.0e-12	65	COG1977	Molybdopterin converting factor, small subunit	84
+643421321	224	37.56	1	211	1	178	5.0e-39	154	COG0563	Adenylate kinase and related kinases	178
+643421322	148	53.42	2	147	36	181	6.0e-27	113	COG4345	Uncharacterized protein conserved in archaea	181
+643421323	203	51.01	1	197	1	193	5.0e-59	220	COG1901	Uncharacterized conserved protein	197
+643421324	752	24.03	470	609	1	154	1.0e-09	58.8	COG0589	Universal stress protein UspA and related nucleotide-binding proteins	154
+643421324	752	29.37	9	448	9	443	1.0e-49	191	COG0531	Amino acid transporters	466
+643421326	473	46.75	6	473	5	477	0.0e+00	523	COG0469	Pyruvate kinase	477
+643421327	153	56.12	11	149	18	155	7.0e-46	176	COG1225	Peroxiredoxin	157
+643421330	350	60.53	16	350	2	335	0.0e+00	466	COG1313	Uncharacterized Fe-S protein PflX, homolog of pyruvate formate lyase activating proteins	335
+643421331	212	26.46	22	209	9	173	2.0e-24	105	COG1913	Predicted Zn-dependent proteases	181
+643421332	285	63.41	10	284	4	274	2.0e-88	318	COG1689	Uncharacterized protein conserved in archaea	274
+643421336	123	45.97	2	123	1	124	8.0e-23	99.1	COG0239	Integral membrane protein possibly involved in chromosome condensation	126
+643421337	126	55.05	4	112	1	109	1.0e-34	138	COG1993	Uncharacterized conserved protein	109
+643421339	404	45.79	15	404	1	392	8.0e-96	344	COG0452	Phosphopantothenoylcysteine synthetase/decarboxylase	392
+643421340	245	35.57	2	245	51	302	8.0e-35	140	COG0668	Small-conductance mechanosensitive channel	316
+643421341	240	28.23	1	240	3	243	6.0e-29	121	COG0455	ATPases involved in chromosome partitioning	262
+643421342	226	45.65	1	226	1	229	3.0e-73	268	COG1794	Aspartate racemase	230
+643421343	97	32.99	1	95	6	102	1.0e-12	65	COG1694	Predicted pyrophosphatase	102
+643421345	473	38.09	1	468	1	449	8.0e-108	384	COG0312	Predicted Zn-dependent proteases and their inactivated homologs	454
+643421346	440	29.26	1	438	1	454	2.0e-84	306	COG0312	Predicted Zn-dependent proteases and their inactivated homologs	454
+643421347	202	31.3	61	190	107	225	8.0e-13	67.4	COG3863	Uncharacterized distant relative of cell wall-associated hydrolases	231
+643421348	485	23.04	93	475	49	433	4.0e-16	79.9	COG2271	Sugar phosphate permease	448
+643421349	155	57.55	13	151	1	139	1.0e-34	138	COG2426	Predicted membrane protein	142
+643421352	177	33.33	6	149	99	240	2.0e-19	89.2	COG3398	Uncharacterized protein conserved in archaea	240
+643421353	171	39.68	75	137	82	144	8.0e-09	53.5	COG3212	Predicted membrane protein	144
+643421354	290	21.71	7	287	40	320	2.0e-14	73.5	COG0392	Predicted integral membrane protein	322
+643421355	407	30.47	5	378	2	378	5.0e-45	175	COG0438	Glycosyltransferase	381
+643421357	193	42.05	4	193	1	188	5.0e-39	154	COG2411	Uncharacterized conserved protein	188
+643421358	242	36.6	1	227	3	229	4.0e-32	131	COG1011	Predicted hydrolase (HAD superfamily)	229
+643421360	250	49.6	1	250	1	249	1.0e-86	312	COG0846	NAD-dependent protein deacetylases, SIR2 family	250
+643421361	394	23.63	64	394	14	377	2.0e-29	123	COG0814	Amino acid permeases	415
+643421362	427	42.37	8	416	10	413	0.0e+00	495	COG0112	Glycine/serine hydroxymethyltransferase	413
+643421365	110	47.32	1	109	2	113	7.0e-28	115	COG1594	DNA-directed RNA polymerase, subunit M/Transcription elongation factor TFIIS	113
+643421367	249	33.33	3	248	61	324	1.0e-31	130	COG0592	DNA polymerase sliding clamp subunit (PCNA homolog)	364
+643421368	189	30.56	1	188	1	215	2.0e-14	72.7	COG1711	Uncharacterized protein conserved in archaea	223
+643421369	636	27.57	4	636	46	764	8.0e-118	417	COG0243	Anaerobic dehydrogenases, typically selenocysteine-containing	765
+643421370	216	41.62	1	194	2	194	1.0e-61	229	COG0450	Peroxiredoxin	194
+643421373	283	41.1	1	280	2	293	6.0e-67	247	COG1131	ABC-type multidrug transport system, ATPase component	293
+643421375	105	23.91	14	104	42	133	4.0e-07	46.8	COG3118	Thioredoxin domain-containing protein	304
+643421376	800	48.57	1	70	2	71	2.0e-12	68.5	COG2608	Copper chaperone	71
+643421376	800	49.04	70	797	1	709	0.0e+00	797	COG2217	Cation transport ATPase	713
+643421377	202	35.71	1	131	3	138	8.0e-16	77	COG1522	Transcriptional regulators	154
+643421379	204	33.77	1	204	7	237	2.0e-27	115	COG2226	Methylase involved in ubiquinone/menaquinone biosynthesis	238
+643421380	77	30.14	5	74	45	115	1.0e-07	48.3	COG3462	Predicted membrane protein	117
+643421381	642	46.78	5	637	86	704	0.0e+00	685	COG2217	Cation transport ATPase	713
+643421384	68	44.29	1	68	1	70	3.0e-09	53.9	COG2608	Copper chaperone	71
+643421385	125	25.98	3	123	11	136	1.0e-05	42.2	COG3439	Uncharacterized conserved protein	137
+643421386	122	34.43	3	122	13	134	2.0e-30	124	COG1832	Predicted CoA-binding protein	140
+643421387	285	35.35	4	269	9	304	5.0e-38	151	COG0672	High-affinity Fe2+/Pb2+ permease	383
+643421388	189	50.79	1	186	2	188	1.0e-62	232	COG0450	Peroxiredoxin	194
+643421389	191	31.07	1	171	1	176	6.0e-17	80.8	COG0431	Predicted flavoprotein	184
+643421390	371	19.53	16	344	46	386	3.0e-28	119	COG0719	ABC-type transport system involved in Fe-S cluster assembly, permease component	412
+643421391	475	41.11	40	467	1	408	5.0e-108	385	COG0719	ABC-type transport system involved in Fe-S cluster assembly, permease component	412
+643421392	247	50.21	1	240	3	245	5.0e-82	297	COG0396	ABC-type transport system involved in Fe-S cluster assembly, ATPase component	251
+643421393	174	48.77	1	162	1	162	3.0e-50	191	COG1528	Ferritin-like protein	167
+643421394	363	42.82	2	361	5	372	2.0e-87	316	COG0301	Thiamine biosynthesis ATP pyrophosphatase	383
+643421395	324	35.12	8	231	11	252	2.0e-38	153	COG0476	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2	254
+643421396	179	34.02	1	158	3	191	2.0e-22	98.9	COG0778	Nitroreductase	207
+643421398	109	46.02	1	109	1	113	2.0e-25	107	COG3370	Uncharacterized protein conserved in archaea	113
+643421399	431	28.25	199	412	8	220	6.0e-18	85.7	COG0785	Cytochrome c biogenesis protein	220
+643421401	570	24.27	5	190	1	203	9.0e-18	85.4	COG1014	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, gamma subunit	203
+643421401	570	35.7	199	569	1	362	3.0e-75	276	COG0674	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, alpha subunit	365
+643421402	293	40.5	20	291	15	292	9.0e-77	280	COG1013	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, beta subunit	294
+643421403	150	37.42	1	149	3	153	2.0e-33	134	COG1225	Peroxiredoxin	157
+643421404	409	37.22	13	406	9	388	4.0e-100	358	COG0426	Uncharacterized flavoproteins	388
+643421405	179	24.85	1	154	12	176	2.0e-08	52.3	COG1633	Uncharacterized conserved protein	176
+643421406	361	32.79	1	345	4	372	2.0e-55	210	COG1251	NAD(P)H-nitrite reductase	793
+643421407	171	55.56	5	171	2	166	1.0e-46	178	COG1592	Rubrerythrin	166
+643421408	53	62.26	1	53	1	53	5.0e-15	72.6	COG1773	Rubredoxin	55
+643421409	115	61.74	1	115	23	126	6.0e-35	139	COG2033	Desulfoferrodoxin	126
+643421411	116	28.21	12	89	1	78	7.0e-09	52.6	COG2151	Predicted metal-sulfur cluster biosynthetic enzyme	111
+643421412	174	29.88	7	165	12	174	6.0e-18	83.9	COG1633	Uncharacterized conserved protein	176
+643421413	104	34.57	17	97	18	98	9.0e-11	58.5	COG1633	Uncharacterized conserved protein	176
+643421414	159	31.17	1	149	23	176	1.0e-15	75.8	COG1633	Uncharacterized conserved protein	176
+643421415	174	32.46	54	162	24	133	9.0e-07	46.8	COG3153	Predicted acetyltransferase	171
+643421418	197	27.74	24	178	21	173	8.0e-10	57.3	COG1633	Uncharacterized conserved protein	176
+643421419	295	23.84	5	256	13	314	2.0e-24	106	COG3705	ATP phosphoribosyltransferase involved in histidine biosynthesis	390
+643421420	205	52.61	1	201	3	213	2.0e-53	201	COG0040	ATP phosphoribosyltransferase	290
+643421421	377	45.8	9	377	29	421	3.0e-124	438	COG0141	Histidinol dehydrogenase	425
+643421422	176	43.55	3	176	10	195	2.0e-42	165	COG0131	Imidazoleglycerol-phosphate dehydratase	195
+643421423	195	52.68	1	195	3	202	4.0e-66	244	COG0118	Glutamine amidotransferase	204
+643421424	229	42.5	1	228	2	239	1.0e-54	206	COG0106	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	241
+643421425	252	65.88	1	250	1	255	6.0e-105	373	COG0107	Imidazoleglycerol-phosphate synthase	256
+643421426	208	53.93	123	208	1	89	3.0e-23	102	COG0140	Phosphoribosyl-ATP pyrophosphohydrolase	92
+643421426	208	59.63	1	107	4	111	1.0e-39	156	COG0139	Phosphoribosyl-AMP cyclohydrolase	111
+643421427	335	41.5	2	335	1	356	9.0e-83	300	COG0079	Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase	356
+643421428	240	23	1	204	4	174	4.0e-06	45.5	COG0546	Predicted phosphatases	220
+643421429	262	48.29	1	257	2	264	5.0e-66	244	COG0345	Pyrroline-5-carboxylate reductase	266
+643421430	234	37.55	1	234	2	241	7.0e-34	137	COG0467	RecA-superfamily ATPases implicated in signal transduction	260
+643421432	331	37.82	1	331	2	346	1.0e-72	266	COG1041	Predicted DNA modification methylase	347
+643421433	237	33.07	1	237	1	238	2.0e-39	156	COG1583	Uncharacterized protein predicted to be involved in DNA repair (RAMP superfamily)	240
+643421434	777	30.63	5	734	6	739	2.0e-91	330	COG1353	Predicted hydrolase of the HD superfamily (permuted catalytic motifs)	799
+643421435	186	30.4	60	184	14	135	1.0e-20	93.1	COG1421	Uncharacterized protein predicted to be involved in DNA repair	137
+643421436	290	41.73	1	267	1	238	2.0e-55	209	COG1337	Uncharacterized protein predicted to be involved in DNA repair (RAMP superfamily)	249
+643421437	289	30.84	7	287	15	312	4.0e-43	168	COG1567	Uncharacterized protein predicted to be involved in DNA repair (RAMP superfamily)	313
+643421438	397	29.68	3	397	2	366	5.0e-63	235	COG1332	Uncharacterized protein predicted to be involved in DNA repair (RAMP superfamily)	369
+643421439	432	25.63	1	389	2	377	3.0e-42	166	COG1517	Uncharacterized protein predicted to be involved in DNA repair	406
+643421440	214	38.75	1	214	1	236	1.0e-53	203	COG2872	Predicted metal-dependent hydrolases related to alanyl-tRNA synthetase HxxxH domain	241
+643421442	424	44.44	7	416	1	400	4.0e-90	325	COG1301	Na+/H+-dicarboxylate symporters	415
+643421443	340	45.57	112	338	1	236	3.0e-58	219	COG0340	Biotin-(acetyl-CoA carboxylase) ligase	238
+643421444	281	44.53	1	273	1	265	1.0e-79	290	COG1830	DhnA-type fructose-1,6-bisphosphate aldolase and related enzymes	265
+643421445	594	61.89	1	451	5	457	0.0e+00	658	COG5016	Pyruvate/oxaloacetate carboxyltransferase	472
+643421446	566	40.67	1	557	1	553	8.0e-123	434	COG1966	Carbon starvation protein, predicted membrane protein	575
+643421448	330	38.68	10	326	1	301	2.0e-68	253	COG0003	Oxyanion-translocating ATPase	322
+643421451	263	35.87	2	260	23	298	1.0e-52	199	COG2267	Lysophospholipase	298
+643421452	339	40.79	1	337	1	427	3.0e-115	408	COG0104	Adenylosuccinate synthase	430
+643421453	308	42.9	4	308	1	314	6.0e-61	227	COG0451	Nucleoside-diphosphate-sugar epimerases	314
+643421455	147	44.37	1	142	1	141	6.0e-21	93.4	COG1730	Predicted prefoldin, molecular chaperone implicated in de novo protein folding	145
+643421456	295	50	1	293	2	284	3.0e-86	312	COG1149	MinD superfamily P-loop ATPase containing an inserted ferredoxin domain	284
+643421457	289	48.25	1	285	2	284	5.0e-87	314	COG1149	MinD superfamily P-loop ATPase containing an inserted ferredoxin domain	284
+643421459	179	39.33	7	178	3	174	2.0e-35	141	COG4344	Uncharacterized protein conserved in archaea	175
+643421460	197	51.28	1	117	1	115	1.0e-29	122	COG1433	Uncharacterized conserved protein	121
+643421462	135	46.72	1	122	1	121	9.0e-31	125	COG1433	Uncharacterized conserved protein	121
+643421464	204	37.13	3	200	61	251	8.0e-28	117	COG1028	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	251
+643421465	193	37.22	1	180	1	174	3.0e-23	101	COG3371	Predicted membrane protein	181
+643421466	139	43.8	2	137	5	139	1.0e-32	131	COG1661	Predicted DNA-binding protein with PD1-like DNA-binding motif	141
+643421468	152	32	8	127	3	122	2.0e-15	75.4	COG0720	6-pyruvoyl-tetrahydropterin synthase	127
+643421469	118	56.7	13	109	1	94	2.0e-29	121	COG1342	Predicted DNA-binding proteins	99
+643421470	451	54.79	6	441	1	438	0.0e+00	552	COG0015	Adenylosuccinate lyase	438
+643421471	91	76.92	1	91	1	91	4.0e-31	126	COG1581	Archaeal DNA-binding protein	91
+643421472	209	25.74	1	100	1	101	1.0e-05	43.8	COG4189	Predicted transcriptional regulator	308
+643421473	181	33.61	7	127	151	271	6.0e-21	93.8	COG2905	Predicted signal-transduction protein containing cAMP-binding and CBS domains	610
+643421474	172	52.98	1	163	6	173	8.0e-45	173	COG1618	Predicted nucleotide kinase	179
+643421475	356	60.06	12	355	1	346	0.0e+00	501	COG0182	Predicted translation initiation factor 2B subunit, eIF-2B alpha/beta/delta family	346
+643421477	377	41.75	1	374	3	377	2.0e-97	349	COG1454	Alcohol dehydrogenase, class IV	377
+643421478	925	38.23	1	797	8	814	0.0e+00	725	COG1201	Lhr-like helicases	814
+643421479	350	25	1	349	10	408	1.0e-37	150	COG0624	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	409
+643421480	233	28.89	9	229	7	224	5.0e-25	108	COG0491	Zn-dependent hydrolases, including glyoxylases	252
+643421481	87	46.05	6	80	2	77	1.0e-14	71.1	COG1531	Uncharacterized protein conserved in archaea	77
+643421482	252	35.14	1	250	3	256	2.0e-57	216	COG0084	Mg-dependent DNase	256
+643421484	526	22.74	235	503	6	274	3.0e-19	90	COG0294	Dihydropteroate synthase and related enzymes	274
+643421485	248	29.43	12	248	2	243	8.0e-44	170	COG1801	Uncharacterized conserved protein	263
+643421486	334	53.05	1	324	1	324	4.0e-108	384	COG1052	Lactate dehydrogenase and related dehydrogenases	324
+643421487	404	42.82	28	399	83	452	2.0e-95	343	COG1167	Transcriptional regulators containing a DNA-binding HTH domain and an aminotransferase domain (MocR family) and their eukaryotic orthologs	459
+643421488	419	38.85	1	412	4	432	2.0e-98	353	COG2265	SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase	432
+643421489	597	36.57	2	566	1	509	0.0e+00	465	COG0532	Translation initiation factor 2 (IF-2; GTPase)	509
+643421492	170	66.42	6	142	2	135	6.0e-56	209	COG0105	Nucleoside diphosphate kinase	135
+643421493	68	58.46	2	66	1	65	4.0e-20	89.6	COG2075	Ribosomal protein L24E	66
+643421494	70	73.91	1	69	1	69	6.0e-18	82.3	COG2053	Ribosomal protein S28E/S33	69
+643421495	123	54.24	5	122	1	116	4.0e-25	106	COG1358	Ribosomal protein HS6-type (S12/L30/L7a)	116
+643421496	203	55.05	1	194	3	199	6.0e-52	197	COG1326	Uncharacterized archaeal Zn-finger protein	201
+643421497	315	18.93	83	315	18	255	1.0e-10	60.8	COG2512	Uncharacterized membrane-associated protein/domain	258
+643421498	630	51.24	4	204	6	200	3.0e-58	220	COG5270	PUA domain (predicted RNA-binding domain)	202
+643421499	318	47.21	4	263	1	268	2.0e-51	196	COG0330	Membrane protease subunits, stomatin/prohibitin homologs	291
+643421500	137	30.15	5	137	5	140	3.0e-14	71.1	COG1585	Membrane protein implicated in regulation of membrane protease activity	140
+643421501	420	33.74	8	404	13	416	5.0e-73	268	COG0402	Cytosine deaminase and related metal-dependent hydrolases	421
+643421502	430	50	1	430	1	435	0.0e+00	536	COG0017	Aspartyl/asparaginyl-tRNA synthetases	435
+643421505	380	49.12	1	336	1	336	4.0e-108	385	COG4143	ABC-type thiamine transport system, periplasmic component	336
+643421506	311	40.78	1	302	8	316	1.0e-46	180	COG0530	Ca2+/Na+ antiporter	320
+643421507	170	34.21	16	162	12	163	9.0e-25	106	COG1432	Uncharacterized conserved protein	181
+643421508	170	33.77	24	169	16	166	8.0e-25	106	COG1432	Uncharacterized conserved protein	181
+643421510	810	44.38	19	810	1	756	0.0e+00	802	COG1444	Predicted P-loop ATPase fused to an acetyltransferase	758
+643421511	631	36.82	1	630	1	618	0.0e+00	473	COG1506	Dipeptidyl aminopeptidases/acylaminoacyl-peptidases	620
+643421512	196	29.21	1	193	5	192	5.0e-16	77.7	COG0746	Molybdopterin-guanine dinucleotide biosynthesis protein A	192
+643421515	171	50	1	168	5	177	3.0e-28	118	COG1268	Uncharacterized conserved protein	184
+643421516	263	52.65	1	223	3	228	7.0e-71	260	COG1122	ABC-type cobalt transport system, ATPase component	235
+643421517	253	32.16	1	244	1	252	2.0e-23	102	COG0619	ABC-type cobalt transport system, permease component CbiQ and related transporters	252
+643421520	263	42.59	1	262	3	271	3.0e-58	218	COG1967	Predicted membrane protein	271
+643421521	846	64.22	1	828	1	829	0.0e+00	1145	COG1202	Superfamily II helicase, archaea-specific	830
+643421522	153	32.43	1	148	3	149	8.0e-21	93.2	COG1522	Transcriptional regulators	154
+643421523	375	24.21	1	363	1	359	2.0e-71	263	COG0162	Tyrosyl-tRNA synthetase	401
+643421525	483	26.86	87	361	36	299	3.0e-25	110	COG1840	ABC-type Fe3+ transport system, periplasmic component	299
+643421526	614	28.72	19	610	7	538	6.0e-65	242	COG1178	ABC-type Fe3+ transport system, permease component	540
+643421527	354	50.85	1	351	3	352	8.0e-118	417	COG3842	ABC-type spermidine/putrescine transport systems, ATPase components	352
+643421528	199	32.79	5	182	10	186	9.0e-20	90.4	COG2457	Uncharacterized conserved protein	199
+643421529	672	20.46	195	441	34	264	7.0e-10	59.6	COG1409	Predicted phosphohydrolases	301
+643421531	712	28.69	20	135	174	292	7.0e-07	49.9	COG1715	Restriction endonuclease	308
+643421532	414	42.86	1	403	4	395	1.0e-127	450	COG0126	3-phosphoglycerate kinase	395
+643421534	254	27.43	20	251	46	282	8.0e-11	61.1	COG0842	ABC-type multidrug transport system, permease component	286
+643421535	328	46.58	1	306	2	293	7.0e-85	307	COG1131	ABC-type multidrug transport system, ATPase component	293
+643421536	149	35.04	1	131	1	137	4.0e-09	54.5	COG1695	Predicted transcriptional regulators	138
+643421538	243	42.79	24	229	3	207	2.0e-64	238	COG0177	Predicted EndoIII-related endonuclease	211
+643421539	192	51.03	1	192	5	198	3.0e-53	201	COG3273	Uncharacterized conserved protein	204
+643421540	202	59.46	10	194	8	192	2.0e-61	229	COG3273	Uncharacterized conserved protein	204
+643421541	389	28.22	189	388	2	203	3.0e-20	93.4	COG1824	Permease, similar to cation transporters	203
+643421542	250	30.35	11	249	16	271	7.0e-28	117	COG1082	Sugar phosphate isomerases/epimerases	274
+643421543	472	49.14	7	470	2	456	0.0e+00	473	COG1042	Acyl-CoA synthetase (NDP forming)	598
+643421544	241	24.69	7	236	11	248	2.0e-37	148	COG1042	Acyl-CoA synthetase (NDP forming)	598
+643421546	273	37.63	3	264	29	299	2.0e-62	232	COG0031	Cysteine synthase	300
+643421548	196	42.42	1	194	176	372	3.0e-51	194	COG0301	Thiamine biosynthesis ATP pyrophosphatase	383
+643421549	184	29.82	10	176	8	175	1.0e-19	89.5	COG3371	Predicted membrane protein	181
+643421550	383	48.83	3	382	1	377	2.0e-110	392	COG0301	Thiamine biosynthesis ATP pyrophosphatase	383
+643421552	202	31.86	1	201	3	204	7.0e-21	93.9	COG0778	Nitroreductase	207
+643421553	237	62.29	1	235	1	236	9.0e-90	323	COG3473	Maleate cis-trans isomerase	238
+643421554	459	54.77	10	456	17	466	0.0e+00	570	COG4809	Archaeal ADP-dependent phosphofructokinase/glucokinase	466
+643421555	282	39.13	1	273	2	296	5.0e-62	231	COG4974	Site-specific recombinase XerD	300
+643421556	297	60.31	1	255	4	260	2.0e-68	252	COG4026	Uncharacterized protein containing TOPRIM domain, potential nuclease	290
+643421557	240	33.48	11	237	8	233	1.0e-43	169	COG1489	DNA-binding protein, stimulates sugar fermentation	235
+643421558	367	32.29	278	367	9	104	7.0e-12	65.3	COG2005	N-terminal domain of molybdenum-binding protein	130
+643421559	212	39.02	4	163	3	164	5.0e-37	147	COG0437	Fe-S-cluster-containing hydrogenase components 1	203
+643421560	630	36.8	11	627	7	575	4.0e-128	452	COG1151	6Fe-6S prismane cluster-containing protein	576
+643421561	269	37.12	1	263	1	254	2.0e-50	193	COG3640	CO dehydrogenase maturation factor	255
+643421563	634	34.44	1	507	1	494	4.0e-57	216	COG0651	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	504
+643421564	293	35.31	4	291	8	309	8.0e-44	170	COG0650	Formate hydrogenlyase subunit 4	309
+643421565	540	40.71	27	137	39	148	2.0e-21	97.7	COG0852	NADH:ubiquinone oxidoreductase 27 kD subunit	176
+643421565	540	52.55	158	528	8	379	5.0e-121	428	COG3261	Ni,Fe-hydrogenase III large subunit	382
+643421566	191	49.03	2	156	5	148	6.0e-42	163	COG3260	Ni,Fe-hydrogenase III small subunit	148
+643421568	119	37.04	2	109	1	103	2.0e-16	77.6	COG1320	Multisubunit Na+/H+ antiporter, MnhG subunit	113
+643421570	256	25.52	107	248	18	162	2.0e-09	56.9	COG2111	Multisubunit Na+/H+ antiporter, MnhB subunit	162
+643421571	134	37.61	11	127	4	112	5.0e-15	73.3	COG1006	Multisubunit Na+/H+ antiporter, MnhC subunit	115
+643421572	161	40.38	10	161	10	158	1.0e-26	112	COG1863	Multisubunit Na+/H+ antiporter, MnhE subunit	158
+643421573	520	35.96	1	512	1	499	8.0e-71	261	COG0651	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	504
+643421574	348	52.15	1	344	2	347	9.0e-109	386	COG1363	Cellulase M and related proteins	355
+643421579	217	36.24	1	217	4	232	5.0e-46	177	COG1131	ABC-type multidrug transport system, ATPase component	293
+643421582	666	28.02	24	660	5	653	5.0e-91	329	COG1199	Rad3-related DNA helicases	654
+643421586	403	46.96	1	402	29	435	1.0e-109	390	COG0513	Superfamily II DNA and RNA helicases	513
+643421587	393	22.81	87	390	35	334	2.0e-17	83.9	COG1800	Predicted transglutaminase-like proteases	335
+643421589	202	31.19	9	193	15	216	7.0e-15	74	COG0705	Uncharacterized membrane protein (homolog of Drosophila rhomboid)	228
+643421590	260	35.98	8	256	3	259	4.0e-45	174	COG0483	Archaeal fructose-1,6-bisphosphatase and related enzymes of inositol monophosphatase family	260
+643421591	269	42.44	1	269	5	270	2.0e-55	209	COG1967	Predicted membrane protein	271
+643421592	343	47.74	1	343	5	357	3.0e-103	368	COG0371	Glycerol dehydrogenase and related enzymes	360
+643421593	149	43.92	6	149	2	147	1.0e-35	142	COG1860	Uncharacterized protein conserved in archaea	147
+643421594	333	45.57	2	311	1	313	3.0e-101	361	COG1984	Allophanate hydrolase subunit 2	314
+643421595	228	53.39	4	222	1	221	6.0e-81	293	COG2049	Allophanate hydrolase subunit 1	223
+643421596	255	59.6	1	250	2	251	9.0e-109	386	COG1540	Uncharacterized proteins, homologs of lactam utilization protein B	252
+643421597	161	45.56	3	160	10	176	2.0e-41	161	COG1439	Predicted nucleic acid-binding protein, consists of a PIN domain and a Zn-ribbon module	177
+643421600	275	29.63	4	269	11	277	7.0e-48	184	COG0122	3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	285
+643421602	441	43.76	1	441	2	433	9.0e-114	404	COG1030	Membrane-bound serine protease (ClpP class)	436
+643421603	268	43.94	8	260	5	267	2.0e-38	152	COG0330	Membrane protease subunits, stomatin/prohibitin homologs	291
+643421604	259	47.33	2	257	1	262	2.0e-62	232	COG0455	ATPases involved in chromosome partitioning	262
+643421607	503	44.78	84	500	1	428	4.0e-129	455	COG0213	Thymidine phosphorylase	435
+643421608	129	63.16	16	129	1	98	1.0e-26	111	COG4003	Uncharacterized protein conserved in archaea	98
+643421609	147	47.79	1	136	1	132	1.0e-35	141	COG1833	Uncharacterized conserved protein	132
+643421610	255	54.4	7	255	2	239	2.0e-79	288	COG1646	Predicted phosphate-binding enzymes, TIM-barrel fold	240
+643421612	280	49.64	1	277	1	274	2.0e-88	319	COG2362	D-aminopeptidase	274
+643421614	789	52.16	556	785	7	238	2.0e-64	241	COG1948	ERCC4-type nuclease	254
+643421614	789	55.36	1	509	7	518	0.0e+00	616	COG1111	ERCC4-like helicases	542
+643421616	220	32.91	10	220	13	243	2.0e-27	115	COG1354	Uncharacterized conserved protein	248
+643421617	1188	38.71	3	1168	2	1163	0.0e+00	632	COG1196	Chromosome segregation ATPases	1163
+643421619	134	28.7	2	101	165	272	9.0e-09	52.6	COG3185	4-hydroxyphenylpyruvate dioxygenase and related hemolysins	363
+643421620	319	53.14	1	313	3	320	1.0e-108	386	COG1703	Putative periplasmic protein kinase ArgK and related GTPases of G3E family	323
+643421621	146	48.89	6	140	12	143	4.0e-37	147	COG2185	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	143
+643421622	216	34.51	3	216	2	227	3.0e-45	174	COG1387	Histidinol phosphatase and related hydrolases of the PHP family	237
+643421623	184	56.91	1	183	4	191	3.0e-60	224	COG0424	Nucleotide-binding protein implicated in inhibition of septum formation	193
+643421625	602	67.33	1	601	4	602	0.0e+00	834	COG1855	ATPase (PilT family)	604
+643421626	246	41.84	1	234	1	239	7.0e-58	217	COG0455	ATPases involved in chromosome partitioning	262
+643421627	247	18.52	1	207	6	218	1.0e-11	63.8	COG1100	GTPase SAR1 and related small G proteins	219
+643421628	480	32.41	1	467	1	472	8.0e-82	298	COG0367	Asparagine synthase (glutamine-hydrolyzing)	542
+643421629	401	26.51	3	383	1	336	7.0e-38	151	COG2247	Putative cell wall-binding domain	337
+643421630	345	25.2	1	344	2	381	8.0e-28	118	COG0438	Glycosyltransferase	381
+643421631	339	50.94	1	210	1	211	2.0e-69	256	COG0009	Putative translation factor (SUA5)	211
+643421634	234	60.09	7	229	1	228	9.0e-66	243	COG2413	Predicted nucleotidyltransferase	228
+643421635	457	51.12	1	445	1	426	0.0e+00	552	COG0172	Seryl-tRNA synthetase	429
+643421636	400	50.61	1	400	1	402	2.0e-119	422	COG0303	Molybdopterin biosynthesis enzyme	404
+643421639	838	50.12	408	808	114	488	7.0e-92	332	COG0464	ATPases of the AAA+ class	494
+643421641	235	22.6	1	206	2	165	4.0e-14	71.9	COG0622	Predicted phosphoesterase	172
+643421642	461	50.65	1	461	2	459	0.0e+00	467	COG1042	Acyl-CoA synthetase (NDP forming)	598
+643421643	141	25.86	23	138	16	131	2.0e-08	51.7	COG3431	Predicted membrane protein	142
+643421644	341	33.82	11	338	1	309	9.0e-52	197	COG0258	5'-3' exonuclease (including N-terminal domain of PolI)	310
+643421645	299	60	5	299	2	285	1.0e-96	346	COG1405	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	285
+643421647	112	50	1	112	2	113	3.0e-15	73.8	COG2118	DNA-binding protein	116
+643421648	150	71.33	1	150	1	147	2.0e-59	221	COG2238	Ribosomal protein S19E (S16A)	147
+643421649	138	38.83	4	106	1	97	4.0e-16	77.1	COG1534	Predicted RNA-binding protein containing KH domain, possibly ribosomal protein	97
+643421650	199	64.32	1	199	1	197	8.0e-79	286	COG2117	Predicted subunit of tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop ATPase domain	198
+643421651	77	47.5	1	77	2	81	9.0e-13	65.3	COG2157	Ribosomal protein L20A (L18A)	85
+643421652	228	51.1	1	227	1	222	2.0e-77	282	COG1976	Translation initiation factor 6 (eIF-6)	222
+643421653	91	53.33	1	90	1	89	3.0e-18	83.4	COG2097	Ribosomal protein L31E	89
+643421655	562	70.73	14	560	1	548	0.0e+00	794	COG1884	Methylmalonyl-CoA mutase, N-terminal domain/subunit	548
+643421656	285	23.99	15	273	53	336	7.0e-32	131	COG1236	Predicted exonuclease of the beta-lactamase fold involved in RNA processing	427
+643421657	161	19.86	6	145	561	700	2.0e-11	62.3	COG3264	Small-conductance mechanosensitive channel	835
+643421658	163	36.42	11	161	1	146	3.0e-21	94.7	COG0071	Molecular chaperone (small heat shock protein)	146
+643421659	797	54.89	199	779	1	490	0.0e+00	463	COG0464	ATPases of the AAA+ class	494
+643421664	148	27.54	2	137	1	133	5.0e-17	80.6	COG1310	Predicted metal-dependent protease of the PAD1/JAB1 superfamily	134
+643421665	244	38.89	1	155	2	161	2.0e-26	113	COG1763	Molybdopterin-guanine dinucleotide biosynthesis protein	161
+643421669	238	50.66	1	229	1	227	3.0e-73	268	COG1634	Uncharacterized Rossmann fold enzyme	232
+643421670	153	50.33	1	152	7	158	8.0e-41	159	COG1656	Uncharacterized conserved protein	165
+643421673	187	31.22	1	187	3	207	3.0e-23	101	COG0778	Nitroreductase	207
+643421674	127	41.86	1	127	116	244	4.0e-26	110	COG0345	Pyrroline-5-carboxylate reductase	266
+643421676	216	53.88	11	216	24	242	6.0e-69	253	COG3959	Transketolase, N-terminal subunit	243
+643421677	306	53.72	1	305	5	312	6.0e-105	374	COG3958	Transketolase, C-terminal subunit	312
+643421678	266	61.98	4	264	20	282	1.0e-108	385	COG2876	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	286
+643421679	325	40.95	8	323	20	356	4.0e-84	305	COG0337	3-dehydroquinate synthetase	360
+643421680	215	34.65	1	214	6	231	2.0e-42	165	COG0710	3-dehydroquinate dehydratase	231
+643421681	275	52.14	1	267	2	281	1.0e-84	306	COG0169	Shikimate 5-dehydrogenase	283
+643421682	270	45.96	1	270	3	269	5.0e-72	264	COG1685	Archaeal shikimate kinase	278
+643421683	402	40.94	1	402	3	426	3.0e-104	372	COG0128	5-enolpyruvylshikimate-3-phosphate synthase	428
+643421684	356	53.71	2	348	7	354	3.0e-125	441	COG0082	Chorismate synthase	369
+643421685	80	57.14	8	62	10	65	5.0e-06	43	COG1605	Chorismate mutase	101
+643421686	364	35.37	2	337	12	387	4.0e-63	235	COG0436	Aspartate/tyrosine/aromatic aminotransferase	393
+643421687	256	21.95	1	251	4	279	3.0e-22	99.3	COG0287	Prephenate dehydrogenase	279
+643421688	147	32.67	2	147	20	169	4.0e-23	100	COG2453	Predicted protein-tyrosine phosphatase	180
+643421689	245	55.06	53	210	30	187	1.0e-51	196	COG4902	Uncharacterized protein conserved in archaea	189
+643421692	232	29.14	26	168	57	205	1.0e-07	50.7	COG2324	Predicted membrane protein	281
+643421693	256	55.74	43	225	17	189	3.0e-58	218	COG4902	Uncharacterized protein conserved in archaea	189
+643421701	202	29.73	3	135	14	156	1.0e-13	69.9	COG2226	Methylase involved in ubiquinone/menaquinone biosynthesis	238
+643421703	270	34.92	5	127	3	119	2.0e-08	53	COG1246	N-acetylglutamate synthase and related acetyltransferases	153
+643421706	194	34.43	1	169	4	186	5.0e-22	97.7	COG0560	Phosphoserine phosphatase	212
+643421709	187	52.63	1	170	2	172	1.0e-55	209	COG1056	Nicotinamide mononucleotide adenylyltransferase	172
+643421710	257	51.5	1	255	4	267	2.0e-88	319	COG1912	Uncharacterized conserved protein	268
+643421712	179	70.39	1	179	3	177	1.0e-73	269	COG1303	Uncharacterized protein conserved in archaea	179
+643421713	187	33.68	14	187	1	189	2.0e-17	82.4	COG0558	Phosphatidylglycerophosphate synthase	192
+643421714	236	27.35	1	231	3	227	6.0e-29	121	COG1011	Predicted hydrolase (HAD superfamily)	229
+643421716	189	59.68	1	185	6	188	6.0e-51	193	COG2411	Uncharacterized conserved protein	188
+643421717	111	51.35	2	111	1	111	5.0e-31	126	COG4043	Uncharacterized conserved protein	111
+643421720	207	35.55	1	207	4	212	2.0e-36	145	COG0560	Phosphoserine phosphatase	212
+643421721	220	54.59	14	220	7	209	4.0e-65	241	COG2518	Protein-L-isoaspartate carboxylmethyltransferase	209
+643421723	576	42.02	29	554	1	522	0.0e+00	478	COG1955	Archaeal flagella assembly protein J	527
+643421724	546	48.24	152	464	2	312	3.0e-90	326	COG0630	Type IV secretory pathway, VirB11 components, and related ATPases involved in archaeal flagella biosynthesis	312
+643421725	232	45.53	1	232	2	235	4.0e-66	244	COG2874	Predicted ATPases involved in biogenesis of archaeal flagella	235
+643421726	159	50	3	157	2	153	1.0e-39	155	COG3354	Putative archaeal flagellar protein G	154
+643421727	158	38.69	1	133	1	136	3.0e-17	81.2	COG3353	Putative archaeal flagellar protein F	137
+643421728	443	47.78	243	443	14	214	9.0e-33	135	COG3351	Putative archaeal flagellar protein D/E	214
+643421729	158	33.96	1	157	2	157	7.0e-20	90.1	COG3352	Putative archaeal flagellar protein C	157
+643421730	265	35.85	1	264	1	209	1.0e-45	176	COG1681	Archaeal flagellins	209
+643421731	221	43.05	1	220	1	209	2.0e-48	185	COG1681	Archaeal flagellins	209
+643421732	246	45.04	5	245	1	209	8.0e-49	187	COG1681	Archaeal flagellins	209
+643421733	343	41.38	4	199	1	191	1.0e-29	124	COG1681	Archaeal flagellins	209
+643421734	235	50	6	231	2	205	1.0e-50	192	COG1681	Archaeal flagellins	209
+643421735	317	30.05	119	304	10	221	2.0e-14	73.8	COG2226	Methylase involved in ubiquinone/menaquinone biosynthesis	238
+643421736	109	60.95	5	109	4	108	5.0e-37	145	COG3373	Uncharacterized protein conserved in archaea	108
+643421738	146	40.41	1	146	15	156	2.0e-32	131	COG0835	Chemotaxis signal transduction protein	165
+643421739	408	28.91	135	390	155	407	8.0e-24	105	COG0840	Methyl-accepting chemotaxis protein	408
+643421740	287	41.54	6	276	1	268	3.0e-76	278	COG1352	Methylase of chemotaxis methyl-accepting proteins	268
+643421741	120	40.34	1	119	4	121	4.0e-24	103	COG2204	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains	464
+643421742	370	53.85	9	359	1	349	4.0e-114	404	COG2201	Chemotaxis response regulator containing a CheY-like receiver domain and a methylesterase domain	350
+643421743	781	42.36	202	781	114	713	0.0e+00	534	COG0643	Chemotaxis protein histidine kinase and related kinases	716
+643421744	210	36.95	7	209	1	203	1.0e-40	159	COG1776	Chemotaxis protein CheC, inhibitor of MCP methylation	203
+643421745	241	31	8	204	7	203	7.0e-33	134	COG1776	Chemotaxis protein CheC, inhibitor of MCP methylation	203
+643421746	162	50.96	1	156	7	161	5.0e-47	180	COG1871	Chemotaxis protein; stimulates methylation of MCP proteins	164
+643421747	747	30.17	347	747	39	408	3.0e-45	177	COG0840	Methyl-accepting chemotaxis protein	408
+643421749	341	31.65	22	337	3	284	1.0e-64	240	COG2469	Uncharacterized conserved protein	284
+643421752	358	29	54	282	282	512	9.0e-06	45	COG1196	Chromosome segregation ATPases	1163
+643421755	134	50	10	117	1	105	9.0e-22	96.1	COG2023	RNase P subunit RPR2	105
+643421756	382	27.22	4	356	2	329	1.0e-25	110	COG2247	Putative cell wall-binding domain	337
+643421757	189	40.28	1	187	5	215	2.0e-46	178	COG1878	Predicted metal-dependent hydrolase	218
+643421758	421	66.9	3	421	1	420	0.0e+00	664	COG0499	S-adenosylhomocysteine hydrolase	420
+643421760	219	36.76	9	144	23	153	3.0e-32	131	COG1720	Uncharacterized conserved protein	156
+643421761	181	45.9	2	181	9	191	1.0e-34	139	COG1896	Predicted hydrolases of HD superfamily	193
+643421763	185	32.43	2	184	218	377	2.0e-19	89.5	COG0486	Predicted GTPase	454
+643421764	134	48.51	1	132	4	136	5.0e-37	146	COG0432	Uncharacterized conserved protein	137
+643421767	364	31.72	1	363	3	347	2.0e-57	216	COG1041	Predicted DNA modification methylase	347
+643421768	53	48	1	50	87	136	8.0e-10	55.6	COG1832	Predicted CoA-binding protein	140
+643421770	127	28.7	17	124	315	429	2.0e-09	54.9	COG1030	Membrane-bound serine protease (ClpP class)	436
+643421771	215	34.93	1	200	10	218	4.0e-32	131	COG1451	Predicted metal-dependent hydrolase	223
+643421772	253	32.26	1	234	8	253	3.0e-44	172	COG1533	DNA repair photolyase	297
+643421773	210	23.53	1	199	11	213	6.0e-13	67.7	COG0170	Dolichol kinase	216
+643421774	439	47.85	1	439	1	422	1.0e-130	460	COG2379	Putative glycerate kinase	422
+643421775	139	60.43	1	139	2	139	2.0e-44	171	COG2090	Uncharacterized protein conserved in archaea	141
+643421776	67	63.08	1	65	1	65	4.0e-18	83.1	COG1383	Ribosomal protein S17E	74
+643421777	198	44.15	4	174	2	189	6.0e-34	137	COG1777	Predicted transcriptional regulators	217
+643421778	389	40.72	1	382	1	378	5.0e-86	311	COG0498	Threonine synthase	411
+643421779	192	47.4	2	192	1	192	2.0e-63	235	COG1435	Thymidine kinase	201
+643421780	444	54.52	7	444	5	429	0.0e+00	506	COG1850	Ribulose 1,5-bisphosphate carboxylase, large subunit	429
+643421781	67	63.64	1	66	17	82	2.0e-12	63.8	COG2036	Histones H3 and H4	91
+643421782	164	37.72	1	159	2	161	6.0e-29	120	COG0622	Predicted phosphoesterase	172
+643421783	303	54.39	7	302	4	284	7.0e-95	340	COG1405	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	285
+643421784	103	42.42	1	96	1	97	2.0e-12	64.1	COG3277	RNA-binding protein involved in rRNA processing	98
+643421785	279	22.58	2	271	1	308	6.0e-14	71.8	COG0524	Sugar kinases, ribokinase family	311
+643421786	169	43.8	35	166	2	138	2.0e-29	121	COG1051	ADP-ribose pyrophosphatase	145
+643421787	117	51.26	1	117	3	121	9.0e-32	128	COG1504	Uncharacterized conserved protein	121
+643421788	487	25.31	12	487	1	460	3.0e-33	136	COG3368	Predicted permease	465
+643421789	253	43.87	1	251	4	256	6.0e-67	247	COG1131	ABC-type multidrug transport system, ATPase component	293
+643421790	436	22.74	1	387	1	345	1.0e-29	124	COG0675	Transposase and inactivated derivatives	364
+643421793	225	58.22	1	224	1	223	3.0e-77	281	COG2102	Predicted ATPases of PP-loop superfamily	223
+643421794	425	28.96	248	422	8	188	8.0e-20	92	COG0558	Phosphatidylglycerophosphate synthase	192
+643421794	425	48.12	1	231	1	239	4.0e-68	252	COG1213	Predicted sugar nucleotidyltransferases	239
+643421795	382	38.36	1	372	5	360	3.0e-112	398	COG1260	Myo-inositol-1-phosphate synthase	362
+643421797	215	32.89	5	214	10	236	3.0e-44	171	COG0284	Orotidine-5'-phosphate decarboxylase	240
+643421798	172	51.16	1	172	1	161	4.0e-44	170	COG2016	Predicted RNA-binding protein (contains PUA domain)	161
+643421799	150	50.36	8	146	1	139	3.0e-38	151	COG0615	Cytidylyltransferase	140
+643421801	256	35.41	1	256	1	256	9.0e-52	196	COG1192	ATPases involved in chromosome partitioning	259
+643421802	416	46.53	26	355	2	324	2.0e-88	319	COG0206	Cell division GTPase	338
+643421803	63	43.48	1	46	1	46	1.0e-06	44.4	COG0864	Predicted transcriptional regulators containing the CopG/Arc/MetJ DNA-binding domain and a metal-binding domain	136
+643421804	135	36.21	34	135	42	157	1.0e-13	69.2	COG1617	Uncharacterized conserved protein	158
+643421805	392	46.52	26	392	21	392	5.0e-113	401	COG0436	Aspartate/tyrosine/aromatic aminotransferase	393
+643421806	87	40.24	4	84	102	183	2.0e-11	61	COG2119	Predicted membrane protein	190
+643421811	239	40.51	1	236	2	222	4.0e-63	234	COG0603	Predicted PP-loop superfamily ATPase	222
+643421812	300	45.48	3	300	1	309	8.0e-85	307	COG0167	Dihydroorotate dehydrogenase	310
+643421814	478	27.19	116	432	3	296	2.0e-27	117	COG0492	Thioredoxin reductase	305
+643421815	168	24.43	1	168	5	163	1.0e-17	82.4	COG1142	Fe-S-cluster-containing hydrogenase components 2	165
+643421817	388	28.72	1	377	4	385	6.0e-59	221	COG0665	Glycine/D-amino acid oxidases (deaminating)	387
+643421818	636	30.93	220	606	10	368	3.0e-80	293	COG1509	Lysine 2,3-aminomutase	369
+643421819	225	34.84	1	225	6	238	2.0e-53	202	COG0528	Uridylate kinase	238
+643421820	439	36.51	1	422	4	406	6.0e-73	268	COG1251	NAD(P)H-nitrite reductase	793
+643421823	114	28.93	4	112	59	179	1.0e-05	42.3	COG3568	Metal-dependent hydrolase	259
+643421825	387	23.67	119	384	16	297	2.0e-17	84.2	COG0501	Zn-dependent protease with chaperone function	302
+643421827	180	46.82	5	177	32	204	7.0e-54	203	COG1859	RNA:NAD 2'-phosphotransferase	211
+643421828	412	20.73	29	408	15	383	3.0e-10	59.8	COG2814	Arabinose efflux permease	394
+643421829	353	42.54	6	350	28	388	1.0e-93	336	COG0153	Galactokinase	390
+643421830	386	30.15	6	379	1	387	9.0e-65	240	COG0665	Glycine/D-amino acid oxidases (deaminating)	387
+643421831	494	21.97	110	385	6	350	2.0e-11	64.5	COG1249	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3) component, and related enzymes	454
+643421832	388	51.88	19	388	1	365	0.0e+00	467	COG1163	Predicted GTPase	365
+643421833	150	45.1	1	150	2	154	3.0e-31	127	COG1522	Transcriptional regulators	154
+643421834	166	42.22	1	165	3	182	4.0e-31	127	COG0693	Putative intracellular protease/amidase	188
+643421836	137	43.55	1	60	6	67	8.0e-12	62.9	COG1983	Putative stress-responsive transcriptional regulator	70
+643421838	298	30.67	5	294	7	288	4.0e-42	165	COG1767	Triphosphoribosyl-dephospho-CoA synthetase	288
+643421840	213	42.38	2	211	1	200	5.0e-37	147	COG2095	Multiple antibiotic transporter	203
+643421841	135	40.44	4	132	1	135	1.0e-29	122	COG1765	Predicted redox protein, regulator of disulfide bond formation	137
+643421842	280	35.4	1	278	12	297	2.0e-62	232	COG1533	DNA repair photolyase	297
+643421843	277	39.37	1	240	2	243	6.0e-53	200	COG2071	Predicted glutamine amidotransferases	243
+643421845	418	43.75	18	415	65	459	1.0e-120	427	COG1167	Transcriptional regulators containing a DNA-binding HTH domain and an aminotransferase domain (MocR family) and their eukaryotic orthologs	459
+643421846	322	50.81	3	311	2	301	3.0e-98	351	COG1184	Translation initiation factor 2B subunit, eIF-2B alpha/beta/delta family	301
+643421849	420	47.22	19	405	1	394	2.0e-104	373	COG1498	Protein implicated in ribosomal biogenesis, Nop56p homolog	395
+643421850	226	66.37	2	225	5	229	2.0e-90	325	COG1889	Fibrillarin-like rRNA methylase	231
+643421851	350	58.29	11	350	3	350	7.0e-112	397	COG3425	3-hydroxy-3-methylglutaryl CoA synthase	377
+643421852	386	38.21	1	386	1	392	4.0e-75	275	COG0183	Acetyl-CoA acetyltransferase	392
+643421853	134	43.28	1	131	7	140	9.0e-32	129	COG1545	Predicted nucleic-acid-binding protein containing a Zn-ribbon	140
+643421855	167	21.94	1	146	3	154	3.0e-09	55	COG0456	Acetyltransferases	177
+643421856	177	36.14	8	173	5	165	6.0e-28	116	COG1813	Predicted transcription factor, homolog of eukaryotic MBF1	165
+643421857	135	48.8	3	127	1	124	4.0e-37	146	COG1844	Uncharacterized protein conserved in archaea	125
+643421858	179	42.42	1	130	109	240	1.0e-24	105	COG1542	Uncharacterized conserved protein	593
+643421859	111	43.93	1	103	264	370	2.0e-15	74.6	COG1542	Uncharacterized conserved protein	593
+643421860	192	55.14	2	184	1	185	1.0e-64	239	COG2101	TATA-box binding protein (TBP), component of TFIID and TFIIIB	185
+643421861	335	41.98	1	310	1	317	1.0e-76	280	COG0123	Deacetylases, including yeast histone deacetylase and acetoin utilization protein	340
+643421862	202	36	1	199	1	195	2.0e-37	149	COG1014	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, gamma subunit	203
+643421863	648	54.15	4	647	1	632	0.0e+00	792	COG4231	Indolepyruvate ferredoxin oxidoreductase, alpha and beta subunits	640
+643421864	459	52.33	4	450	5	452	0.0e+00	478	COG1042	Acyl-CoA synthetase (NDP forming)	598
+643421865	224	40.49	1	224	6	250	5.0e-42	164	COG2220	Predicted Zn-dependent hydrolases of the beta-lactamase fold	258
+643421866	332	24.48	4	240	2	286	4.0e-24	105	COG2247	Putative cell wall-binding domain	337
+643421867	48	70.21	1	47	1	47	6.0e-12	62.4	COG4049	Uncharacterized protein containing archaeal-type C2H2 Zn-finger	65
+643421870	238	31.56	1	234	1	241	6.0e-38	150	COG1402	Uncharacterized protein, putative amidase	250
+643421871	380	35.38	1	377	1	378	8.0e-49	187	COG0438	Glycosyltransferase	381
+643421872	262	24.14	1	232	12	239	1.0e-17	83.4	COG0382	4-hydroxybenzoate polyprenyltransferase and related prenyltransferases	289
+643421873	282	47.29	10	281	6	282	1.0e-80	293	COG0421	Spermidine synthase	282
+643421874	172	43.56	16	171	1	163	1.0e-43	169	COG1945	Uncharacterized conserved protein	163
+643421875	382	20.2	1	380	5	394	2.0e-15	77.2	COG0475	Kef-type K+ transport systems, membrane components	397
+643421876	135	17.27	1	135	4	141	2.0e-09	54.4	COG0440	Acetolactate synthase, small (regulatory) subunit	163
+643421877	500	31.99	1	441	7	477	2.0e-42	167	COG0651	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	504
+643421878	85	32.58	1	83	13	100	1.0e-08	51.4	COG1006	Multisubunit Na+/H+ antiporter, MnhC subunit	115
+643421879	133	40.23	6	92	20	106	2.0e-07	48.1	COG2111	Multisubunit Na+/H+ antiporter, MnhB subunit	162
+643421882	104	44.34	1	103	6	111	2.0e-19	87.2	COG1320	Multisubunit Na+/H+ antiporter, MnhG subunit	113
+643421883	90	38.64	1	88	1	88	2.0e-08	50.5	COG2212	Multisubunit Na+/H+ antiporter, MnhF subunit	89
+643421884	201	38.37	32	201	1	158	1.0e-28	119	COG1863	Multisubunit Na+/H+ antiporter, MnhE subunit	158
+643421885	134	62.02	6	133	2	130	3.0e-39	153	COG0509	Glycine cleavage system H protein (lipoate-binding)	131
+643421887	483	44.11	21	475	1	453	4.0e-125	442	COG0493	NADPH-dependent glutamate synthase beta chain and related oxidoreductases	457
+643421888	288	32.2	1	258	9	252	2.0e-36	146	COG0543	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases	252
+643421890	253	52.36	1	253	1	252	7.0e-83	300	COG2519	tRNA(1-methyladenosine) methyltransferase and related methyltransferases	256
+643421892	114	39.39	1	99	1	93	4.0e-12	63.3	COG1400	Signal recognition particle 19 kDa protein	93
+643421893	81	38.1	14	76	82	144	1.0e-05	42	COG1522	Transcriptional regulators	154
+643421894	726	42.78	1	699	4	730	0.0e+00	621	COG1204	Superfamily II helicase	766
+643421895	185	29.21	1	185	3	201	5.0e-24	104	COG0237	Dephospho-CoA kinase	201
+643421896	269	43.58	24	269	9	265	5.0e-43	168	COG0428	Predicted divalent heavy-metal cations transporter	266
+643421897	135	62.22	3	135	1	134	7.0e-41	159	COG1931	Uncharacterized protein conserved in archaea	140
+643421898	425	28.2	1	418	1	403	3.0e-37	149	COG1668	ABC-type Na+ efflux pump, permease component	407
+643421899	252	49.36	1	234	2	236	3.0e-67	248	COG1131	ABC-type multidrug transport system, ATPase component	293
+643421900	68	70.77	1	65	2	66	7.0e-22	95.3	COG1476	Predicted transcriptional regulators	68
+643421905	375	23.71	17	359	12	347	2.0e-33	137	COG0535	Predicted Fe-S oxidoreductases	347
+643421906	605	54.94	1	605	1	612	0.0e+00	712	COG2414	Aldehyde:ferredoxin oxidoreductase	614
+643421907	656	36.75	153	495	138	480	9.0e-29	122	COG1404	Subtilisin-like serine proteases	508
+643421910	350	67.81	1	350	4	354	0.0e+00	528	COG1568	Predicted methyltransferases	354
+643421911	263	43.41	17	262	1	254	4.0e-59	221	COG1365	Predicted ATPase (PP-loop superfamily)	255
+643421912	176	53.64	68	176	2	111	8.0e-27	113	COG2151	Predicted metal-sulfur cluster biosynthetic enzyme	111
+643421913	67	45.59	3	66	1	68	1.0e-10	58.1	COG1141	Ferredoxin	68
+643421914	390	38.24	2	379	1	405	4.0e-89	322	COG1488	Nicotinic acid phosphoribosyltransferase	405
+643421915	300	55.7	1	297	1	303	3.0e-102	365	COG2248	Predicted hydrolase (metallo-beta-lactamase superfamily)	304
+643421916	109	45.83	7	102	144	239	2.0e-24	104	COG1583	Uncharacterized protein predicted to be involved in DNA repair (RAMP superfamily)	240
+643421917	302	27.3	1	298	4	312	2.0e-30	126	COG0472	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	319
+643421918	440	24.23	221	436	7	230	1.0e-12	68.2	COG0463	Glycosyltransferases involved in cell wall biogenesis	291
+643421918	440	26.24	1	215	2	219	1.0e-21	98.3	COG0546	Predicted phosphatases	220
+643421919	121	57.39	1	115	8	121	2.0e-22	97.6	COG2456	Uncharacterized conserved protein	121
+643421920	181	57.67	18	171	3	164	7.0e-49	186	COG2131	Deoxycytidylate deaminase	164
+643421921	260	27.8	1	245	41	293	7.0e-20	91.1	COG0501	Zn-dependent protease with chaperone function	302
+643421922	121	21.43	14	121	1	111	7.0e-17	79.5	COG3682	Predicted transcriptional regulator	123
+643421926	264	61.3	3	262	2	260	1.0e-99	356	COG1798	Diphthamide biosynthesis methyltransferase	260
+643421927	243	65.13	1	236	6	241	4.0e-92	331	COG1709	Predicted transcriptional regulator	241
+643421928	261	68.09	1	256	1	256	4.0e-104	370	COG1701	Uncharacterized protein conserved in archaea	256
+643421929	282	30.62	1	251	8	252	2.0e-33	136	COG0543	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases	252
+643421930	482	46.12	22	474	1	449	8.0e-128	450	COG0493	NADPH-dependent glutamate synthase beta chain and related oxidoreductases	457
+643421934	533	20.48	11	392	20	418	4.0e-14	73.3	COG0210	Superfamily I DNA and RNA helicases	655
+643421935	191	23.02	1	126	33	146	1.0e-10	59.8	COG1961	Site-specific recombinases, DNA invertase Pin homologs	222
+643421938	158	34.46	1	147	1	144	1.0e-23	102	COG1583	Uncharacterized protein predicted to be involved in DNA repair (RAMP superfamily)	240
+643421939	398	62.14	11	391	22	404	0.0e+00	543	COG1222	ATP-dependent 26S proteasome regulatory subunit	406
+643421940	375	25.47	1	356	11	378	2.0e-23	103	COG2814	Arabinose efflux permease	394
+643421942	311	50.49	4	307	1	299	2.0e-95	342	COG0478	RIO-like serine/threonine protein kinase fused to N-terminal HTH domain	304
+643421944	315	46.46	1	309	3	323	2.0e-80	293	COG2516	Biotin synthase-related enzyme	339
+643421945	394	21.73	6	386	15	389	3.0e-18	86.4	COG2814	Arabinose efflux permease	394
+643421946	306	50.97	1	306	3	307	2.0e-87	315	COG1446	Asparaginase	307
+643421947	304	29.17	2	263	1	239	7.0e-22	98.2	COG0704	Phosphate uptake regulator	240
+643421948	388	18.41	29	388	35	391	8.0e-06	45.2	COG2814	Arabinose efflux permease	394
+643421949	193	31.96	1	193	2	193	8.0e-34	137	COG1014	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, gamma subunit	203
+643421950	228	39.72	2	139	16	153	7.0e-21	94.2	COG2226	Methylase involved in ubiquinone/menaquinone biosynthesis	238
+643421951	526	50.84	1	526	1	521	0.0e+00	611	COG1384	Lysyl-tRNA synthetase (class I)	521
+643421953	202	24.17	88	201	95	213	1.0e-05	43	COG0170	Dolichol kinase	216
+643421954	188	58.6	1	186	4	187	3.0e-63	234	COG2029	Uncharacterized conserved protein	189
+643421960	279	42.61	1	276	6	296	2.0e-77	282	COG0462	Phosphoribosylpyrophosphate synthetase	314
+643421961	234	38.98	3	234	5	235	2.0e-38	152	COG4089	Predicted membrane protein	235
+643421963	211	34.3	1	177	7	213	1.0e-31	129	COG2220	Predicted Zn-dependent hydrolases of the beta-lactamase fold	258
+643421964	224	28.51	2	221	42	269	4.0e-46	178	COG0468	RecA/RadA recombinase	279
+643421965	471	18.76	9	471	13	473	7.0e-54	205	COG1530	Ribonucleases G and E	487
+643421967	308	47.91	3	308	2	306	4.0e-91	327	COG2896	Molybdenum cofactor biosynthesis enzyme	322
+643421969	337	38.55	1	337	3	341	3.0e-72	265	COG2520	Predicted methyltransferase	341
+643421970	500	27.08	4	229	8	235	2.0e-17	84.1	COG2256	ATPase related to the helicase subunit of the Holliday junction resolvase	436
+643421971	326	33.21	18	276	9	285	1.0e-35	143	COG2812	DNA polymerase III, gamma/tau subunits	515
+643421972	395	52.17	1	388	1	388	0.0e+00	463	COG0156	7-keto-8-aminopelargonate synthetase and related enzymes	388
+643421974	171	52.87	1	171	8	181	9.0e-41	159	COG1676	tRNA splicing endonuclease	181
+643421975	167	40.88	16	157	11	169	6.0e-23	100	COG0456	Acetyltransferases	177
+643421977	586	29.23	1	555	4	519	2.0e-53	204	COG0433	Predicted ATPase	520
+643421978	456	31.28	1	384	1	367	6.0e-46	178	COG0420	DNA repair exonuclease	390
+643421979	884	31.58	1	881	1	908	4.0e-54	207	COG0419	ATPase involved in DNA repair	908
+643421980	444	32.28	33	443	28	379	4.0e-44	172	COG1630	Uncharacterized protein conserved in archaea	379
+643421981	338	40.13	32	334	19	332	2.0e-53	203	COG0609	ABC-type Fe3+-siderophore transport system, permease component	334
+643421982	240	51.21	5	235	8	255	1.0e-67	250	COG1120	ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components	258
+643421983	200	43.37	3	195	26	220	2.0e-50	192	COG0638	20S proteasome, alpha and beta subunits	236
+643421985	377	40.66	1	370	6	393	1.0e-77	283	COG0498	Threonine synthase	411
+643421987	262	47.71	1	261	1	260	3.0e-81	294	COG3885	Uncharacterized conserved protein	261
+643421988	151	35.86	7	151	97	235	4.0e-22	97.7	COG2872	Predicted metal-dependent hydrolases related to alanyl-tRNA synthetase HxxxH domain	241
+643421989	448	60.58	1	445	1	449	0.0e+00	625	COG2403	Predicted GTPase	449
+643421991	137	54.01	1	136	1	137	7.0e-45	172	COG0432	Uncharacterized conserved protein	137
+643421993	296	46.29	126	293	3	177	2.0e-41	163	COG1992	Uncharacterized conserved protein	181
+643421994	310	53.65	1	310	3	316	7.0e-121	426	COG0540	Aspartate carbamoyltransferase, catalytic chain	316
+643421995	151	63.58	1	150	4	153	4.0e-52	197	COG1781	Aspartate carbamoyltransferase, regulatory subunit	153
+643421997	197	21.74	5	180	3	176	4.0e-12	64.8	COG3601	Predicted membrane protein	186
+643421999	190	31.19	1	189	3	194	5.0e-22	97.7	COG0237	Dephospho-CoA kinase	201
+643422001	191	49.11	1	167	4	164	7.0e-40	157	COG5418	Predicted secreted protein	164
+643422002	449	42.67	3	446	8	461	7.0e-118	417	COG1109	Phosphomannomutase	464
+643422006	261	57.36	4	259	6	263	4.0e-94	337	COG0434	Predicted TIM-barrel enzyme	263
+643422008	718	28.01	27	408	1	387	2.0e-38	154	COG0366	Glycosidases	505
+643422010	431	30.21	1	413	4	427	2.0e-63	237	COG0312	Predicted Zn-dependent proteases and their inactivated homologs	454
+643422011	453	41.05	1	449	1	450	2.0e-105	376	COG0312	Predicted Zn-dependent proteases and their inactivated homologs	454
+643422012	169	32.06	4	133	103	232	4.0e-17	81.2	COG3398	Uncharacterized protein conserved in archaea	240
+643422014	149	29.22	1	149	6	151	9.0e-12	63.1	COG0589	Universal stress protein UspA and related nucleotide-binding proteins	154
+643422015	425	42.19	1	421	2	424	1.0e-78	287	COG1055	Na+/H+ antiporter NhaD and related arsenite permeases	424
+643422017	638	39.37	1	633	7	573	2.0e-118	419	COG1750	Archaeal serine proteases	579
+643422018	425	55.38	1	183	1	183	1.0e-51	197	COG4027	Uncharacterized protein conserved in archaea	194
+643422019	368	28.17	4	368	17	407	2.0e-41	163	COG0624	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	409
+643422021	307	55.08	4	306	4	307	3.0e-95	341	COG0111	Phosphoglycerate dehydrogenase and related dehydrogenases	324
+643422022	215	37.33	1	213	1	217	7.0e-37	147	COG1392	Phosphate transport regulator (distant homolog of PhoU)	217
+643422023	299	39.47	1	299	1	304	4.0e-75	274	COG1893	Ketopantoate reductase	307
+643422024	239	42.5	1	233	3	238	4.0e-57	214	COG0565	rRNA methylase	242
+643422025	179	29.81	18	170	16	168	4.0e-21	94.4	COG0350	Methylated DNA-protein cysteine methyltransferase	168
+643422026	345	20.77	121	324	251	434	2.0e-07	50.3	COG4783	Putative Zn-dependent protease, contains TPR repeats	484
+643422027	159	19.15	15	154	166	290	1.0e-06	46.4	COG2524	Predicted transcriptional regulator, contains C-terminal CBS domains	294
+643422028	388	30.81	1	387	3	397	5.0e-40	158	COG0475	Kef-type K+ transport systems, membrane components	397
+643422030	111	54.62	2	110	4	122	3.0e-21	93.8	COG1308	Transcription factor homologous to NACalpha-BTF3	122
+643422031	119	37.62	9	109	16	116	3.0e-15	73.9	COG0599	Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit	124
+643422032	429	43.36	2	419	6	411	8.0e-107	380	COG2262	GTPases	411
+643422033	320	43.56	1	318	1	326	5.0e-55	208	COG0306	Phosphate/sulphate permeases	326
+643422034	186	45.55	1	180	2	191	3.0e-38	151	COG1014	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, gamma subunit	203
+643422035	102	54.44	14	102	1	90	1.0e-24	104	COG1144	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, delta subunit	91
+643422036	395	37.9	5	373	1	359	6.0e-95	341	COG0674	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, alpha subunit	365
+643422037	311	36.36	9	307	1	294	3.0e-75	275	COG1013	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, beta subunit	294
+643422038	105	60.67	18	105	2	90	9.0e-26	108	COG1144	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, delta subunit	91
+643422039	394	38.27	2	369	1	358	5.0e-89	321	COG0674	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, alpha subunit	365
+643422040	331	37.15	5	321	1	291	2.0e-74	272	COG1013	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, beta subunit	294
+643422041	305	48.96	17	257	43	265	6.0e-57	214	COG0489	ATPases involved in chromosome partitioning	265
+643422043	244	60.5	3	240	2	238	8.0e-77	280	COG4044	Uncharacterized protein conserved in archaea	247
+643422044	178	42.94	3	178	1	176	3.0e-35	141	COG1675	Transcription initiation factor IIE, alpha subunit	176
+643422046	297	31.94	6	288	1	310	8.0e-41	161	COG0524	Sugar kinases, ribokinase family	311
+643422047	197	41.57	1	164	1	166	1.0e-37	149	COG2150	Predicted regulator of amino acid metabolism, contains ACT domain	167
+643422048	91	51.65	1	90	1	91	5.0e-26	109	COG1254	Acylphosphatases	92
+643422049	104	53.47	1	100	1	101	2.0e-28	117	COG1324	Uncharacterized protein involved in tolerance to divalent cations	104
+643422050	202	51.6	9	196	2	185	1.0e-53	202	COG1628	Uncharacterized conserved protein	185
+643422051	278	25.71	144	278	16	153	2.0e-09	56.5	COG0589	Universal stress protein UspA and related nucleotide-binding proteins	154
+643422052	398	44.86	1	392	4	375	3.0e-110	391	COG0404	Glycine cleavage system T protein (aminomethyltransferase)	379
+643422056	375	77.09	5	375	1	366	0.0e+00	650	COG1980	Archaeal fructose 1,6-bisphosphatase	369
+643422057	653	29.78	1	653	4	613	1.0e-118	420	COG2414	Aldehyde:ferredoxin oxidoreductase	614
+643422060	420	21.2	1	393	4	463	3.0e-28	119	COG1233	Phytoene dehydrogenase and related proteins	487
+643422061	315	59.74	2	314	1	312	4.0e-130	457	COG0549	Carbamate kinase	312
+643422062	280	31.62	7	276	16	281	1.0e-58	219	COG0616	Periplasmic serine proteases (ClpP class)	317
+643422063	300	43	8	300	6	294	8.0e-21	94.6	COG1340	Uncharacterized archaeal coiled-coil protein	294
+643422064	568	38.72	31	568	1	518	9.0e-124	437	COG1549	Queuine tRNA-ribosyltransferases, contain PUA domain	519
+643422065	766	20.76	532	766	474	685	3.0e-10	61.2	COG1431	Uncharacterized protein containing piwi/argonaute domain	685
+643422066	98	39.71	20	83	143	210	1.0e-05	41.5	COG4031	Predicted metal-binding protein	227
+643422067	211	68.04	1	193	1	194	1.0e-68	252	COG2428	Uncharacterized conserved protein	196
+643422068	310	27.81	138	298	54	238	7.0e-19	88	COG2226	Methylase involved in ubiquinone/menaquinone biosynthesis	238
+643422070	141	34.27	1	141	5	147	5.0e-25	106	COG1522	Transcriptional regulators	154
+643422071	419	39.77	1	409	5	432	2.0e-100	359	COG2265	SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase	432
+643422073	185	44.07	1	174	2	177	3.0e-46	178	COG0461	Orotate phosphoribosyltransferase	201
+643422075	562	39.92	69	553	1	444	1.0e-107	383	COG1793	ATP-dependent DNA ligase	444
+643422076	300	43.54	1	294	1	280	1.0e-71	263	COG1829	Predicted archaeal kinase (sugar kinase superfamily)	283
+643422077	552	30.58	2	527	1	482	4.0e-69	256	COG1757	Na+/H+ antiporter	485
+643422078	195	43.56	1	194	4	202	2.0e-48	185	COG1573	Uracil-DNA glycosylase	202
+643422080	590	62.33	46	557	6	476	0.0e+00	647	COG1964	Predicted Fe-S oxidoreductases	514
+643422082	482	36.42	1	326	1	319	2.0e-82	299	COG4697	Uncharacterized protein conserved in archaea	319
+643422083	117	41.03	1	117	7	123	4.0e-21	93.3	COG1380	Putative effector of murein hydrolase LrgA	128
+643422084	224	48.64	4	223	9	228	5.0e-57	214	COG1346	Putative effector of murein hydrolase	230
+643422085	146	59.71	1	137	3	141	2.0e-41	161	COG1356	Uncharacterized protein conserved in archaea	143
+643422088	185	35.79	1	184	4	192	4.0e-36	144	COG0235	Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases	219
+643422089	83	61.73	3	83	13	92	3.0e-23	99.6	COG1698	Uncharacterized protein conserved in archaea	93
+643422090	175	47.46	1	175	22	198	3.0e-61	227	COG2109	ATP:corrinoid adenosyltransferase	198
+643422093	215	58.67	2	196	6	201	4.0e-61	227	COG1590	Uncharacterized conserved protein	208
+643422094	249	45.42	1	246	2	245	5.0e-56	210	COG0095	Lipoate-protein ligase A	248
+643422096	183	67.23	1	177	1	177	3.0e-74	271	COG1772	Uncharacterized protein conserved in archaea	178
+643422098	311	43.22	1	311	2	312	3.0e-81	295	COG2355	Zn-dependent dipeptidase, microsomal dipeptidase homolog	313
+643422101	282	63.73	1	279	5	287	3.0e-104	371	COG2521	Predicted archaeal methyltransferase	287
+643422103	440	29.36	7	424	5	392	2.0e-36	147	COG1784	Predicted membrane protein	395
+643422105	623	32.91	3	609	1	620	2.0e-114	407	COG1506	Dipeptidyl aminopeptidases/acylaminoacyl-peptidases	620
+643422107	215	30.86	30	199	31	201	9.0e-32	130	COG2112	Predicted Ser/Thr protein kinase	201
+643422108	75	33.77	1	75	67	143	8.0e-08	48.9	COG1522	Transcriptional regulators	154
+643422109	284	21.51	43	284	28	278	5.0e-06	45.5	COG1277	ABC-type transport system involved in multi-copper enzyme maturation, permease component	278
+643422113	224	35.87	2	224	1	216	3.0e-38	151	COG1392	Phosphate transport regulator (distant homolog of PhoU)	217
+643422114	406	46.07	216	406	145	326	1.0e-35	144	COG0306	Phosphate/sulphate permeases	326
+643422115	545	22.56	313	492	1	192	1.0e-11	65.4	COG1409	Predicted phosphohydrolases	301
+643422116	118	24.11	5	115	14	125	9.0e-15	72.1	COG1917	Uncharacterized conserved protein, contains double-stranded beta-helix domain	131
+643422119	425	43.61	1	424	2	436	7.0e-130	457	COG0621	2-methylthioadenine synthetase	437
+643422120	70	51.56	7	70	6	69	5.0e-13	66.1	COG3269	Predicted RNA-binding protein, contains TRAM domain	73
+643422121	392	31.86	1	390	2	428	1.0e-61	230	COG3259	Coenzyme F420-reducing hydrogenase, alpha subunit	441
+643422122	225	35.74	1	214	1	231	7.0e-37	147	COG1941	Coenzyme F420-reducing hydrogenase, gamma subunit	247
+643422123	276	36.8	9	272	51	318	4.0e-51	195	COG1035	Coenzyme F420-reducing hydrogenase, beta subunit	332
+643422124	252	32.57	4	252	10	266	5.0e-52	197	COG1526	Uncharacterized protein required for formate dehydrogenase activity	266
+643422125	711	39.91	9	695	267	946	0.0e+00	643	COG3383	Uncharacterized anaerobic dehydrogenase	978
+643422126	166	40.51	1	143	8	165	7.0e-35	139	COG0437	Fe-S-cluster-containing hydrogenase components 1	203
+643422127	480	30.41	5	476	1	474	6.0e-63	235	COG1009	NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	606
+643422128	404	33.25	1	392	64	460	3.0e-41	162	COG0651	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	504
+643422129	690	34.19	1	497	1	486	4.0e-60	226	COG0651	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	504
+643422130	307	36.45	1	303	2	307	4.0e-41	161	COG0650	Formate hydrogenlyase subunit 4	309
+643422131	584	30.68	28	200	4	168	3.0e-19	90.4	COG0852	NADH:ubiquinone oxidoreductase 27 kD subunit	176
+643422131	584	52.53	196	568	8	381	1.0e-128	453	COG3261	Ni,Fe-hydrogenase III large subunit	382
+643422132	165	35.46	3	138	31	170	2.0e-21	95.5	COG1143	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	172
+643422133	273	43.71	8	173	7	146	5.0e-42	164	COG3260	Ni,Fe-hydrogenase III small subunit	148
+643422135	342	37.64	17	278	13	265	6.0e-43	168	COG2116	Formate/nitrite family of transporters	265
+643422137	119	38.14	2	118	1	113	9.0e-16	75.7	COG1320	Multisubunit Na+/H+ antiporter, MnhG subunit	113
+643422139	251	26.39	105	245	19	162	6.0e-11	61.2	COG2111	Multisubunit Na+/H+ antiporter, MnhB subunit	162
+643422140	134	35.83	8	127	4	115	2.0e-14	71.8	COG1006	Multisubunit Na+/H+ antiporter, MnhC subunit	115
+643422141	161	40	1	161	1	158	2.0e-27	115	COG1863	Multisubunit Na+/H+ antiporter, MnhE subunit	158
+643422142	522	37.31	1	512	1	499	9.0e-69	254	COG0651	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	504
+643422143	195	35.42	1	188	5	188	7.0e-37	147	COG0746	Molybdopterin-guanine dinucleotide biosynthesis protein A	192
+643422144	168	34.12	1	168	2	158	2.0e-30	125	COG1863	Multisubunit Na+/H+ antiporter, MnhE subunit	158
+643422145	87	43.53	1	85	2	86	4.0e-10	56.7	COG2212	Multisubunit Na+/H+ antiporter, MnhF subunit	89
+643422146	123	41.67	1	119	1	112	1.0e-21	95.3	COG1320	Multisubunit Na+/H+ antiporter, MnhG subunit	113
+643422147	88	43.9	5	86	6	87	4.0e-10	56.4	COG1563	Predicted subunit of the Multisubunit Na+/H+ antiporter	87
+643422148	98	44.23	44	95	111	162	5.0e-06	42.7	COG2111	Multisubunit Na+/H+ antiporter, MnhB subunit	162
+643422149	148	29.17	6	147	18	161	2.0e-11	62.3	COG2111	Multisubunit Na+/H+ antiporter, MnhB subunit	162
+643422150	119	42.02	1	119	1	114	2.0e-20	91	COG1006	Multisubunit Na+/H+ antiporter, MnhC subunit	115
+643422151	532	37.07	6	514	4	488	1.0e-66	247	COG0651	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	504
+643422153	175	59.86	29	175	1	147	2.0e-59	221	COG3260	Ni,Fe-hydrogenase III small subunit	148
+643422154	189	37.72	16	181	2	165	4.0e-37	147	COG3262	Ni,Fe-hydrogenase III component G	165
+643422155	426	48.23	1	396	1	382	0.0e+00	472	COG3261	Ni,Fe-hydrogenase III large subunit	382
+643422156	330	37.69	6	325	2	309	4.0e-54	205	COG0650	Formate hydrogenlyase subunit 4	309
+643422157	152	36.3	7	139	19	163	6.0e-27	113	COG1143	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	172
+643422158	162	32.28	7	157	16	169	1.0e-07	49.6	COG1633	Uncharacterized conserved protein	176
+643422160	232	21.99	50	231	2	184	2.0e-18	86.2	COG0778	Nitroreductase	207
+643422161	161	38.36	1	154	1	157	3.0e-21	95	COG1818	Predicted RNA-binding protein, contains THUMP domain	175
+643422162	401	20.69	16	304	13	263	9.0e-06	45.3	COG3267	Type II secretory pathway, component ExeA (predicted ATPase)	269
+643422165	330	55.24	16	326	2	305	5.0e-85	307	COG0492	Thioredoxin reductase	305
+643422167	445	52.47	4	444	7	447	0.0e+00	508	COG0160	4-aminobutyrate aminotransferase and related aminotransferases	447
+643422168	199	31.95	32	191	1	169	6.0e-22	97.3	COG4720	Predicted membrane protein	177
+643422170	227	66.2	7	221	6	220	5.0e-85	307	COG0274	Deoxyribose-phosphate aldolase	228
+643422173	405	16.43	31	380	44	382	2.0e-06	47.1	COG2814	Arabinose efflux permease	394
+643422174	301	28.41	98	272	18	183	2.0e-33	136	COG0641	Arylsulfatase regulator (Fe-S oxidoreductase)	378
+643422175	430	67.22	6	425	3	419	0.0e+00	646	COG0148	Enolase	423
+643422176	276	65.94	3	276	2	275	2.0e-110	392	COG1856	Uncharacterized homolog of biotin synthetase	275
+643422177	150	36.91	1	149	2	149	4.0e-26	110	COG1522	Transcriptional regulators	154
+643422178	184	45.92	1	183	2	194	2.0e-54	205	COG0127	Xanthosine triphosphate pyrophosphatase	194
+643422179	162	66.67	1	161	2	162	2.0e-61	228	COG1839	Uncharacterized conserved protein	162
+643422180	305	21.79	157	234	13	90	4.0e-07	48.9	COG1522	Transcriptional regulators	154
+643422181	310	18.28	56	310	94	344	1.0e-07	50.8	COG0535	Predicted Fe-S oxidoreductases	347
+643422182	142	48.55	1	137	4	141	9.0e-39	152	COG0314	Molybdopterin converting factor, large subunit	149
+643422184	232	47.23	1	225	2	235	1.0e-59	222	COG0476	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2	254
+643422185	88	39.77	2	88	1	84	2.0e-13	67.3	COG1977	Molybdopterin converting factor, small subunit	84
+643422186	170	27.32	5	170	31	235	1.0e-07	49.6	COG0575	CDP-diglyceride synthetase	265
+643422187	173	32	1	166	2	176	1.0e-28	119	COG1510	Predicted transcriptional regulators	177
+643422188	752	34.81	3	747	1	726	0.0e+00	547	COG1033	Predicted exporters of the RND superfamily	727
+643422189	790	19.6	219	759	5	495	2.0e-28	121	COG1361	S-layer domain	500
+643422190	299	36.5	152	288	24	160	2.0e-26	113	COG5608	Conserved secreted protein	161
+643422192	383	33.15	34	383	1	354	1.0e-70	260	COG0144	tRNA and rRNA cytosine-C5-methylases	355
+643422193	348	25.15	6	339	21	322	2.0e-19	90.1	COG0392	Predicted integral membrane protein	322
+643422194	278	42.35	1	278	1	277	1.0e-67	249	COG0061	Predicted sugar kinase	281
+643422196	325	47.21	1	324	1	341	9.0e-116	409	COG0533	Metal-dependent proteases with possible chaperone activity	342
+643422197	177	26.19	2	167	10	174	4.0e-29	121	COG1853	Conserved protein/domain typically associated with flavoprotein oxygenases, DIM6/NTAB family	176
+643422198	438	55.68	1	438	4	450	5.0e-125	441	COG1042	Acyl-CoA synthetase (NDP forming)	598
+643422200	160	47.8	1	159	1	158	1.0e-45	175	COG1019	Predicted nucleotidyltransferase	158
+643422202	226	29.48	4	225	1	251	3.0e-48	185	COG0149	Triosephosphate isomerase	251
+643422205	1771	83.33	1434	1683	1	252	1.0e-116	415	COG1933	Archaeal DNA polymerase II, large subunit	253
+643422206	701	43.81	237	685	35	472	4.0e-120	425	COG1311	Archaeal DNA polymerase II, small subunit/DNA polymerase delta, subunit B	481
+643422207	415	50.92	17	397	1	363	4.0e-101	361	COG1474	Cdc6-related protein, AAA superfamily ATPase	366
+643422209	338	26.37	151	329	26	207	6.0e-09	55.3	COG0569	K+ transport systems, NAD-binding component	225
+643422210	353	34.04	76	353	1	266	3.0e-76	279	COG0468	RecA/RadA recombinase	279
+643422211	250	51.98	1	250	1	252	2.0e-80	291	COG1637	Predicted nuclease of the RecB family	253
+643422212	126	47.86	1	115	1	117	4.0e-24	103	COG1935	Uncharacterized conserved protein	122
+643422213	242	46.64	5	239	3	240	2.0e-66	245	COG1938	Archaeal enzymes of ATP-grasp superfamily	244
+643422214	257	50.4	1	240	16	262	7.0e-82	297	COG0005	Purine nucleoside phosphorylase	262
+643422215	152	30.33	31	144	44	154	4.0e-11	61	COG1525	Micrococcal nuclease (thermonuclease) homologs	192
+643422216	424	40.66	1	409	2	418	2.0e-97	349	COG0402	Cytosine deaminase and related metal-dependent hydrolases	421
+643422218	185	42.54	1	180	2	172	3.0e-36	145	COG2110	Predicted phosphatase homologous to the C-terminal domain of histone macroH2A1	179
+643422219	190	29.79	1	184	105	288	3.0e-28	118	COG1131	ABC-type multidrug transport system, ATPase component	293
+643422222	480	43.23	3	185	8	190	5.0e-44	172	COG0062	Uncharacterized conserved protein	203
+643422222	480	43.75	195	475	1	282	1.0e-69	257	COG0063	Predicted sugar kinase	284
+643422223	458	15.76	50	320	28	323	2.0e-10	60.8	COG0366	Glycosidases	505
+643422224	185	33.82	1	63	1	68	5.0e-07	48	COG4189	Predicted transcriptional regulator	308
+643422225	101	70.1	1	96	1	97	4.0e-28	116	COG1888	Uncharacterized protein conserved in archaea	97
+643422226	191	26.47	17	134	9	144	7.0e-07	47.2	COG2345	Predicted transcriptional regulator	218
+643422227	438	28.38	10	438	11	458	5.0e-33	135	COG0471	Di- and tricarboxylate transporters	461
+643422228	469	50.86	6	465	4	456	0.0e+00	470	COG1042	Acyl-CoA synthetase (NDP forming)	598
+643422229	384	32.69	68	364	1	305	3.0e-82	299	COG0180	Tryptophanyl-tRNA synthetase	314
+643422230	225	58.77	14	221	58	266	3.0e-77	281	COG0179	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	266
+643422232	570	26.09	1	566	5	617	2.0e-44	174	COG1297	Predicted membrane protein	624
+643422234	365	33.01	1	365	3	380	2.0e-82	299	COG0116	Predicted N6-adenine-specific DNA methylase	381
+643422235	357	39.34	1	280	19	321	2.0e-54	206	COG1161	Predicted GTPases	322
+643422236	476	35.7	14	476	1	419	2.0e-53	203	COG1627	Uncharacterized protein conserved in archaea	419
+643422238	619	49.86	176	531	2	351	6.0e-112	398	COG4962	Flp pilus assembly protein, ATPase CpaF	355
+643422239	355	23.26	74	326	63	320	1.0e-18	87.6	COG2064	Flp pilus assembly protein TadC	320
+643422240	304	22.34	31	295	227	516	1.0e-06	47.5	COG1955	Archaeal flagella assembly protein J	527
+643422241	163	43.11	1	163	1	153	6.0e-32	130	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerases 2	174
+643422243	164	58.18	1	164	3	161	7.0e-48	183	COG4072	Uncharacterized protein conserved in archaea	161
+643422246	317	51.08	1	315	6	329	3.0e-73	268	COG0714	MoxR-like ATPases	329
+643422247	435	27.64	28	433	1	412	4.0e-55	209	COG1721	Uncharacterized conserved protein (some members contain a von Willebrand factor type A (vWA) domain)	416
+643422249	277	30.85	2	271	1	292	3.0e-34	139	COG0524	Sugar kinases, ribokinase family	311
+643422250	499	53.52	4	499	1	496	0.0e+00	687	COG2317	Zn-dependent carboxypeptidase	497
+643422251	116	60.75	4	109	3	109	3.0e-29	120	COG4043	Uncharacterized conserved protein	111
+643422252	370	25.45	1	363	2	394	6.0e-48	184	COG0644	Dehydrogenases (flavoproteins)	396
+643422253	200	58	1	198	1	200	3.0e-69	254	COG2039	Pyrrolidone-carboxylate peptidase (N-terminal pyroglutamyl peptidase)	207
+643422254	644	52.05	2	632	25	652	0.0e+00	565	COG2433	Uncharacterized conserved protein	652
+643422255	323	33.56	25	312	1	272	5.0e-52	198	COG0037	Predicted ATPase of the PP-loop superfamily implicated in cell cycle control	298
+643422257	379	19.19	8	368	1	360	4.0e-17	82.9	COG0750	Predicted membrane-associated Zn-dependent proteases 1	375
+643422258	294	45.63	1	100	1	103	1.0e-15	77.5	COG0463	Glycosyltransferases involved in cell wall biogenesis	291
+643422259	423	22.29	2	416	3	453	5.0e-25	109	COG3119	Arylsulfatase A and related enzymes	475
+643422260	363	20.11	18	359	21	374	1.0e-12	67.7	COG0438	Glycosyltransferase	381
+643422261	400	16.26	18	382	16	381	2.0e-12	67.4	COG0438	Glycosyltransferase	381
+643422262	145	36.67	31	139	68	187	5.0e-15	73.8	COG0110	Acetyltransferase (isoleucine patch superfamily)	190
+643422263	377	41.6	1	374	4	372	5.0e-112	398	COG0399	Predicted pyridoxal phosphate-dependent enzyme apparently involved in regulation of cell wall biogenesis	374
+643422264	341	44.78	4	294	246	539	3.0e-84	305	COG1086	Predicted nucleoside-diphosphate sugar epimerases	588
+643422265	516	24.33	7	491	2	480	2.0e-23	104	COG2244	Membrane protein involved in the export of O-antigen and teichoic acid	480
+643422266	247	27.71	1	245	4	252	4.0e-15	75.4	COG0730	Predicted permeases	258
+643422267	181	49.16	5	181	18	196	4.0e-65	240	COG0529	Adenylylsulfate kinase and related kinases	197
+643422268	476	49.14	16	476	5	467	0.0e+00	588	COG3379	Uncharacterized conserved protein	471
+643422269	311	20.06	3	311	40	394	1.0e-20	94	COG0608	Single-stranded DNA-specific exonuclease	491
+643422270	379	52.86	1	379	2	382	0.0e+00	494	COG2046	ATP sulfurylase (sulfate adenylyltransferase)	397
+643422272	287	42.86	2	287	8	294	9.0e-73	267	COG0053	Predicted Co/Zn/Cd cation transporters	304
+643422273	383	38.48	1	383	32	435	1.0e-100	360	COG0076	Glutamate decarboxylase and related PLP-dependent proteins	460
+643422274	391	28.86	1	390	5	388	2.0e-36	146	COG0475	Kef-type K+ transport systems, membrane components	397
+643422276	232	25.43	1	225	5	229	6.0e-24	104	COG1011	Predicted hydrolase (HAD superfamily)	229
+643422277	209	29.44	1	203	13	213	4.0e-22	98.1	COG0170	Dolichol kinase	216
+643422278	1137	27.88	441	539	400	503	2.0e-10	62.4	COG1572	Uncharacterized conserved protein	606
+643422279	652	24.55	2	651	4	614	4.0e-90	326	COG1449	Alpha-amylase/alpha-mannosidase	615
+643422280	305	33.1	27	305	1	279	3.0e-51	195	COG0037	Predicted ATPase of the PP-loop superfamily implicated in cell cycle control	298
+643422281	484	52.02	4	464	16	486	0.0e+00	613	COG2509	Uncharacterized FAD-dependent dehydrogenases	486
+643422282	181	25.64	19	173	222	368	9.0e-14	70	COG3448	CBS-domain-containing membrane protein	382
+643422283	380	33.94	1	379	5	386	6.0e-49	188	COG0475	Kef-type K+ transport systems, membrane components	397
+643422284	205	33.33	1	200	1	203	5.0e-21	94.5	COG2095	Multiple antibiotic transporter	203
+643422285	437	45.08	2	435	1	428	9.0e-127	446	COG0124	Histidyl-tRNA synthetase	429
+643422287	254	29.79	122	254	274	406	1.0e-17	83.8	COG1502	Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes	438
+643422292	909	36.75	54	908	3	875	0.0e+00	832	COG0013	Alanyl-tRNA synthetase	879
+643422295	251	40.87	4	251	3	250	2.0e-57	215	COG0327	Uncharacterized conserved protein	250
+643422296	592	61.57	12	573	2	515	0.0e+00	723	COG1243	Histone acetyltransferase	515
+643422299	173	25.35	14	155	11	130	1.0e-09	56.5	COG0727	Predicted Fe-S-cluster oxidoreductase	132
+643422300	169	34.73	4	167	9	174	3.0e-26	111	COG1374	Protein involved in ribosomal biogenesis, contains PUA domain	176
+643422303	248	47.62	1	248	1	247	5.0e-57	214	COG0467	RecA-superfamily ATPases implicated in signal transduction	260
+643422304	202	61.15	1	155	2	158	2.0e-26	112	COG1318	Predicted transcriptional regulators	182
+643422305	141	46.83	1	126	11	136	4.0e-43	167	COG1586	S-adenosylmethionine decarboxylase	136
+643422306	305	24.37	32	298	16	293	5.0e-38	151	COG0341	Preprotein translocase subunit SecF	305
+643422307	507	21.67	1	507	3	499	9.0e-59	221	COG0342	Preprotein translocase subunit SecD	506
+643422308	230	38.6	1	224	1	223	1.0e-42	166	COG0569	K+ transport systems, NAD-binding component	225
+643422310	659	35.48	2	656	1	659	2.0e-125	443	COG1269	Archaeal/vacuolar-type H+-ATPase subunit I	660
+643422312	203	42.36	1	203	1	193	3.0e-23	101	COG1390	Archaeal/vacuolar-type H+-ATPase subunit E	194
+643422313	366	37.18	27	363	1	344	4.0e-63	235	COG1527	Archaeal/vacuolar-type H+-ATPase subunit C	346
+643422314	102	38.89	1	102	3	104	2.0e-13	67.2	COG1436	Archaeal/vacuolar-type H+-ATPase subunit F	104
+643422315	585	66.84	1	581	2	588	0.0e+00	974	COG1155	Archaeal/vacuolar-type H+-ATPase subunit A	588
+643422316	465	79.7	2	464	1	463	0.0e+00	810	COG1156	Archaeal/vacuolar-type H+-ATPase subunit B	463
+643422317	212	51.44	5	212	3	208	1.0e-48	186	COG1394	Archaeal/vacuolar-type H+-ATPase subunit D	211
+643422318	255	32.68	7	255	1	253	9.0e-54	203	COG0426	Uncharacterized flavoproteins	388
+643422319	257	33.75	77	235	222	381	7.0e-14	71.2	COG0840	Methyl-accepting chemotaxis protein	408
+643422320	404	30.75	2	403	457	879	9.0e-63	234	COG0013	Alanyl-tRNA synthetase	879
+643422321	276	25.36	31	276	1	273	1.0e-19	90.7	COG0037	Predicted ATPase of the PP-loop superfamily implicated in cell cycle control	298
+643422324	300	26.42	42	292	6	267	8.0e-26	111	COG0535	Predicted Fe-S oxidoreductases	347
+643422325	233	39.09	6	229	11	250	8.0e-48	183	COG0543	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases	252
+643422326	408	42.09	2	398	1	429	1.0e-102	366	COG0044	Dihydroorotase and related cyclic amidohydrolases	430
+643422327	810	38.39	527	749	100	311	1.0e-46	182	COG3889	Predicted solute binding protein	872
+643422328	347	33.14	4	342	2	316	4.0e-60	225	COG0601	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components	317
+643422329	486	43.48	257	485	62	288	3.0e-62	232	COG1173	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components	289
+643422330	319	56.6	5	318	1	314	2.0e-124	438	COG0444	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	316
+643422331	335	42.81	5	333	1	316	8.0e-96	344	COG0444	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	316
+643422333	253	47.74	3	253	2	258	3.0e-80	291	COG0171	NAD synthase	268
+643422334	289	25.9	1	265	5	274	3.0e-13	69.4	COG2962	Predicted permeases	293
+643422335	443	49.44	19	443	16	443	0.0e+00	487	COG0174	Glutamine synthetase	443
+643422336	135	52.59	1	135	4	138	2.0e-30	124	COG2083	Uncharacterized protein conserved in archaea	140
+643422339	283	21.37	23	279	35	282	8.0e-10	58	COG5006	Predicted permease, DMT superfamily	292
+643422340	346	34.2	1	336	1	337	9.0e-62	230	COG1467	Eukaryotic-type DNA primase, catalytic (small) subunit	341
+643422341	401	26	1	396	6	363	4.0e-37	149	COG2219	Eukaryotic-type DNA primase, large subunit	363
+643422342	249	45.71	6	248	1	238	1.0e-42	166	COG0467	RecA-superfamily ATPases implicated in signal transduction	260
+643422344	375	42.93	1	375	5	393	1.0e-53	204	COG1784	Predicted membrane protein	395
+643422346	396	46.08	4	393	1	393	1.0e-109	390	COG1092	Predicted SAM-dependent methyltransferases	393
+643422347	247	28.12	74	226	103	255	1.0e-10	60	COG2890	Methylase of polypeptide chain release factors	280
+643422348	422	31.76	5	421	1	404	5.0e-69	255	COG0624	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	409
+643422350	625	45.47	5	598	4	621	0.0e+00	534	COG1297	Predicted membrane protein	624
+643422351	281	24.63	12	263	4	269	2.0e-30	126	COG1235	Metal-dependent hydrolases of the beta-lactamase superfamily I	269
+643422352	455	41.47	1	450	7	464	6.0e-103	368	COG1109	Phosphomannomutase	464
+643422353	134	42.4	5	129	3	123	1.0e-29	121	COG1255	Uncharacterized protein conserved in archaea	129
+643422354	375	55.43	1	368	1	337	5.0e-128	451	COG3839	ABC-type sugar transport systems, ATPase components	338
+643422355	1344	30.13	785	1344	1	569	0.0e+00	492	COG4945	Membrane-anchored protein predicted to be involved in regulation of amylopullulanase	570
+643422356	415	43.38	198	415	68	282	1.0e-58	220	COG3833	ABC-type maltose transport systems, permease component	282
+643422357	299	33.55	1	299	5	295	1.0e-47	183	COG1175	ABC-type sugar transport systems, permease components	295
+643422358	439	33.57	7	421	1	400	4.0e-92	332	COG2182	Maltose-binding periplasmic proteins/domains	420
+643422359	652	26.28	204	627	1	495	2.0e-53	204	COG0366	Glycosidases	505
+643422360	340	31.17	2	247	1	247	4.0e-32	132	COG1378	Predicted transcriptional regulators	247
+643422361	450	29.33	1	445	1	482	2.0e-84	306	COG0297	Glycogen synthase	487
+643422362	120	47.5	1	120	1	120	3.0e-31	126	COG1369	RNase P/RNase MRP subunit POP5	124
+643422363	360	60.78	4	359	7	353	5.0e-126	444	COG2108	Uncharacterized conserved protein related to pyruvate formate-lyase activating enzyme	353
+643422366	1065	46.02	10	1000	18	933	0.0e+00	1079	COG0060	Isoleucyl-tRNA synthetase	933
+643422368	276	28.73	6	269	10	283	1.0e-06	47.2	COG0697	Permeases of the drug/metabolite transporter (DMT) superfamily	292
+643422369	175	32.62	7	132	8	148	4.0e-19	87.8	COG0437	Fe-S-cluster-containing hydrogenase components 1	203
+643422370	623	36.94	1	609	1	611	8.0e-112	398	COG2414	Aldehyde:ferredoxin oxidoreductase	614
+643422372	143	31.47	4	143	1	136	3.0e-18	84.3	COG1765	Predicted redox protein, regulator of disulfide bond formation	137
+643422375	454	44.59	1	449	2	439	4.0e-125	441	COG1746	tRNA nucleotidyltransferase (CCA-adding enzyme)	443
+643422376	184	44.86	1	184	1	180	8.0e-45	173	COG1514	2'-5' RNA ligase	180
+643422377	988	34.34	257	349	230	326	6.0e-15	77	COG4870	Cysteine protease	372
+643422378	154	40.52	1	151	2	152	2.0e-30	124	COG2236	Predicted phosphoribosyltransferases	192
+643422379	910	35.33	92	782	10	645	4.0e-122	432	COG0209	Ribonucleotide reductase, alpha subunit	696
+643422381	268	46.24	1	264	8	269	2.0e-75	275	COG0647	Predicted sugar phosphatases of the HAD superfamily	269
+643422382	776	20.5	85	482	59	440	2.0e-16	81.7	COG1807	4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of PMT family	535
+643422383	784	21.97	11	745	10	748	6.0e-67	249	COG1287	Uncharacterized membrane protein, required for N-linked glycosylation	773
+643422384	374	24.36	1	373	1	380	2.0e-31	130	COG0438	Glycosyltransferase	381
+643422385	372	22.37	1	288	1	287	5.0e-17	82.1	COG0463	Glycosyltransferases involved in cell wall biogenesis	291
+643422386	363	28.25	6	358	1	360	3.0e-36	145	COG0438	Glycosyltransferase	381
+643422391	329	62.71	8	299	33	311	4.0e-96	345	COG4743	Predicted membrane protein	316
+643422393	427	20.28	1	427	4	411	1.0e-19	91.4	COG1721	Uncharacterized conserved protein (some members contain a von Willebrand factor type A (vWA) domain)	416
+643422394	306	47.3	2	304	14	328	2.0e-68	252	COG0714	MoxR-like ATPases	329
+643422399	317	36.62	1	316	1	311	3.0e-58	219	COG0451	Nucleoside-diphosphate-sugar epimerases	314
+643422400	340	34.88	10	339	2	342	6.0e-61	227	COG1208	Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon)	358
+643422402	87	24.14	2	85	125	211	2.0e-06	44.4	COG1672	Predicted ATPase (AAA+ superfamily)	359
+643422405	352	43.29	1	296	1	286	9.0e-96	343	COG1209	dTDP-glucose pyrophosphorylase	286
+643422406	333	60	1	332	1	340	0.0e+00	527	COG1088	dTDP-D-glucose 4,6-dehydratase	340
+643422408	113	22.83	5	106	2	128	2.0e-09	54.4	COG1487	Predicted nucleic acid-binding protein, contains PIN domain	133
+643422409	67	72.31	1	65	1	65	4.0e-16	76.2	COG5559	Uncharacterized conserved small protein	65
+643422410	132	29.85	1	127	1	134	1.0e-13	69.2	COG2402	Predicted nucleic acid-binding protein, contains PIN domain	135
+643422411	185	62.29	3	177	1	173	4.0e-66	244	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes	173
+643422413	156	32.19	6	143	2	140	2.0e-14	72.5	COG1848	Predicted nucleic acid-binding protein, contains PIN domain	140
+643422414	288	50.69	1	285	1	281	6.0e-96	344	COG1091	dTDP-4-dehydrorhamnose reductase	281
+643422415	474	22.74	1	471	2	476	1.0e-20	94.4	COG2244	Membrane protein involved in the export of O-antigen and teichoic acid	480
+643422417	140	43.1	4	61	3	60	5.0e-11	60.5	COG1216	Predicted glycosyltransferases	305
+643422419	391	28.05	12	389	7	381	4.0e-38	152	COG0438	Glycosyltransferase	381
+643422420	222	24.77	4	215	3	202	9.0e-15	73.8	COG0125	Thymidylate kinase	208
+643422421	391	26.77	1	390	1	374	1.0e-20	94.3	COG0438	Glycosyltransferase	381
+643422422	373	32.22	1	373	1	379	6.0e-45	175	COG0438	Glycosyltransferase	381
+643422423	159	34.27	1	139	1	142	6.0e-29	120	COG5017	Uncharacterized conserved protein	161
+643422424	147	27.54	1	147	1	163	6.0e-11	60.3	COG0707	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	357
+643422425	331	31.77	6	280	4	302	8.0e-43	167	COG1216	Predicted glycosyltransferases	305
+643422426	296	22.46	1	276	1	271	4.0e-15	75.6	COG0463	Glycosyltransferases involved in cell wall biogenesis	291
+643422429	263	29	1	262	8	269	1.0e-66	246	COG5340	Predicted transcriptional regulator	269
+643422430	263	37.35	1	251	1	253	3.0e-55	208	COG2253	Uncharacterized conserved protein	258
+643422431	59	66.04	7	59	9	61	5.0e-15	72.7	COG2888	Predicted Zn-ribbon RNA-binding protein with a function in translation	61
+643422432	91	56.63	9	91	7	88	6.0e-19	85.7	COG2092	Translation elongation factor EF-1beta	88
+643422436	614	32.33	1	613	92	697	0.0e+00	599	COG1328	Oxygen-sensitive ribonucleoside-triphosphate reductase	700
+643422437	237	23.85	1	216	19	231	4.0e-31	128	COG1180	Pyruvate-formate lyase-activating enzyme	260
+643422438	376	28.37	9	356	2	319	1.0e-42	167	COG0614	ABC-type Fe3+-hydroxamate transport system, periplasmic component	319
+643422439	348	42.67	50	346	27	333	7.0e-49	188	COG0609	ABC-type Fe3+-siderophore transport system, permease component	334
+643422440	257	49.81	1	254	2	258	1.0e-80	292	COG1120	ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components	258
+643422441	1252	38.68	74	1245	113	1285	0.0e+00	993	COG1429	Cobalamin biosynthesis protein CobN and related Mg-chelatases	1388
+643422442	640	55.32	4	332	8	336	2.0e-116	413	COG1239	Mg-chelatase subunit ChlI	423
+643422443	544	50.09	14	535	2	524	0.0e+00	498	COG0459	Chaperonin GroEL (HSP60 family)	524
+643422444	355	39.62	4	352	1	361	1.0e-69	257	COG2441	Predicted butyrate kinase	374
+643422447	195	58.82	9	195	5	191	4.0e-61	227	COG1590	Uncharacterized conserved protein	208
+643422448	660	39.12	1	656	89	758	2.0e-104	373	COG1112	Superfamily I DNA and RNA helicases and helicase subunits	767
+643422450	486	27.1	94	241	150	290	1.0e-14	75.3	COG2905	Predicted signal-transduction protein containing cAMP-binding and CBS domains	610
+643422450	486	28.44	258	474	2	170	5.0e-27	116	COG0516	IMP dehydrogenase/GMP reductase	170
+643422451	466	42.26	1	460	7	509	2.0e-129	456	COG0029	Aspartate oxidase	518
+643422452	395	51.14	1	394	2	388	2.0e-91	329	COG1906	Uncharacterized conserved protein	388
+643422453	302	57.79	1	302	18	323	8.0e-115	406	COG0379	Quinolinate synthase	324
+643422454	436	32.71	10	430	8	398	3.0e-62	232	COG1373	Predicted ATPase (AAA+ superfamily)	398
+643422455	277	51.27	6	274	9	278	1.0e-83	302	COG0157	Nicotinate-nucleotide pyrophosphorylase	280
+643422456	335	64.44	9	335	5	296	1.0e-128	452	COG0214	Pyridoxine biosynthesis enzyme	296
+643422457	197	51.52	2	197	1	191	4.0e-69	254	COG0311	Predicted glutamine amidotransferase involved in pyridoxine biosynthesis	194
+643422459	307	67.94	1	307	1	315	0.0e+00	494	COG0519	GMP synthase, PP-ATPase domain/subunit	315
+643422460	188	45.41	1	187	3	196	2.0e-53	201	COG0518	GMP synthase - Glutamine amidotransferase domain	198
+643422461	245	40.98	1	234	41	284	4.0e-50	191	COG4025	Predicted membrane protein	284
+643422462	1139	26.28	534	829	225	490	2.0e-16	82.4	COG5306	Uncharacterized conserved protein	621
+643422469	363	29.36	1	341	12	337	3.0e-56	212	COG0206	Cell division GTPase	338
+643422471	328	46.96	37	328	1	274	6.0e-82	297	COG0731	Fe-S oxidoreductases	296
+643422472	194	35.27	1	194	74	278	6.0e-38	150	COG2890	Methylase of polypeptide chain release factors	280
+643422473	426	35.29	111	426	118	424	4.0e-19	89.7	COG1404	Subtilisin-like serine proteases	508
+643422474	426	35.01	111	424	118	422	3.0e-22	100	COG1404	Subtilisin-like serine proteases	508
+643422475	51	68.63	1	51	1	51	3.0e-16	76.9	COG1998	Ribosomal protein S27AE	51
+643422476	98	58.16	1	98	2	99	1.0e-24	104	COG2004	Ribosomal protein S24E	107
+643422477	177	48.28	2	174	3	167	9.0e-42	163	COG1909	Uncharacterized protein conserved in archaea	167
+643422478	61	60.32	1	61	2	64	2.0e-19	87.3	COG2093	DNA-directed RNA polymerase, subunit E''	64
+643422479	188	61.2	1	183	1	183	1.0e-59	222	COG1095	DNA-directed RNA polymerase, subunit E'	183
+643422480	178	54.97	3	172	2	171	3.0e-52	197	COG0221	Inorganic pyrophosphatase	171
+643422486	352	43.65	231	351	10	135	2.0e-23	103	COG2246	Predicted membrane protein	139
+643422487	562	25.83	47	425	24	401	7.0e-35	142	COG2234	Predicted aminopeptidases	435
+643422488	113	50.45	1	111	3	113	1.0e-23	102	COG5625	Predicted transcription regulator containing HTH domain	113
+643422489	216	32.83	6	193	7	202	3.0e-27	115	COG1407	Predicted ICC-like phosphoesterases	235
+643422491	264	41.03	1	264	3	271	1.0e-55	210	COG0388	Predicted amidohydrolase	274
+643422499	122	49.06	15	119	3	107	7.0e-13	66	COG1695	Predicted transcriptional regulators	138
+643422501	109	53.7	4	109	1	108	5.0e-28	116	COG0393	Uncharacterized conserved protein	108
+643422502	344	50	1	334	7	345	6.0e-101	361	COG1736	Diphthamide synthase subunit DPH2	347
+643422503	203	57.5	3	202	1	196	8.0e-69	253	COG2263	Predicted RNA methylase	198
+643422506	442	40.94	111	441	18	355	2.0e-88	320	COG0144	tRNA and rRNA cytosine-C5-methylases	355
+643422507	360	35.98	102	359	47	308	5.0e-38	151	COG0668	Small-conductance mechanosensitive channel	316
+643422508	212	28.81	1	212	1	234	7.0e-29	120	COG2430	Uncharacterized conserved protein	236
+643422509	220	51.71	2	205	4	207	5.0e-60	224	COG2454	Uncharacterized conserved protein	211
+643422510	256	37.55	34	255	40	267	1.0e-47	183	COG3294	Uncharacterized conserved protein	269
+643422511	136	46.21	5	136	11	136	4.0e-27	113	COG1412	Uncharacterized proteins of PilT N-term./Vapc superfamily	136
+643422512	410	71.84	3	410	2	413	0.0e+00	655	COG5257	Translation initiation factor 2, gamma subunit (eIF-2gamma; GTPase)	415
+643422513	125	60.48	1	124	1	114	1.0e-37	148	COG2125	Ribosomal protein S6E (S10)	120
+643422516	203	32.62	2	182	27	198	3.0e-35	141	COG0218	Predicted GTPase	200
+643422517	154	27.04	3	154	2	146	4.0e-06	44.3	COG1522	Transcriptional regulators	154
+643422518	355	42.18	6	353	44	396	3.0e-79	288	COG1341	Predicted GTPase or GTP-binding protein	398
+643422519	276	30.25	1	275	11	286	5.0e-36	144	COG0382	4-hydroxybenzoate polyprenyltransferase and related prenyltransferases	289
+643422521	268	31.77	1	182	4	195	3.0e-42	165	COG3390	Uncharacterized protein conserved in archaea	196
+643422523	354	23.01	1	346	41	405	3.0e-27	116	COG1599	Single-stranded DNA-binding replication protein A (RPA), large (70 kD) subunit and related ssDNA-binding proteins	407
+643422524	195	33.89	1	176	4	183	1.0e-31	129	COG1386	Predicted transcriptional regulator containing the HTH domain	184
+643422528	144	42.25	1	142	2	142	1.0e-29	122	COG1321	Mn-dependent transcriptional regulator	154
+643422529	444	51.24	1	441	3	436	2.0e-112	399	COG2252	Permeases	436
+643422530	334	51.01	4	333	6	350	1.0e-104	373	COG3842	ABC-type spermidine/putrescine transport systems, ATPase components	352
+643422531	539	35.29	1	536	5	533	2.0e-85	310	COG1178	ABC-type Fe3+ transport system, permease component	540
+643422532	350	43.79	16	338	12	348	3.0e-82	298	COG3191	L-aminopeptidase/D-esterase	348
+643422533	281	35.34	6	281	1	277	3.0e-64	238	COG0648	Endonuclease IV	280
+643422535	377	38.93	5	369	2	363	2.0e-76	279	COG2237	Predicted membrane protein	364
+643422536	100	52	1	98	2	100	1.0e-20	91	COG0011	Uncharacterized conserved protein	100
+643422537	205	61.88	4	205	5	203	3.0e-71	261	COG2078	Uncharacterized conserved protein	203
+643422538	450	39.17	100	450	1	353	1.0e-84	306	COG0144	tRNA and rRNA cytosine-C5-methylases	355

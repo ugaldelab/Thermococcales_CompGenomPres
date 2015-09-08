@@ -1,0 +1,19 @@
+644736411	Thermococcus gammatolerans EJ3	TgammaEJ3
+644736412	Thermococcus sibiricus MM 739	TsibiriMM739
+2545824513	Thermococcus sp. Strain 175 (First SPAdes assembly of Thermococcus sp. Strain 175)	Tsp175
+643348580	Thermococcus onnurineus NA1	TonnuNA1
+650716097	Thermococcus sp. 4557	Tsp4557
+2501025505	Palaeococcus ferrophilus DMJ, DSM 13482	PferroDSM13482
+2521172719	Pyrococcus sp. ST04	PspST04
+2513237398	Thermococcus litoralis DSM 5473	TlitoDSM5473
+2511231053	Thermococcus sp. AM4	TspAM4
+638154520	Thermococcus kodakarensis KOD1	TkodKOD1
+650716096	Thermococcus barophilus MP, DSM 11836	TbaroDSM11836
+638154516	Pyrococcus horikoshii OT3	PhorikoOT3
+2510065005	Thermococcus sp. PK	TspPK
+638154514	Pyrococcus abyssi GE5	PabyGE5
+2517093039	Pyrococcus furiosus COM1	PfurCOM1
+2518645553	Thermococcus sp. CL1	TspCL1
+650716079	Pyrococcus sp. NA2	PspNA2
+650716080	Pyrococcus yayanosii CH1	PyayaCH1
+638154515	Pyrococcus furiosus DSM 3638	PfurDSM3638

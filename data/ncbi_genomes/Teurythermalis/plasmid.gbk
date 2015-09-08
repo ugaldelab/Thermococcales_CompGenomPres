@@ -1,0 +1,214 @@
+LOCUS       CP008888                3629 bp    DNA     circular BCT 17-JUL-2015
+DEFINITION  Thermococcus eurythermalis plasmid, complete sequence.
+ACCESSION   CP008888
+VERSION     CP008888.1  GI:700304121
+DBLINK      BioProject: PRJNA251677
+            BioSample: SAMN02838508
+KEYWORDS    .
+SOURCE      Thermococcus eurythermalis
+  ORGANISM  Thermococcus eurythermalis
+            Archaea; Euryarchaeota; Thermococci; Thermococcales;
+            Thermococcaceae; Thermococcus.
+REFERENCE   1  (bases 1 to 3629)
+  AUTHORS   Zhao,W., Zeng,X. and Xiao,X.
+  TITLE     Thermococcus eurythermalis sp. nov., a conditional piezophilic,
+            hyperthermophilic archaeon with a wide temperature range for
+            growth, isolated from an oil-immersed chimney in the Guaymas Basin
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 65 (PT 1), 30-35 (2015)
+   PUBMED   25288278
+REFERENCE   2  (bases 1 to 3629)
+  AUTHORS   Zhao,W., Zeng,X. II and Xiao,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2014) Shanghai Jiao Tong University, Laboratory
+            of Microbiological Oceanography, 800 Dongchuan Road, B308 Mulan
+            Building, Shanghai, Shanghai 200240, China
+COMMENT     Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            Source baceria available from GCMCC or JCM.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method        :: SOAPdenovo v. 1.05
+            Corresponding 16S rRNA :: KJ616741.1
+            Genome Coverage        :: 1100x
+            Sequencing Technology  :: Illumina
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider          :: NCBI
+            Annotation Date              :: 07/08/2014 12:06:03
+            Annotation Pipeline          :: NCBI Prokaryotic Genome Annotation
+                                            Pipeline
+            Annotation Method            :: Best-placed reference protein set;
+                                            GeneMarkS+
+            Annotation Software revision :: 2.6 (rev. 439576)
+            Features Annotated           :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                            repeat_region
+            Genes                        :: 2,188
+            CDS                          :: 2,100
+            Pseudo Genes                 :: 38
+            CRISPR Arrays                :: 4
+            rRNAs                        :: 4 (5S, 16S, 23S)
+            tRNAs                        :: 45
+            ncRNA                        :: 1
+            Frameshifted Genes           :: 35
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3629
+                     /organism="Thermococcus eurythermalis"
+                     /mol_type="genomic DNA"
+                     /strain="A501"
+                     /isolation_source="oil-immersed sample from Guaymas Basin"
+                     /culture_collection="CGMCC:7834"
+                     /culture_collection="JCM:30233"
+                     /db_xref="taxon:1505907"
+                     /plasmid="unnamed"
+                     /collection_date="14-Nov-2009"
+     gene            complement(join(3070..3629,1..94))
+                     /locus_tag="TEU_11715"
+     CDS             complement(join(3070..3629,1..94))
+                     /locus_tag="TEU_11715"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_002971132.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="AIU70944.1"
+                     /db_xref="GI:700304126"
+                     /translation="MESGENTSFKKFICLHCGHVFDSDRDAPKCPNCGRRKVIPLETL
+                     GESLKKHKDKLKELGVLPEPDPEPQDSEPQETTVEGKVEAKDLETSKSEPVQIEQKVE
+                     ASKPESDQEPQNSEPKDSPDDVPESDRLLEKYLEELEDVPEKPKPKKLRPKKSKRSIT
+                     VPAGPSLLEVLIIIGAIVLIWKWLSSRSSKSDDESNVPRPSETYYQIQRNLGHHVLG"
+     gene            complement(81..308)
+                     /locus_tag="TEU_11720"
+     CDS             complement(81..308)
+                     /locus_tag="TEU_11720"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="AIU70940.1"
+                     /db_xref="GI:700304122"
+                     /translation="MVELVRLDGSLNFGDGAEVVSVWLNKLSDFEKLKSTFGGIFSTS
+                     ETSRGVLYSLFVPSFRVRFLCLVRGGGDGKR"
+     gene            complement(637..2526)
+                     /locus_tag="TEU_11725"
+     CDS             complement(637..2526)
+                     /locus_tag="TEU_11725"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="AIU70941.1"
+                     /db_xref="GI:700304123"
+                     /translation="MKLSDAHINPLLSSGSCSDVAGSSPSCSPSPAQTTGSTQRSLGV
+                     YLDISTTNEGEQSGRGPTIRIPLEAYTYYRSVIGRLERLKFESQGRVKVDLYKLKKRL
+                     FWIRHRLERRDLTDEERSALELERDRLLKTSQKLLERVSSSSALYGDRFIMDVPEGYV
+                     QLCKFLGIAPSDVEISVWVNSSVVDLEFDDASRSSLKLSYVSKVMASKYHPVKGISKG
+                     SQEAKRIVRDLLILQDFLDGSLLSYHKGGYVTGNSLLPVRFFVLTLPKEVSLYIWSKL
+                     REGDDSALKLFKKLSSRAIREFVLYLVEKEGLPVSKSNLVPGFVQNVHVTGDKNPFEP
+                     HIHSHFGVVFVVYDKASRSWYRLNPVLSEEDIEKLREIWKALVIEAFGEVLTGDTILK
+                     DFNVWVGDRYYSLPSDYVDVLFELKYNARKMFVNYANYYERRSFSEDFDEEFVRFVFS
+                     YDNRTERYGFLTNLKRYLFHLSLSAVGKRRDELLELLDRVEADLVVIDGEKFPAIYRS
+                     LIEKREAIRQELSRLESVLDNPSEAFSLLYNEIRSKVESMLSRKRITEERIVSILEGL
+                     FGKRIVGYKFVLLEEDVPLYRFLEAHRSVVLLSDRHKTVEFMLWYDPFWEDPPDVLEL
+                     KIPNS"
+     gene            complement(2552..2818)
+                     /locus_tag="TEU_11730"
+     CDS             complement(2552..2818)
+                     /locus_tag="TEU_11730"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="AIU70942.1"
+                     /db_xref="GI:700304124"
+                     /translation="MPKPTRRPSEILQWFREHPGEVTSLKALSLNLNIPYNTVFVVVK
+                     KLAEEGKLKKVGRGLYTLADEESGADDNRRGGNRAGRGTDASPS"
+     gene            complement(2879..3064)
+                     /locus_tag="TEU_11735"
+     CDS             complement(2879..3064)
+                     /locus_tag="TEU_11735"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="AIU70943.1"
+                     /db_xref="GI:700304125"
+                     /translation="MAEDEKPKRSWVEVAFYLFIALVVIWVFVRALKKSQNLIVWNPE
+                     LGLRLLEKSLSKLGFPT"
+ORIGIN      
+        1 tcggacactt tggcgcgtcc ctatcactgt caaagacgtg cccacagtgt aggcaaataa
+       61 acttcttgaa agaagtattc tcaccgcttt ccatctccac cacctcgcac aagacaaagg
+      121 aacctcacac ggaaagacgg aacaaacaac gagtaaagaa cacccctcga cgtctccgac
+      181 gttgaaaaga taccgccgaa ggtggacttc aacttctcga aatcactaag cttattcaac
+      241 caaacactca ctacttcagc accgtccccg aagttcaacg aaccgtccag tctcaccaac
+      301 tcaaccatag ctctcacccc tgattagaga cggtgaggca ccgtcagaca gagctacggc
+      361 agaggagtat ttaagcagtg aaccagaaaa cgggagaatt aggaacaaaa cggacacatc
+      421 aacactggca agaattggca gaacttggca gaaattggca agaaagagcc aacacctcaa
+      481 agaacactaa gcacttcaaa aacctcaaat tcccaaaccg ataccagaac ctaagaaagt
+      541 ggtatcacaa taccataacg gtaccatagc aataccgtaa cagtggcaaa tttgccaaat
+      601 ttaccaaatt gccagaattg gcagactacc agaaaatcag gaatttggaa ttttcagctc
+      661 caacacgtcc gggggatctt cccaaaacgg atcataccaa agcataaact caaccgtctt
+      721 atgcctatct gagagaagaa ccacagagcg atgagcctca aggaagcgat aaagcggaac
+      781 gtcctcttca aggagaacga acttataacc aacgatgcgc tttccgaaga ggccttcaag
+      841 gatagaaaca atccgctcct cggtgattct cttacgagaa agcatagact cgacctttga
+      901 ccgtatctca ttgtaaagca aactaaaagc ctcggaagga ttatccaata cagactcaag
+      961 acgagagagc tcttgacgaa tagcttcacg tttttctata agggaacgat aaatagcggg
+     1021 gaacttctct ccatcaataa ccacaaggtc agcctcaacc ctatccaaaa gctctaagag
+     1081 ttcatcacgg cgtttcccaa cagccgagag agaaagatgg aagagataac gcttaagatt
+     1141 cgtgaggaac ccataccgct cagttctatt atcgtaggag aagacaaagc gaacaaactc
+     1201 ctcatcaaaa tcctctgaga aggacctacg ctcataatag ttagcgtagt tcacaaacat
+     1261 cttacgagca ttatatttca actcgaagag cacatctaca tagtcagaag gaagagaata
+     1321 atagcggtca ccaacccaga cgttaaagtc cttgagaatg gtatcaccag tgaggacctc
+     1381 accgaaagcc tcaattacaa gagccttcca aatctctctc agcttctcaa tatcctcctc
+     1441 ggaaagaaca ggattcaaac gataccaaga ccgtgaagcc ttgtcataaa caacaaagac
+     1501 aaccccaaag tgagagtgaa tatgaggctc gaaagggttc ttatcaccag taacgtgaac
+     1561 attctgaaca aagccaggga caagattgga ctttgaaaca ggaagaccct ctttttcgac
+     1621 aagatacagg acaaactcgc gaatcgcccg agagcttagc tttttgaaaa gcttcaaagc
+     1681 cgaatcatca ccctcacgaa gctttgacca gatgtaaagg ctcacttcct tgggaagagt
+     1741 caaaacaaag aagcgaacag gaagaagact attcccagta acataaccac ccttatgata
+     1801 cgaaaggaga gagccatcta agaagtcctg aagaatcagc aaatcacgaa ctatacgctt
+     1861 agcttcttga gagcccttag agataccctt aacagggtga tacttggaag ccataacctt
+     1921 agagacatag gagagtttaa gcgaagagcg ggaagcatca tcaaattcta aatcaaccac
+     1981 cgaagaattc acccagacag agatttcaac atcagaggga gcaataccga ggaacttaca
+     2041 aagctgaaca tagccctcgg gaacgtccat aataaaccta tcaccgtaaa gagcagagga
+     2101 agagctaaca cgctcaagta acttttggga agtcttgaga agacggtccc gctcaagctc
+     2161 aagagcggaa cgctcttcat cagtaaggtc cctacgctca agcctatgcc taatccaaaa
+     2221 caaccgcttc ttgagtttat acaaatcaac tttgacccga ccctgagact caaactttaa
+     2281 gcgctcaagc cgtccgatga ctgaccgata ataagtgtaa gcctcaagtg gaatcctaat
+     2341 ggtaggacct ctccccgatt gctcaccctc attggttgtg gatatatcaa gataaacgcc
+     2401 gagcgacctt tgggttgagc cagtggtctg agcgggggag ggtgagcaac tcggtgagct
+     2461 acccgcaaca tcagaacaag accccgatga cagcaaagga tttatatgag catcacttaa
+     2521 tttcatacgc gaatcccctc ctgttgggat tctaagaagg ggaggcatcg gtaccacgtc
+     2581 ccgctcggtt gcctcccctt ctattatcgt cagcacctga ttcttcatca gccaaggtgt
+     2641 aaagaccgcg accaactttc ttgagcttac cctcttcggc cagcttctta acaacgacaa
+     2701 atacagtgtt gtaaggaata ttgagattaa gagatagagc tttgagggag gtaacttcac
+     2761 cagggtgttc acggaaccac tgaaggattt ctgatggtct cctggtcggc tttggcatcg
+     2821 gtaccacgtc ccgcaaatag tagtgagaat caaatcgtat ttatactttt cccttacctc
+     2881 acgtcgggaa cccaagcttc gaaagggatt tttccaagag tcgaaggcca agttctggat
+     2941 tccacacgat gagattctgg gacttcttga gtgccctaac gaacacccag atgactacga
+     3001 gcgctatgaa aaggtagaaa gcaacctcta cccaagacct cttaggcttc tcgtcctcgg
+     3061 ccataaccat cacccgagaa cgtgatgacc gagattccgc tgaatctgat aataggtttc
+     3121 ggaaggcctc ggaacgttgg actcatcatc agactttgag gaccttgaag ataaccactt
+     3181 ccatatgagg actatagccc cgatgatgat gaggacttca aggagggaag gacctgcggg
+     3241 aacagtgatg gacctcttag atttctttgg cctcaacttc ttaggtttag gtttctcagg
+     3301 gacgtcctca agctcttcaa gatatttctc aaggagtcgg tcagactcag gaacatcatc
+     3361 gggagaatcc ttaggctcag agttttgagg ctcctggtca gactcaggtt tagacgcctc
+     3421 aaccttctgc tcgatttgga caggctcaga ctttgaggtt tcaaggtcct tagcctcaac
+     3481 cttcccctcg accgtagtct cctgaggctc agagtcctga ggttcagggt caggctcagg
+     3541 aagaacacca agctccttca gcttatcctt atgcttcttg agagactcac cgagagtctc
+     3601 aagcggaata actttcctac ggccacagt
+//
+

@@ -1,0 +1,1123 @@
+gene_oid	gene_length	percent_identity	query_start	query_end	subj_start	subj_end	evalue	bit_score	ko_id	ko_name	EC	img_ko_flag
+638199283	164						0.0e+00		KO:K02867	large subunit ribosomal protein L11		No
+638199284	152						0.0e+00		KO:K02601	transcriptional antiterminator NusG		No
+638199285	61						0.0e+00		KO:K07342	protein transport protein SEC61 subunit gamma and related proteins		No
+638199286	372						0.0e+00		KO:K03531	cell division protein FtsZ		No
+638199289	272						0.0e+00		KO:K09716	hypothetical protein		No
+638199290	233						0.0e+00		KO:K07073			No
+638199297	205						0.0e+00		KO:K09141	hypothetical protein		No
+638199298	279						0.0e+00		KO:K00767	nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	EC:2.4.2.19	No
+638199300	308						0.0e+00		KO:K03517	quinolinate synthase [EC:2.5.1.72]	EC:2.5.1.72	No
+638199301	396						0.0e+00		KO:K09133	hypothetical protein		No
+638199302	464						0.0e+00		KO:K00278	L-aspartate oxidase [EC:1.4.3.16]	EC:1.4.3.16	No
+638199303	469						0.0e+00		KO:K01595	phosphoenolpyruvate carboxylase [EC:4.1.1.31]	EC:4.1.1.31	No
+638199307	128						0.0e+00		KO:K07076			No
+638199309	240						0.0e+00		KO:K04069	pyruvate formate lyase activating enzyme [EC:1.97.1.4]	EC:1.97.1.4	No
+638199310	658						0.0e+00		KO:K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	EC:1.17.4.2	No
+638199311	364						0.0e+00		KO:K02023	multiple sugar transport system ATP-binding protein		No
+638199312	277						0.0e+00		KO:K02026	multiple sugar transport system permease protein		No
+638199313	284						0.0e+00		KO:K02025	multiple sugar transport system permease protein		No
+638199314	426						0.0e+00		KO:K02027	multiple sugar transport system substrate-binding protein		No
+638199316	91						0.0e+00		KO:K03232	elongation factor 1-beta		No
+638199317	63						0.0e+00		KO:K07580	hypothetical protein		No
+638199318	277						0.0e+00		KO:K03179	4-hydroxybenzoate octaprenyltransferase [EC:2.5.1.-]	EC:2.5.1.-	No
+638199320	492						0.0e+00		KO:K03307	solute:Na+ symporter, SSS family		No
+638199321	624						0.0e+00		KO:K03738	aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]	EC:1.2.7.5	No
+638199329	155						0.0e+00		KO:K07063			No
+638199336	232						0.0e+00		KO:K02233	adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26]	EC:2.7.8.26	No
+638199339	290						0.0e+00		KO:K02227	adenosylcobinamide-phosphate synthase [EC:6.3.1.10]	EC:6.3.1.10	No
+638199340	329						0.0e+00		KO:K00817	histidinol-phosphate aminotransferase [EC:2.6.1.9]	EC:2.6.1.9	No
+638199341	410						0.0e+00		KO:K01834	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.1]	EC:5.4.2.1	No
+638199341	410						0.0e+00		KO:K15635	2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.1]	EC:5.4.2.1	No
+638199342	309						0.0e+00		KO:K00558	DNA (cytosine-5-)-methyltransferase [EC:2.1.1.37]	EC:2.1.1.37	No
+638199343	95						0.0e+00		KO:K03056	DNA-directed RNA polymerase subunit L [EC:2.7.7.6]	EC:2.7.7.6	No
+638199344	219						0.0e+00		KO:K09742	hypothetical protein		No
+638199345	199						0.0e+00		KO:K07573	exosome complex component CSL4		No
+638199346	855						0.0e+00		KO:K03725	archaea-specific helicase [EC:3.6.1.-]	EC:3.6.1.-	No
+638199347	155	83.9	1	155	1	155	0.0e+00	261.5	KO:K03719	Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein		Yes
+638199351	362						0.0e+00		KO:K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	EC:2.4.1.83	No
+638199352	227						0.0e+00		KO:K04795	fibrillarin-like pre-rRNA processing protein		No
+638199353	404						0.0e+00		KO:K14564	nucleolar protein 56		No
+638199354	350						0.0e+00		KO:K06921			No
+638199355	330						0.0e+00		KO:K01505	1-aminocyclopropane-1-carboxylate deaminase [EC:3.5.99.7]	EC:3.5.99.7	No
+638199360	158						0.0e+00		KO:K02956	small subunit ribosomal protein S15		No
+638199361	481						0.0e+00		KO:K07463	archaea-specific RecJ-like exonuclease		No
+638199363	200						0.0e+00		KO:K02984	small subunit ribosomal protein S3Ae		No
+638199366	134						0.0e+00		KO:K03892	ArsR family transcriptional regulator		No
+638199371	340						0.0e+00		KO:K01424	L-asparaginase [EC:3.5.1.1]	EC:3.5.1.1	No
+638199374	437						0.0e+00		KO:K00703	starch synthase [EC:2.4.1.21]	EC:2.4.1.21	No
+638199376	207						0.0e+00		KO:K09120	hypothetical protein		No
+638199380	175						0.0e+00		KO:K00798	cob(I)alamin adenosyltransferase [EC:2.5.1.17]	EC:2.5.1.17	No
+638199382	361						0.0e+00		KO:K01266	D-aminopeptidase [EC:3.4.11.19]	EC:3.4.11.19	No
+638199383	355						0.0e+00		KO:K06963	tRNA acetyltransferase TAN1		No
+638199384	244						0.0e+00		KO:K03753	molybdopterin-guanine dinucleotide biosynthesis protein B		No
+638199387	281						0.0e+00		KO:K01623	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	EC:4.1.2.13	No
+638199388	283						0.0e+00		KO:K01480	agmatinase [EC:3.5.3.11]	EC:3.5.3.11	No
+638199389	161						0.0e+00		KO:K06963	tRNA acetyltransferase TAN1		No
+638199390	239						0.0e+00		KO:K06920	queuosine biosynthesis protein QueC		No
+638199396	819						0.0e+00		KO:K01007	pyruvate, water dikinase [EC:2.7.9.2]	EC:2.7.9.2	No
+638199397	248						0.0e+00		KO:K07045			No
+638199399	153						0.0e+00		KO:K07101			No
+638199401	184						0.0e+00		KO:K01975	2'-5' RNA ligase [EC:6.5.1.-]	EC:6.5.1.-	No
+638199402	448						0.0e+00		KO:K07558	tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72]	EC:2.7.7.72	No
+638199403	276						0.0e+00		KO:K07008	glutamine amidotransferase		No
+638199404	286						0.0e+00		KO:K07504	hypothetical protein		No
+638199407	213						0.0e+00		KO:K07050			No
+638199408	1308						0.0e+00		KO:K06860	uncharacterized protein		No
+638199409	1437						0.0e+00		KO:K04801	replication factor C small subunit		No
+638199410	479						0.0e+00		KO:K04800	replication factor C large subunit		No
+638199411	306						0.0e+00		KO:K03639	molybdenum cofactor biosynthesis protein		No
+638199412	333						0.0e+00		KO:K07055	tRNA wybutosine-synthesizing protein 2 [EC:2.1.1.-]	EC:2.1.1.-	No
+638199412	333						0.0e+00		KO:K15429	tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]		No
+638199415	128						0.0e+00		KO:K07064			No
+638199417	239						0.0e+00		KO:K04484	DNA repair protein RadB		No
+638199419	1455						0.0e+00		KO:K02322	DNA polymerase II large subunit [EC:2.7.7.7]	EC:2.7.7.7	No
+638199420	619						0.0e+00		KO:K02323	DNA polymerase II small subunit [EC:2.7.7.7]	EC:2.7.7.7	No
+638199421	432						0.0e+00		KO:K10725	archaeal cell division control protein 6		No
+638199422	257						0.0e+00		KO:K00772	5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	EC:2.4.2.28	No
+638199423	241						0.0e+00		KO:K06869	uncharacterized protein		No
+638199424	126						0.0e+00		KO:K09135	hypothetical protein		No
+638199425	251						0.0e+00		KO:K07503	hypothetical protein		No
+638199428	248						0.0e+00		KO:K02008	cobalt/nickel transport system permease protein		No
+638199429	260						0.0e+00		KO:K02006	cobalt/nickel transport system ATP-binding protein		No
+638199431	570						0.0e+00		KO:K07557	archaeosine tRNA-ribosyltransferase [EC:2.4.2.-]	EC:2.4.2.-	No
+638199432	399						0.0e+00		KO:K07133			No
+638199435	466						0.0e+00		KO:K00823	4-aminobutyrate aminotransferase [EC:2.6.1.19]	EC:2.6.1.19	No
+638199436	158	99.4	4	158	1	155	0.0e+00	295	KO:K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA		Yes
+638199437	447						0.0e+00		KO:K01467	beta-lactamase [EC:3.5.2.6]	EC:3.5.2.6	No
+638199441	526	94.3	1	526	1	526	0.0e+00	1013.4	KO:K06015	N-acyl-D-amino-acid deacylase [EC:3.5.1.81]	EC:3.5.1.81	Yes
+638199442	556						0.0e+00		KO:K02035	peptide/nickel transport system substrate-binding protein		No
+638199443	310						0.0e+00		KO:K02033	peptide/nickel transport system permease protein		No
+638199444	287						0.0e+00		KO:K02034	peptide/nickel transport system permease protein		No
+638199445	323						0.0e+00		KO:K02031	peptide/nickel transport system ATP-binding protein		No
+638199446	345						0.0e+00		KO:K02032	peptide/nickel transport system ATP-binding protein		No
+638199449	237						0.0e+00		KO:K03524	BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	EC:6.3.4.15	No
+638199450	302						0.0e+00		KO:K05715	2-phosphoglycerate kinase [EC:2.7.2.-]	EC:2.7.2.-	No
+638199451	431						0.0e+00		KO:K05716	cyclic 2,3-diphosphoglycerate synthetase [EC:4.6.1.-]	EC:4.6.1.-	No
+638199452	344						0.0e+00		KO:K02061	putative sulfate transport system substrate-binding protein		No
+638199452	344						0.0e+00		KO:K15495	molybdate/tungstate transport system substrate-binding protein		No
+638199455	248						0.0e+00		KO:K02060	putative sulfate transport system permease protein		No
+638199455	248						0.0e+00		KO:K15496	molybdate/tungstate transport system permease protein		No
+638199456	344						0.0e+00		KO:K02059	putative sulfate transport system ATP-binding protein		No
+638199456	344						0.0e+00		KO:K15497	molybdate/tungstate transport system ATP-binding protein [EC:3.6.3.-]	EC:3.6.3.-	No
+638199457	163						0.0e+00		KO:K03523	putative biotin biosynthesis protein BioY		No
+638199458	227						0.0e+00		KO:K03524	BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	EC:6.3.4.15	No
+638199459	183						0.0e+00		KO:K07559	putative RNA 2'-phosphotransferase [EC:2.7.1.-]	EC:2.7.1.-	No
+638199467	257						0.0e+00		KO:K01916	NAD+ synthase [EC:6.3.1.5]	EC:6.3.1.5	No
+638199469	148						0.0e+00		KO:K03635	molybdopterin synthase catalytic subunit [EC:2.-.-.-]	EC:2.-	No
+638199474	372						0.0e+00		KO:K08971	putative membrane protein		No
+638199476	187						0.0e+00		KO:K01628	L-fuculose-phosphate aldolase [EC:4.1.2.17]	EC:4.1.2.17	No
+638199478	655						0.0e+00		KO:K07405	alpha-amylase [EC:3.2.1.1]	EC:3.2.1.1	No
+638199479	453						0.0e+00		KO:K10113	maltooligosaccharide transport system substrate-binding protein		No
+638199480	302						0.0e+00		KO:K10114	maltooligosaccharide transport system permease protein		No
+638199481	412						0.0e+00		KO:K10115	maltooligosaccharide transport system permease protein		No
+638199483	371						0.0e+00		KO:K10116	maltooligosaccharide transport system ATP-binding protein		No
+638199484	345						0.0e+00		KO:K02683	DNA primase [EC:2.7.7.-]	EC:2.7.7.-	No
+638199485	400						0.0e+00		KO:K02685	DNA primase large subunit [EC:2.7.7.-]	EC:2.7.7.-	No
+638199486	357						0.0e+00		KO:K06947			No
+638199489	399						0.0e+00		KO:K03420	proteasome regulatory subunit		No
+638199490	362						0.0e+00		KO:K02023	multiple sugar transport system ATP-binding protein		No
+638199491	289						0.0e+00		KO:K02026	multiple sugar transport system permease protein		No
+638199492	313						0.0e+00		KO:K02025	multiple sugar transport system permease protein		No
+638199493	545						0.0e+00		KO:K02027	multiple sugar transport system substrate-binding protein		No
+638199495	324						0.0e+00		KO:K03680	translation initiation factor eIF-2B subunit delta		No
+638199496	131						0.0e+00		KO:K09713	hypothetical protein		No
+638199499	279						0.0e+00		KO:K00797	spermidine synthase [EC:2.5.1.16]	EC:2.5.1.16	No
+638199501	170						0.0e+00		KO:K07038	inner membrane protein		No
+638199502	202						0.0e+00		KO:K05595	multiple antibiotic resistance protein		No
+638199510	190						0.0e+00		KO:K09139	hypothetical protein		No
+638199511	526						0.0e+00		KO:K04566	lysyl-tRNA synthetase, class I [EC:6.1.1.6]	EC:6.1.1.6	No
+638199514	318						0.0e+00		KO:K06984			No
+638199516	194						0.0e+00		KO:K00180	indolepyruvate ferredoxin oxidoreductase, beta subunit [EC:1.2.7.8]	EC:1.2.7.8	No
+638199519	305						0.0e+00		KO:K13051	beta-aspartyl-peptidase (threonine type) [EC:3.4.19.5]	EC:3.4.19.5	No
+638199521	302						0.0e+00		KO:K01012	biotin synthetase [EC:2.8.1.6]	EC:2.8.1.6	No
+638199527	234						0.0e+00		KO:K01923	phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	EC:6.3.2.6	No
+638199528	447						0.0e+00		KO:K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	EC:2.4.2.14	No
+638199530	434						0.0e+00		KO:K01893	asparaginyl-tRNA synthetase [EC:6.1.1.22]	EC:6.1.1.22	No
+638199531	976						0.0e+00		KO:K07151	dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.1.119]	EC:2.4.1.119	No
+638199532	598						0.0e+00		KO:K00820	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	EC:2.6.1.16	No
+638199534	197						0.0e+00		KO:K03433	proteasome beta subunit [EC:3.4.25.1]	EC:3.4.25.1	No
+638199535	452						0.0e+00		KO:K03568	TldD protein		No
+638199536	427	63.8	1	427	1	426	0.0e+00	563.1	KO:K03592	PmbA protein		Yes
+638199539	401	93.8	1	401	1	401	0.0e+00	771.5	KO:K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	EC:2.8.1.7	Yes
+638199539	401	93.8	1	401	1	401	0.0e+00	771.5	KO:K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	EC:4.4.1.16	Yes
+638199540	233						0.0e+00		KO:K07025	putative hydrolase of the HAD superfamily		No
+638199541	178						0.0e+00		KO:K06966			No
+638199548	356						0.0e+00		KO:K04483	DNA repair protein RadA		No
+638199552	632						0.0e+00		KO:K00390	phosphoadenosine phosphosulfate reductase [EC:1.8.4.8]	EC:1.8.4.8	No
+638199553	294						0.0e+00		KO:K01893	asparaginyl-tRNA synthetase [EC:6.1.1.22]	EC:6.1.1.22	No
+638199554	215						0.0e+00		KO:K07101			No
+638199556	133						0.0e+00		KO:K01759	lactoylglutathione lyase [EC:4.4.1.5]	EC:4.4.1.5	No
+638199556	133						0.0e+00		KO:K05606	methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1]	EC:5.1.99.1	No
+638199557	324						0.0e+00		KO:K07588	LAO/AO transport system kinase [EC:2.7.-.-]	EC:2.7.-	No
+638199558	146						0.0e+00		KO:K01849	methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2]	EC:5.4.99.2	No
+638199559	210						0.0e+00		KO:K07585	hypothetical protein		No
+638199561	488						0.0e+00		KO:K06881	phosphoesterase RecJ domain-containing protein		No
+638199563	166						0.0e+00		KO:K07565	60S ribosome subunit biogenesis protein NIP7		No
+638199565	286						0.0e+00		KO:K07745	hypothetical protein		No
+638199567	185						0.0e+00		KO:K09729	hypothetical protein		No
+638199570	263						0.0e+00		KO:K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	EC:1.1.1.100	No
+638199574	250						0.0e+00		KO:K01126	glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	EC:3.1.4.46	No
+638199575	494						0.0e+00		KO:K00864	glycerol kinase [EC:2.7.1.30]	EC:2.7.1.30	No
+638199577	497						0.0e+00		KO:K00111	glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]	EC:1.1.5.3	No
+638199580	83						0.0e+00		KO:K02921	large subunit ribosomal protein L37Ae		No
+638199581	49						0.0e+00		KO:K03059	DNA-directed RNA polymerase subunit P [EC:2.7.7.6]	EC:2.7.7.6	No
+638199582	224						0.0e+00		KO:K14561	U3 small nucleolar ribonucleoprotein protein IMP4		No
+638199583	77						0.0e+00		KO:K09741	hypothetical protein		No
+638199584	732						0.0e+00		KO:K03234	elongation factor 2		No
+638199586	254						0.0e+00		KO:K01092	myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	EC:3.1.3.25	No
+638199587	752						0.0e+00		KO:K10896	fanconi anemia group M protein		No
+638199592	272						0.0e+00		KO:K09746	hypothetical protein		No
+638199594	375						0.0e+00		KO:K07466	replication factor A1		No
+638199595	192						0.0e+00		KO:K06024	segregation and condensation protein B		No
+638199597	329						0.0e+00		KO:K06936			No
+638199602	105						0.0e+00		KO:K07043			No
+638199603	1104						0.0e+00		KO:K01153	type I restriction enzyme, R subunit [EC:3.1.21.3]	EC:3.1.21.3	No
+638199604	385						0.0e+00		KO:K06921			No
+638199605	427						0.0e+00		KO:K01154	type I restriction enzyme, S subunit [EC:3.1.21.3]	EC:3.1.21.3	No
+638199606	623						0.0e+00		KO:K03427	type I restriction enzyme M protein [EC:2.1.1.72]	EC:2.1.1.72	No
+638199607	580						0.0e+00		KO:K06148	ATP-binding cassette, subfamily C, bacterial		No
+638199608	579						0.0e+00		KO:K06147	ATP-binding cassette, subfamily B, bacterial		No
+638199609	232						0.0e+00		KO:K01905	acetyl-CoA synthetase (ADP-forming) [EC:6.2.1.13]	EC:6.2.1.13	No
+638199613	307						0.0e+00		KO:K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	EC:5.1.3.2	No
+638199616	201						0.0e+00		KO:K07721	ArsR family transcriptional regulator		No
+638199617	94						0.0e+00		KO:K07569	RNA-binding protein		No
+638199618	163						0.0e+00		KO:K07095			No
+638199619	200						0.0e+00		KO:K07464	putative RecB family exonuclease		No
+638199621	481						0.0e+00		KO:K00302	sarcosine oxidase, subunit alpha [EC:1.5.3.1]	EC:1.5.3.1	No
+638199624	379						0.0e+00		KO:K00303	sarcosine oxidase, subunit beta [EC:1.5.3.1]	EC:1.5.3.1	No
+638199626	197						0.0e+00		KO:K00939	adenylate kinase [EC:2.7.4.3]	EC:2.7.4.3	No
+638199627	468						0.0e+00		KO:K03076	preprotein translocase subunit SecY		No
+638199628	147						0.0e+00		KO:K02876	large subunit ribosomal protein L15		No
+638199629	155						0.0e+00		KO:K02907	large subunit ribosomal protein L30		No
+638199630	236						0.0e+00		KO:K02988	small subunit ribosomal protein S5		No
+638199631	203						0.0e+00		KO:K02881	large subunit ribosomal protein L18		No
+638199632	151						0.0e+00		KO:K02885	large subunit ribosomal protein L19e		No
+638199633	130						0.0e+00		KO:K02912	large subunit ribosomal protein L32e		No
+638199634	184						0.0e+00		KO:K02933	large subunit ribosomal protein L6		No
+638199635	130						0.0e+00		KO:K02994	small subunit ribosomal protein S8		No
+638199636	56						0.0e+00		KO:K02954	small subunit ribosomal protein S14		No
+638199637	188						0.0e+00		KO:K02931	large subunit ribosomal protein L5		No
+638199638	243						0.0e+00		KO:K02987	small subunit ribosomal protein S4e		No
+638199639	121						0.0e+00		KO:K02895	large subunit ribosomal protein L24		No
+638199640	141						0.0e+00		KO:K02874	large subunit ribosomal protein L14		No
+638199641	116						0.0e+00		KO:K02961	small subunit ribosomal protein S17		No
+638199642	127						0.0e+00		KO:K03538	ribonuclease P protein subunit POP4 [EC:3.1.26.5]	EC:3.1.26.5	No
+638199643	99						0.0e+00		KO:K03113	translation initiation factor 1		No
+638199644	68						0.0e+00		KO:K02904	large subunit ribosomal protein L29		No
+638199645	210						0.0e+00		KO:K02982	small subunit ribosomal protein S3		No
+638199646	155						0.0e+00		KO:K02890	large subunit ribosomal protein L22		No
+638199647	132						0.0e+00		KO:K02965	small subunit ribosomal protein S19		No
+638199648	239						0.0e+00		KO:K02886	large subunit ribosomal protein L2		No
+638199649	86						0.0e+00		KO:K02892	large subunit ribosomal protein L23		No
+638199650	255						0.0e+00		KO:K02930	large subunit ribosomal protein L4e		No
+638199651	361						0.0e+00		KO:K02906	large subunit ribosomal protein L3		No
+638199652	258						0.0e+00		KO:K09142	hypothetical protein		No
+638199654	137						0.0e+00		KO:K09152	hypothetical protein		No
+638199655	417						0.0e+00		KO:K06885			No
+638199657	269						0.0e+00		KO:K09007	hypothetical protein		No
+638199658	212						0.0e+00		KO:K06974			No
+638199660	198						0.0e+00		KO:K03151	thiamine biosynthesis protein ThiI		No
+638199664	537						0.0e+00		KO:K01937	CTP synthase [EC:6.3.4.2]	EC:6.3.4.2	No
+638199667	218						0.0e+00		KO:K05896	segregation and condensation protein A		No
+638199668	1177						0.0e+00		KO:K03529	chromosome segregation protein		No
+638199669	109	78	1	109	1	109	6.0e-42	170.2	KO:K06518	holin-like protein		Yes
+638199671	194						0.0e+00		KO:K07052			No
+638199672	441						0.0e+00		KO:K07472	TBP-interacting protein		No
+638199673	408						0.0e+00		KO:K00021	hydroxymethylglutaryl-CoA reductase (NADPH) [EC:1.1.1.34]	EC:1.1.1.34	No
+638199676	316						0.0e+00		KO:K07728	putative transcriptional regulator		No
+638199677	259	79.9	1	259	3	261	0.0e+00	438.3	KO:K00034	glucose 1-dehydrogenase [EC:1.1.1.47]	EC:1.1.1.47	Yes
+638199679	159						0.0e+00		KO:K03637	molybdenum cofactor biosynthesis protein C		No
+638199680	422						0.0e+00		KO:K06932			No
+638199681	493						0.0e+00		KO:K03498	trk system potassium uptake protein TrkH		No
+638199682	280						0.0e+00		KO:K02006	cobalt/nickel transport system ATP-binding protein		No
+638199683	284						0.0e+00		KO:K01738	cysteine synthase A [EC:2.5.1.47]	EC:2.5.1.47	No
+638199684	310						0.0e+00		KO:K01738	cysteine synthase A [EC:2.5.1.47]	EC:2.5.1.47	No
+638199685	183						0.0e+00		KO:K05873	adenylate cyclase, class 2 [EC:4.6.1.1]	EC:4.6.1.1	No
+638199686	188						0.0e+00		KO:K06974			No
+638199687	346						0.0e+00		KO:K01179	endoglucanase [EC:3.2.1.4]	EC:3.2.1.4	No
+638199688	209						0.0e+00		KO:K07572	putative nucleotide binding protein		No
+638199689	269						0.0e+00		KO:K02528	16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	EC:2.1.1.182	No
+638199690	404						0.0e+00		KO:K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	EC:2.5.1.6	No
+638199692	286						0.0e+00		KO:K04763	integrase/recombinase XerD		No
+638199693	310						0.0e+00		KO:K06982	pantoate kinase [EC:2.7.1.169]	EC:2.7.1.169	No
+638199695	383						0.0e+00		KO:K00555	tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase [EC:2.1.1.215 2.1.1.216]		No
+638199696	87						0.0e+00		KO:K02917	large subunit ribosomal protein L35Ae		No
+638199697	334						0.0e+00		KO:K00150	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	EC:1.2.1.59	No
+638199700	310						0.0e+00		KO:K00946	thiamine-monophosphate kinase [EC:2.7.4.16]	EC:2.7.4.16	No
+638199701	172						0.0e+00		KO:K00567	methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]	EC:2.1.1.63	No
+638199704	207						0.0e+00		KO:K09006	hypothetical protein		No
+638199705	93						0.0e+00		KO:K03622	archaea-specific DNA-binding protein		No
+638199706	795						0.0e+00		KO:K13525	transitional endoplasmic reticulum ATPase		No
+638199707	628						0.0e+00		KO:K03738	aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]	EC:1.2.7.5	No
+638199710	287						0.0e+00		KO:K07052			No
+638199715	123						0.0e+00		KO:K07062			No
+638199721	429						0.0e+00		KO:K07496	putative transposase		No
+638199722	212						0.0e+00		KO:K07450	putative resolvase		No
+638199724	249						0.0e+00		KO:K07052			No
+638199729	109						0.0e+00		KO:K06878	tRNA-binding protein		No
+638199731	232	89	1	227	1	227	0.0e+00	404.1	KO:K01779	aspartate racemase [EC:5.1.1.13]	EC:5.1.1.13	Yes
+638199733	165						0.0e+00		KO:K13993	HSP20 family protein		No
+638199734	293						0.0e+00		KO:K00852	ribokinase [EC:2.7.1.15]	EC:2.7.1.15	No
+638199735	272						0.0e+00		KO:K09686	antibiotic transport system permease protein		No
+638199736	255						0.0e+00		KO:K09686	antibiotic transport system permease protein		No
+638199737	318						0.0e+00		KO:K09687	antibiotic transport system ATP-binding protein		No
+638199739	501	81.4	1	500	4	503	0.0e+00	788.5	KO:K03406	methyl-accepting chemotaxis protein		Yes
+638199745	103						0.0e+00		KO:K03105	signal recognition particle subunit SRP19		No
+638199747	253						0.0e+00		KO:K07442	tRNA (adenine57-N1/adenine58-N1)-methyltransferase [EC:2.1.1.219 2.1.1.220]		No
+638199750	165						0.0e+00		KO:K06940			No
+638199757	361						0.0e+00		KO:K01649	2-isopropylmalate synthase [EC:2.3.3.13]	EC:2.3.3.13	No
+638199758	380						0.0e+00		KO:K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	EC:4.2.1.33	No
+638199758	380						0.0e+00		KO:K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	EC:4.2.1.35	No
+638199759	163						0.0e+00		KO:K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	EC:4.2.1.33	No
+638199759	163						0.0e+00		KO:K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	EC:4.2.1.35	No
+638199760	346						0.0e+00		KO:K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85]	EC:1.1.1.85	No
+638199760	346						0.0e+00		KO:K05824	homoisocitrate dehydrogenase [EC:1.1.1.87]	EC:1.1.1.87	No
+638199761	55	94.4	2	55	1	54	2.8e-24	110.5	KO:K05826	alpha-aminoadipate carrier protein LysW		Yes
+638199762	273						0.0e+00		KO:K05827	alpha-aminoadipate--LysW ligase LysX [EC:6.3.2.-]	EC:6.3.2.-	No
+638199763	330						0.0e+00		KO:K00145	N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	EC:1.2.1.38	No
+638199763	330						0.0e+00		KO:K05829	N-acetyl-gamma-glutamyl-phosphate/LysW-gamma-L-alpha-aminoadipyl-6-phosphate reductase [EC:1.2.1.38 1.2.1.-]	EC:1.2.1.-	No
+638199763	330						0.0e+00		KO:K05829	N-acetyl-gamma-glutamyl-phosphate/LysW-gamma-L-alpha-aminoadipyl-6-phosphate reductase [EC:1.2.1.38 1.2.1.-]	EC:1.2.1.38	No
+638199764	248						0.0e+00		KO:K00930	acetylglutamate kinase [EC:2.7.2.8]	EC:2.7.2.8	No
+638199764	248						0.0e+00		KO:K05828	acetylglutamate/LysW-gamma-L-alpha-aminoadipate kinase [EC:2.7.2.8 2.7.2.-]	EC:2.7.2.-	No
+638199764	248						0.0e+00		KO:K05828	acetylglutamate/LysW-gamma-L-alpha-aminoadipate kinase [EC:2.7.2.8 2.7.2.-]	EC:2.7.2.8	No
+638199765	364						0.0e+00		KO:K05830	acetylornithine/LysW-gamma-L-lysine aminotransferase [EC:2.6.1.11 2.6.1.-]	EC:2.6.1.-	No
+638199765	364						0.0e+00		KO:K05830	acetylornithine/LysW-gamma-L-lysine aminotransferase [EC:2.6.1.11 2.6.1.-]	EC:2.6.1.11	No
+638199766	337						0.0e+00		KO:K05831	LysW-gamma-L-lysine carboxypeptidase		No
+638199768	220						0.0e+00		KO:K00615	transketolase [EC:2.2.1.1]	EC:2.2.1.1	No
+638199769	317						0.0e+00		KO:K00615	transketolase [EC:2.2.1.1]	EC:2.2.1.1	No
+638199770	262						0.0e+00		KO:K03856	3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]	EC:2.5.1.54	No
+638199771	338						0.0e+00		KO:K01735	3-dehydroquinate synthase [EC:4.2.3.4]	EC:4.2.3.4	No
+638199772	215						0.0e+00		KO:K03785	3-dehydroquinate dehydratase I [EC:4.2.1.10]	EC:4.2.1.10	No
+638199773	264						0.0e+00		KO:K00014	shikimate dehydrogenase [EC:1.1.1.25]	EC:1.1.1.25	No
+638199774	274						0.0e+00		KO:K00891	shikimate kinase [EC:2.7.1.71]	EC:2.7.1.71	No
+638199775	404						0.0e+00		KO:K07335	basic membrane protein A and related proteins		No
+638199776	498						0.0e+00		KO:K02056	simple sugar transport system ATP-binding protein [EC:3.6.3.17]	EC:3.6.3.17	No
+638199777	329						0.0e+00		KO:K02057	simple sugar transport system permease protein		No
+638199778	302						0.0e+00		KO:K02057	simple sugar transport system permease protein		No
+638199779	410						0.0e+00		KO:K00800	3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	EC:2.5.1.19	No
+638199780	356						0.0e+00		KO:K01736	chorismate synthase [EC:4.2.3.5]	EC:4.2.3.5	No
+638199781	248						0.0e+00		KO:K01695	tryptophan synthase alpha chain [EC:4.2.1.20]	EC:4.2.1.20	No
+638199782	388						0.0e+00		KO:K01696	tryptophan synthase beta chain [EC:4.2.1.20]	EC:4.2.1.20	No
+638199783	208						0.0e+00		KO:K01817	phosphoribosylanthranilate isomerase [EC:5.3.1.24]	EC:5.3.1.24	No
+638199784	190						0.0e+00		KO:K01658	anthranilate synthase component II [EC:4.1.3.27]	EC:4.1.3.27	No
+638199785	434						0.0e+00		KO:K01657	anthranilate synthase component I [EC:4.1.3.27]	EC:4.1.3.27	No
+638199786	324						0.0e+00		KO:K00766	anthranilate phosphoribosyltransferase [EC:2.4.2.18]	EC:2.4.2.18	No
+638199787	229						0.0e+00		KO:K01609	indole-3-glycerol phosphate synthase [EC:4.1.1.48]	EC:4.1.1.48	No
+638199788	152						0.0e+00		KO:K07158			No
+638199790	411						0.0e+00		KO:K03242	translation initiation factor 2 subunit 3		No
+638199792	166						0.0e+00		KO:K05520	protease I [EC:3.2.-.-]	EC:3.2.-	No
+638199794	305						0.0e+00		KO:K05966	triphosphoribosyl-dephospho-CoA synthase [EC:2.7.8.25]	EC:2.7.8.25	No
+638199799	361						0.0e+00		KO:K00966	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	EC:2.7.7.13	No
+638199801	205						0.0e+00		KO:K00943	dTMP kinase [EC:2.7.4.9]	EC:2.7.4.9	No
+638199802	443						0.0e+00		KO:K03106	signal recognition particle subunit SRP54		No
+638199804	142						0.0e+00		KO:K06940			No
+638199806	237						0.0e+00		KO:K09685	purine operon repressor		No
+638199809	571						0.0e+00		KO:K01885	glutamyl-tRNA synthetase [EC:6.1.1.17]	EC:6.1.1.17	No
+638199816	165						0.0e+00		KO:K01678	fumarate hydratase subunit beta [EC:4.2.1.2]	EC:4.2.1.2	No
+638199817	271						0.0e+00		KO:K01677	fumarate hydratase subunit alpha [EC:4.2.1.2]	EC:4.2.1.2	No
+638199818	235						0.0e+00		KO:K07124			No
+638199830	387						0.0e+00		KO:K06944			No
+638199832	92						0.0e+00		KO:K09131	hypothetical protein		No
+638199833	322						0.0e+00		KO:K03110	fused signal recognition particle receptor		No
+638199834	89						0.0e+00		KO:K00176	2-oxoglutarate ferredoxin oxidoreductase subunit delta [EC:1.2.7.3]	EC:1.2.7.3	No
+638199835	408						0.0e+00		KO:K00174	2-oxoglutarate ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3]	EC:1.2.7.3	No
+638199836	284						0.0e+00		KO:K00175	2-oxoglutarate ferredoxin oxidoreductase subunit beta [EC:1.2.7.3]	EC:1.2.7.3	No
+638199837	170						0.0e+00		KO:K00177	2-oxoglutarate ferredoxin oxidoreductase subunit gamma [EC:1.2.7.3]	EC:1.2.7.3	No
+638199838	385						0.0e+00		KO:K00174	2-oxoglutarate ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3]	EC:1.2.7.3	No
+638199839	281						0.0e+00		KO:K00175	2-oxoglutarate ferredoxin oxidoreductase subunit beta [EC:1.2.7.3]	EC:1.2.7.3	No
+638199840	185						0.0e+00		KO:K00177	2-oxoglutarate ferredoxin oxidoreductase subunit gamma [EC:1.2.7.3]	EC:1.2.7.3	No
+638199841	349						0.0e+00		KO:K02016	iron complex transport system substrate-binding protein		No
+638199845	238						0.0e+00		KO:K07025	putative hydrolase of the HAD superfamily		No
+638199846	427						0.0e+00		KO:K00600	glycine hydroxymethyltransferase [EC:2.1.2.1]	EC:2.1.2.1	No
+638199847	260						0.0e+00		KO:K02074	zinc/manganese transport system ATP-binding protein		No
+638199848	276						0.0e+00		KO:K02075	zinc/manganese transport system permease protein		No
+638199849	224						0.0e+00		KO:K03470	ribonuclease HII [EC:3.1.26.4]	EC:3.1.26.4	No
+638199851	395						0.0e+00		KO:K03750	molybdopterin molybdotransferase [EC:2.10.1.1]		No
+638199852	451						0.0e+00		KO:K00918	ADP-dependent phosphofructokinase/glucokinase [EC:2.7.1.146 2.7.1.147]	EC:2.7.1.146	No
+638199852	451						0.0e+00		KO:K00918	ADP-dependent phosphofructokinase/glucokinase [EC:2.7.1.146 2.7.1.147]	EC:2.7.1.147	No
+638199853	334						0.0e+00		KO:K03177	tRNA pseudouridine55 synthase [EC:5.4.99.25]	EC:5.4.99.25	No
+638199853	334						0.0e+00		KO:K11131	H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-]	EC:5.4.99.-	No
+638199859	148						0.0e+00		KO:K02952	small subunit ribosomal protein S13		No
+638199860	180						0.0e+00		KO:K02986	small subunit ribosomal protein S4		No
+638199861	137						0.0e+00		KO:K02948	small subunit ribosomal protein S11		No
+638199862	259						0.0e+00		KO:K03047	DNA-directed RNA polymerase subunit D [EC:2.7.7.6]	EC:2.7.7.6	No
+638199864	120						0.0e+00		KO:K02883	large subunit ribosomal protein L18e		No
+638199865	142						0.0e+00		KO:K02871	large subunit ribosomal protein L13		No
+638199866	135						0.0e+00		KO:K02996	small subunit ribosomal protein S9		No
+638199867	65						0.0e+00		KO:K03058	DNA-directed RNA polymerase subunit N [EC:2.7.7.6]	EC:2.7.7.6	No
+638199869	57						0.0e+00		KO:K03055	DNA-directed RNA polymerase subunit K [EC:2.7.7.6]	EC:2.7.7.6	No
+638199870	342						0.0e+00		KO:K01689	enolase [EC:4.2.1.11]	EC:4.2.1.11	No
+638199871	202						0.0e+00		KO:K02967	small subunit ribosomal protein S2		No
+638199872	343						0.0e+00		KO:K01733	threonine synthase [EC:4.2.3.1]	EC:4.2.3.1	No
+638199873	291						0.0e+00		KO:K06990			No
+638199875	335						0.0e+00		KO:K00869	mevalonate kinase [EC:2.7.1.36]	EC:2.7.1.36	No
+638199876	254						0.0e+00		KO:K06981			No
+638199877	559						0.0e+00		KO:K10747	DNA ligase 1 [EC:6.5.1.1]	EC:6.5.1.1	No
+638199880	186						0.0e+00		KO:K06384	stage II sporulation protein M		No
+638199881	370						0.0e+00		KO:K09726	hypothetical protein		No
+638199882	418						0.0e+00		KO:K02472	UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase [EC:1.1.1.-]	EC:1.1.1.-	No
+638199883	381						0.0e+00		KO:K01791	UDP-N-acetylglucosamine 2-epimerase [EC:5.1.3.14]	EC:5.1.3.14	No
+638199885	419						0.0e+00		KO:K06935			No
+638199886	571						0.0e+00		KO:K01880	glycyl-tRNA synthetase [EC:6.1.1.14]	EC:6.1.1.14	No
+638199888	171						0.0e+00		KO:K09145	hypothetical protein		No
+638199889	128						0.0e+00		KO:K09727	hypothetical protein		No
+638199890	158						0.0e+00		KO:K02626	arginine decarboxylase [EC:4.1.1.19]	EC:4.1.1.19	No
+638199892	249						0.0e+00		KO:K06167	PhnP protein		No
+638199894	386						0.0e+00		KO:K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	EC:5.5.1.4	No
+638199895	916						0.0e+00		KO:K14415	tRNA-splicing ligase RtcB [EC:6.5.1.3]	EC:6.5.1.3	No
+638199897	117						0.0e+00		KO:K03540	ribonuclease P protein subunit RPR2 [EC:3.1.26.5]	EC:3.1.26.5	No
+638199899	260						0.0e+00		KO:K03609	septum site-determining protein MinD		No
+638199901	507						0.0e+00		KO:K00758	thymidine phosphorylase [EC:2.4.2.4]	EC:2.4.2.4	No
+638199906	420						0.0e+00		KO:K00261	glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]	EC:1.4.1.3	No
+638199907	141						0.0e+00		KO:K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA		No
+638199909	264						0.0e+00		KO:K00806	undecaprenyl diphosphate synthase [EC:2.5.1.31]	EC:2.5.1.31	No
+638199909	264						0.0e+00		KO:K15888	tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific] [EC:2.5.1.89]	EC:2.5.1.89	No
+638199910	182						0.0e+00		KO:K01493	dCMP deaminase [EC:3.5.4.12]	EC:3.5.4.12	No
+638199911	265						0.0e+00		KO:K01417			No
+638199912	122						0.0e+00		KO:K07737	putative transcriptional regulator		No
+638199913	118						0.0e+00		KO:K09153	hypothetical protein		No
+638199915	417						0.0e+00		KO:K03265	peptide chain release factor subunit 1		No
+638199916	451						0.0e+00		KO:K06001	tryptophan synthase beta chain [EC:4.2.1.20]	EC:4.2.1.20	No
+638199917	282						0.0e+00		KO:K02035	peptide/nickel transport system substrate-binding protein		No
+638199918	139						0.0e+00		KO:K04651	hydrogenase nickel incorporation protein HypA/HybF		No
+638199919	242						0.0e+00		KO:K03593	ATP-binding protein involved in chromosome partitioning		No
+638199920	173						0.0e+00		KO:K03574	7,8-dihydro-8-oxoguanine triphosphatase [EC:3.6.1.-]	EC:3.6.1.-	No
+638199923	287						0.0e+00		KO:K09116	hypothetical protein		No
+638199927	335						0.0e+00		KO:K04773	protease IV [EC:3.4.21.-]	EC:3.4.21.-	No
+638199928	115						0.0e+00		KO:K03236	translation initiation factor 1A		No
+638199929	266						0.0e+00		KO:K07178	RIO kinase 1 [EC:2.7.11.1]	EC:2.7.11.1	No
+638199930	221						0.0e+00		KO:K06961	ribosomal RNA assembly protein		No
+638199931	564						0.0e+00		KO:K03167	DNA topoisomerase VI subunit B [EC:5.99.1.3]	EC:5.99.1.3	No
+638199932	382						0.0e+00		KO:K03166	DNA topoisomerase VI subunit A [EC:5.99.1.3]	EC:5.99.1.3	No
+638199933	415						0.0e+00		KO:K09724	hypothetical protein		No
+638199936	448	82.4	7	448	1	442	0.0e+00	761.5	KO:K03592	PmbA protein		Yes
+638199937	458	91.4	4	458	1	455	0.0e+00	843.2	KO:K03568	TldD protein		Yes
+638199939	354						0.0e+00		KO:K06921			No
+638199941	210						0.0e+00		KO:K06927			No
+638199943	166						0.0e+00		KO:K07103			No
+638199944	260						0.0e+00		KO:K03432	proteasome alpha subunit [EC:3.4.25.1]	EC:3.4.25.1	No
+638199945	236						0.0e+00		KO:K14574	ribosome maturation protein SDO1		No
+638199946	265						0.0e+00		KO:K03679	exosome complex component RRP4		No
+638199947	249						0.0e+00		KO:K11600	exosome complex component RRP41		No
+638199948	274						0.0e+00		KO:K12589	exosome complex component RRP42		No
+638199953	82						0.0e+00		KO:K03053	DNA-directed RNA polymerase subunit H [EC:2.7.7.6]	EC:2.7.7.6	No
+638199954	1117						0.0e+00		KO:K13798	DNA-directed RNA polymerase subunit B [EC:2.7.7.6]	EC:2.7.7.6	No
+638199955	907						0.0e+00		KO:K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	EC:2.7.7.6	No
+638199956	397						0.0e+00		KO:K03042	DNA-directed RNA polymerase subunit A" [EC:2.7.7.6]	EC:2.7.7.6	No
+638199957	99						0.0e+00		KO:K02908	large subunit ribosomal protein L30e		No
+638199958	145						0.0e+00		KO:K02600	N utilization substance protein A		No
+638199959	147						0.0e+00		KO:K02950	small subunit ribosomal protein S12		No
+638199960	215						0.0e+00		KO:K02992	small subunit ribosomal protein S7		No
+638199961	121						0.0e+00		KO:K04794	peptidyl-tRNA hydrolase, PTH2 family [EC:3.1.1.29]	EC:3.1.1.29	No
+638199962	406						0.0e+00		KO:K06176	tRNA pseudouridine13 synthase [EC:5.4.99.27]	EC:5.4.99.27	No
+638199968	335						0.0e+00		KO:K06921			No
+638199970	73						0.0e+00		KO:K07729	putative transcriptional regulator		No
+638199972	244						0.0e+00		KO:K01990	ABC-2 type transport system ATP-binding protein		No
+638199973	420						0.0e+00		KO:K01992	ABC-2 type transport system permease protein		No
+638199974	170						0.0e+00		KO:K07095			No
+638199975	342						0.0e+00		KO:K01974	RNA 3'-terminal phosphate cyclase [EC:6.5.1.4]	EC:6.5.1.4	No
+638199977	348						0.0e+00		KO:K01179	endoglucanase [EC:3.2.1.4]	EC:3.2.1.4	No
+638199980	109						0.0e+00		KO:K03626	nascent polypeptide-associated complex subunit alpha		No
+638199983	151						0.0e+00		KO:K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA		No
+638199984	75						0.0e+00		KO:K04796	small nuclear ribonucleoprotein		No
+638199985	62						0.0e+00		KO:K02922	large subunit ribosomal protein L37e		No
+638199986	460						0.0e+00		KO:K01905	acetyl-CoA synthetase (ADP-forming) [EC:6.2.1.13]	EC:6.2.1.13	No
+638199987	303						0.0e+00		KO:K00226	dihydroorotate dehydrogenase (fumarate) [EC:1.3.98.1]	EC:1.3.98.1	No
+638199988	425						0.0e+00		KO:K12960	5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]	EC:3.5.4.28	No
+638199991	835						0.0e+00		KO:K00688	starch phosphorylase [EC:2.4.1.1]	EC:2.4.1.1	No
+638199993	440						0.0e+00		KO:K07403	membrane-bound serine protease (ClpP class)		No
+638199994	440						0.0e+00		KO:K03885	NADH dehydrogenase [EC:1.6.99.3]	EC:1.6.99.3	No
+638199995	429						0.0e+00		KO:K03147	thiamine biosynthesis protein ThiC		No
+638199996	633						0.0e+00		KO:K07128			No
+638199998	244						0.0e+00		KO:K09138	hypothetical protein		No
+638199999	118						0.0e+00		KO:K09008	hypothetical protein		No
+638200000	127						0.0e+00		KO:K09137	hypothetical protein		No
+638200001	123						0.0e+00		KO:K06199	CrcB protein		No
+638200002	257						0.0e+00		KO:K09686	antibiotic transport system permease protein		No
+638200003	328						0.0e+00		KO:K09687	antibiotic transport system ATP-binding protein		No
+638200005	431						0.0e+00		KO:K00823	4-aminobutyrate aminotransferase [EC:2.6.1.19]	EC:2.6.1.19	No
+638200007	222						0.0e+00		KO:K10773	endonuclease III [EC:4.2.99.18]	EC:4.2.99.18	No
+638200009	128						0.0e+00		KO:K02936	large subunit ribosomal protein L7Ae		No
+638200010	71						0.0e+00		KO:K02979	small subunit ribosomal protein S28e		No
+638200011	67						0.0e+00		KO:K02896	large subunit ribosomal protein L24e		No
+638200022	249						0.0e+00		KO:K03800	lipoate-protein ligase A [EC:2.7.7.63]	EC:2.7.7.63	No
+638200023	428						0.0e+00		KO:K03231	elongation factor 1-alpha		No
+638200024	102						0.0e+00		KO:K02946	small subunit ribosomal protein S10		No
+638200026	300						0.0e+00		KO:K03124	transcription initiation factor TFIIB		No
+638200027	119						0.0e+00		KO:K03537	ribonuclease P/MRP protein subunit POP5 [EC:3.1.26.5]	EC:3.1.26.5	No
+638200028	356						0.0e+00		KO:K06965	protein pelota		No
+638200029	625						0.0e+00		KO:K01887	arginyl-tRNA synthetase [EC:6.1.1.19]	EC:6.1.1.19	No
+638200030	142						0.0e+00		KO:K09730	hypothetical protein		No
+638200032	346						0.0e+00		KO:K00096	glycerol-1-phosphate dehydrogenase [NAD(P)] [EC:1.1.1.261]	EC:1.1.1.261	No
+638200036	196						0.0e+00		KO:K02334	DNA polymerase bacteriophage-type [EC:2.7.7.7]	EC:2.7.7.7	No
+638200037	239						0.0e+00		KO:K07731	putative transcriptional regulator		No
+638200038	260						0.0e+00		KO:K09722	4-phosphopantoate---beta-alanine ligase [EC:6.3.2.36]	EC:6.3.2.36	No
+638200039	146						0.0e+00		KO:K07397	putative redox protein		No
+638200043	633						0.0e+00		KO:K03330	glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7]	EC:6.3.5.7	No
+638200044	438						0.0e+00		KO:K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	EC:6.3.5.7	No
+638200048	305						0.0e+00		KO:K00847	fructokinase [EC:2.7.1.4]	EC:2.7.1.4	No
+638200050	1042						0.0e+00		KO:K06937			No
+638200051	168						0.0e+00		KO:K05569	multicomponent Na+:H+ antiporter subunit E		No
+638200052	84						0.0e+00		KO:K05570	multicomponent Na+:H+ antiporter subunit F		No
+638200053	131						0.0e+00		KO:K05571	multicomponent Na+:H+ antiporter subunit G		No
+638200055	235						0.0e+00		KO:K05566	multicomponent Na+:H+ antiporter subunit B		No
+638200056	114						0.0e+00		KO:K05567	multicomponent Na+:H+ antiporter subunit C		No
+638200057	493						0.0e+00		KO:K00343	NADH-quinone oxidoreductase subunit N [EC:1.6.5.3]	EC:1.6.5.3	No
+638200058	618						0.0e+00		KO:K00342	NADH-quinone oxidoreductase subunit M [EC:1.6.5.3]	EC:1.6.5.3	No
+638200059	309						0.0e+00		KO:K00337	NADH-quinone oxidoreductase subunit H [EC:1.6.5.3]	EC:1.6.5.3	No
+638200060	195						0.0e+00		KO:K00331	NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	EC:1.6.5.3	No
+638200061	174						0.0e+00		KO:K00332	NADH-quinone oxidoreductase subunit C [EC:1.6.5.3]	EC:1.6.5.3	No
+638200062	394						0.0e+00		KO:K00333	NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	EC:1.6.5.3	No
+638200063	214						0.0e+00		KO:K00338	NADH-quinone oxidoreductase subunit I [EC:1.6.5.3]	EC:1.6.5.3	No
+638200064	401						0.0e+00		KO:K13038	phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	EC:4.1.1.36	No
+638200064	401						0.0e+00		KO:K13038	phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	EC:6.3.2.5	No
+638200065	640						0.0e+00		KO:K06870	uncharacterized protein		No
+638200073	510						0.0e+00		KO:K05568	multicomponent Na+:H+ antiporter subunit D		No
+638200074	120						0.0e+00		KO:K05567	multicomponent Na+:H+ antiporter subunit C		No
+638200075	147						0.0e+00		KO:K05566	multicomponent Na+:H+ antiporter subunit B		No
+638200078	121						0.0e+00		KO:K05571	multicomponent Na+:H+ antiporter subunit G		No
+638200079	95						0.0e+00		KO:K05570	multicomponent Na+:H+ antiporter subunit F		No
+638200080	167						0.0e+00		KO:K05569	multicomponent Na+:H+ antiporter subunit E		No
+638200081	345						0.0e+00		KO:K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	EC:1.8.1.9	No
+638200082	454						0.0e+00		KO:K00823	4-aminobutyrate aminotransferase [EC:2.6.1.19]	EC:2.6.1.19	No
+638200085	233						0.0e+00		KO:K07024			No
+638200086	284						0.0e+00		KO:K09719	hypothetical protein		No
+638200089	330						0.0e+00		KO:K07055	tRNA wybutosine-synthesizing protein 2 [EC:2.1.1.-]	EC:2.1.1.-	No
+638200089	330						0.0e+00		KO:K15429	tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]		No
+638200090	343						0.0e+00		KO:K04799	flap endonuclease-1 [EC:3.-.-.-]	EC:3.-	No
+638200092	326						0.0e+00		KO:K02032	peptide/nickel transport system ATP-binding protein		No
+638200093	329						0.0e+00		KO:K02031	peptide/nickel transport system ATP-binding protein		No
+638200094	387						0.0e+00		KO:K02034	peptide/nickel transport system permease protein		No
+638200095	332						0.0e+00		KO:K02033	peptide/nickel transport system permease protein		No
+638200096	705						0.0e+00		KO:K02035	peptide/nickel transport system substrate-binding protein		No
+638200097	225						0.0e+00		KO:K09903	uridylate kinase [EC:2.7.4.22]	EC:2.7.4.22	No
+638200098	439						0.0e+00		KO:K01733	threonine synthase [EC:4.2.3.1]	EC:4.2.3.1	No
+638200099	651						0.0e+00		KO:K07041			No
+638200100	207						0.0e+00		KO:K03433	proteasome beta subunit [EC:3.4.25.1]	EC:3.4.25.1	No
+638200103	266						0.0e+00		KO:K03775	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD [EC:5.2.1.8]	EC:5.2.1.8	No
+638200104	335						0.0e+00		KO:K00809	deoxyhypusine synthase [EC:2.5.1.46]	EC:2.5.1.46	No
+638200108	348						0.0e+00		KO:K04069	pyruvate formate lyase activating enzyme [EC:1.97.1.4]	EC:1.97.1.4	No
+638200109	300						0.0e+00		KO:K00077	2-dehydropantoate 2-reductase [EC:1.1.1.169]	EC:1.1.1.169	No
+638200110	212						0.0e+00		KO:K07220	hypothetical protein		No
+638200111	307						0.0e+00		KO:K00058	D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	EC:1.1.1.95	No
+638200113	446						0.0e+00		KO:K07033			No
+638200114	247						0.0e+00		KO:K09013	Fe-S cluster assembly ATP-binding protein		No
+638200116	272						0.0e+00		KO:K06897			No
+638200117	138						0.0e+00		KO:K03263	translation initiation factor 5A		No
+638200119	232						0.0e+00		KO:K14568	essential for mitotic growth 1		No
+638200121	136						0.0e+00		KO:K07064			No
+638200123	229						0.0e+00		KO:K01807	ribose 5-phosphate isomerase A [EC:5.3.1.6]	EC:5.3.1.6	No
+638200128	389						0.0e+00		KO:K10907	aminotransferase [EC:2.6.1.-]	EC:2.6.1.-	No
+638200129	329						0.0e+00		KO:K01992	ABC-2 type transport system permease protein		No
+638200131	305						0.0e+00		KO:K01990	ABC-2 type transport system ATP-binding protein		No
+638200132	323						0.0e+00		KO:K01992	ABC-2 type transport system permease protein		No
+638200133	382						0.0e+00		KO:K00303	sarcosine oxidase, subunit beta [EC:1.5.3.1]	EC:1.5.3.1	No
+638200134	496						0.0e+00		KO:K00302	sarcosine oxidase, subunit alpha [EC:1.5.3.1]	EC:1.5.3.1	No
+638200135	537	91.2	1	537	1	537	0.0e+00	997.3	KO:K03307	solute:Na+ symporter, SSS family		Yes
+638200141	232						0.0e+00		KO:K00761	uracil phosphoribosyltransferase [EC:2.4.2.9]	EC:2.4.2.9	No
+638200142	427						0.0e+00		KO:K02824	uracil permease		No
+638200144	252						0.0e+00		KO:K03146	thiamine biosynthetic enzyme		No
+638200146	335						0.0e+00		KO:K06215	pyridoxine biosynthesis protein [EC:4.-.-.-]	EC:4.-	No
+638200147	196						0.0e+00		KO:K08681	glutamine amidotransferase [EC:2.6.-.-]	EC:2.6.-	No
+638200148	312						0.0e+00		KO:K06926			No
+638200150	665						0.0e+00		KO:K00123	formate dehydrogenase, alpha subunit [EC:1.2.1.2]	EC:1.2.1.2	No
+638200151	533						0.0e+00		KO:K02063	thiamine transport system permease protein		No
+638200152	329						0.0e+00		KO:K02062	thiamine transport system ATP-binding protein		No
+638200153	352						0.0e+00		KO:K02064	thiamine transport system substrate-binding protein		No
+638200155	337						0.0e+00		KO:K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.-]	EC:6.3.4.-	No
+638200156	308						0.0e+00		KO:K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	EC:6.3.5.2	No
+638200157	188						0.0e+00		KO:K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	EC:6.3.5.2	No
+638200160	156						0.0e+00		KO:K07064			No
+638200173	912						0.0e+00		KO:K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	EC:3.6.4.-	No
+638200174	121						0.0e+00		KO:K03552	holliday junction resolvase, archaea type		No
+638200176	197						0.0e+00		KO:K09154	hypothetical protein		No
+638200178	150						0.0e+00		KO:K02966	small subunit ribosomal protein S19e		No
+638200179	162						0.0e+00		KO:K07574	RNA-binding protein		No
+638200180	338						0.0e+00		KO:K06013	STE24 endopeptidase [EC:3.4.24.84]	EC:3.4.24.84	No
+638200182	357						0.0e+00		KO:K06943	nucleolar GTP-binding protein		No
+638200185	144						0.0e+00		KO:K02437	glycine cleavage system H protein		No
+638200186	67						0.0e+00		KO:K02962	small subunit ribosomal protein S17e		No
+638200187	216						0.0e+00		KO:K04477	putative hydrolase		No
+638200189	222						0.0e+00		KO:K09130	hypothetical protein		No
+638200190	306						0.0e+00		KO:K03151	thiamine biosynthesis protein ThiI		No
+638200191	132						0.0e+00		KO:K09731	hypothetical protein		No
+638200192	99						0.0e+00		KO:K09728	hypothetical protein		No
+638200194	414						0.0e+00		KO:K07496	putative transposase		No
+638200198	229						0.0e+00		KO:K06953			No
+638200201	216						0.0e+00		KO:K07176	putative serine/threonine protein kinase		No
+638200203	51						0.0e+00		KO:K02927	large subunit ribosomal protein L40e		No
+638200204	562						0.0e+00		KO:K01848	methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2]	EC:5.4.99.2	No
+638200208	393						0.0e+00		KO:K07583	tRNA pseudouridine synthase 10 [EC:5.4.99.-]	EC:5.4.99.-	No
+638200209	275						0.0e+00		KO:K03237	translation initiation factor 2 subunit 1		No
+638200210	60						0.0e+00		KO:K11130	H/ACA ribonucleoprotein complex subunit 3		No
+638200211	267						0.0e+00		KO:K07159			No
+638200212	282						0.0e+00		KO:K00606	3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	EC:2.1.2.11	No
+638200214	295	95.9	1	295	1	295	0.0e+00	570.5	KO:K03593	ATP-binding protein involved in chromosome partitioning		Yes
+638200216	451						0.0e+00		KO:K06921			No
+638200217	422						0.0e+00		KO:K00027	malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	EC:1.1.1.38	No
+638200218	362						0.0e+00		KO:K05884	(R)-2-hydroxyacid dehydrogenase [EC:1.1.1.272]	EC:1.1.1.272	No
+638200221	194						0.0e+00		KO:K02877	large subunit ribosomal protein L15e		No
+638200222	147						0.0e+00		KO:K08315	hydrogenase 3 maturation protease [EC:3.4.23.51]	EC:3.4.23.51	No
+638200223	191						0.0e+00		KO:K03752	molybdopterin-guanine dinucleotide biosynthesis protein A [EC:2.7.7.77]		No
+638200232	367						0.0e+00		KO:K00437	cytochrome-c3 hydrogenase [EC:1.12.2.1]	EC:1.12.2.1	No
+638200233	474						0.0e+00		KO:K01439	succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]	EC:3.5.1.18	No
+638200235	967						0.0e+00		KO:K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	EC:6.1.1.4	No
+638200238	96						0.0e+00		KO:K07064			No
+638200239	355						0.0e+00		KO:K01271	Xaa-Pro dipeptidase [EC:3.4.13.9]	EC:3.4.13.9	No
+638200242	1010						0.0e+00		KO:K07445	putative DNA methylase		No
+638200243	1109						0.0e+00		KO:K06922			No
+638200246	715						0.0e+00		KO:K03726	helicase [EC:3.6.4.-]	EC:3.6.4.-	No
+638200247	314						0.0e+00		KO:K00926	carbamate kinase [EC:2.7.2.2]	EC:2.7.2.2	No
+638200250	400						0.0e+00		KO:K01572	oxaloacetate decarboxylase, beta subunit [EC:4.1.1.3]	EC:4.1.1.3	No
+638200259	118						0.0e+00		KO:K05919	superoxide reductase [EC:1.15.1.2]	EC:1.15.1.2	No
+638200262	397						0.0e+00		KO:K07133			No
+638200263	200						0.0e+00		KO:K03183	ubiquinone/menaquinone biosynthesis methyltransferase [EC:2.1.1.163 2.1.1.201]	EC:2.1.1.163	No
+638200263	200						0.0e+00		KO:K03183	ubiquinone/menaquinone biosynthesis methyltransferase [EC:2.1.1.163 2.1.1.201]	EC:2.1.1.201	No
+638200268	221						0.0e+00		KO:K06897			No
+638200269	450						0.0e+00		KO:K03500	16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]	EC:2.1.1.176	No
+638200270	393						0.0e+00		KO:K01739	cystathionine gamma-synthase [EC:2.5.1.48]	EC:2.5.1.48	No
+638200272	313	85.2	4	313	1	309	0.0e+00	539.3	KO:K00549	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]	EC:2.1.1.14	Yes
+638200273	338						0.0e+00		KO:K00549	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]	EC:2.1.1.14	No
+638200275	484	90.3	1	483	1	483	0.0e+00	895.2	KO:K11928	sodium/proline symporter		Yes
+638200276	318						0.0e+00		KO:K00003	homoserine dehydrogenase [EC:1.1.1.3]	EC:1.1.1.3	No
+638200277	277						0.0e+00		KO:K00858	NAD+ kinase [EC:2.7.1.23]	EC:2.7.1.23	No
+638200281	346						0.0e+00		KO:K13787	geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29]	EC:2.5.1.1	No
+638200281	346						0.0e+00		KO:K13787	geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29]	EC:2.5.1.10	No
+638200281	346						0.0e+00		KO:K13787	geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29]	EC:2.5.1.29	No
+638200282	451						0.0e+00		KO:K07021			No
+638200283	298						0.0e+00		KO:K01426	amidase [EC:3.5.1.4]	EC:3.5.1.4	No
+638200286	1067						0.0e+00		KO:K01870	isoleucyl-tRNA synthetase [EC:6.1.1.5]	EC:6.1.1.5	No
+638200292	115						0.0e+00		KO:K06875	programmed cell death protein 5		No
+638200298	140						0.0e+00		KO:K09738	hypothetical protein		No
+638200305	689						0.0e+00		KO:K01534	Cd2+/Zn2+-exporting ATPase [EC:3.6.3.3 3.6.3.5]	EC:3.6.3.3	No
+638200305	689						0.0e+00		KO:K01534	Cd2+/Zn2+-exporting ATPase [EC:3.6.3.3 3.6.3.5]	EC:3.6.3.5	No
+638200306	156						0.0e+00		KO:K07062			No
+638200308	520						0.0e+00		KO:K01190	beta-galactosidase [EC:3.2.1.23]	EC:3.2.1.23	No
+638200309	644						0.0e+00		KO:K02035	peptide/nickel transport system substrate-binding protein		No
+638200310	334						0.0e+00		KO:K02033	peptide/nickel transport system permease protein		No
+638200311	306						0.0e+00		KO:K02034	peptide/nickel transport system permease protein		No
+638200312	322						0.0e+00		KO:K02031	peptide/nickel transport system ATP-binding protein		No
+638200313	322						0.0e+00		KO:K02032	peptide/nickel transport system ATP-binding protein		No
+638200314	514						0.0e+00		KO:K01179	endoglucanase [EC:3.2.1.4]	EC:3.2.1.4	No
+638200315	436						0.0e+00		KO:K07133			No
+638200316	339						0.0e+00		KO:K06921			No
+638200318	474						0.0e+00		KO:K00266	glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14]	EC:1.4.1.13	No
+638200318	474						0.0e+00		KO:K00266	glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14]	EC:1.4.1.14	No
+638200319	278						0.0e+00		KO:K00528	ferredoxin--NADP+ reductase [EC:1.18.1.2]	EC:1.18.1.2	No
+638200320	334						0.0e+00		KO:K00437	cytochrome-c3 hydrogenase [EC:1.12.2.1]	EC:1.12.2.1	No
+638200322	241						0.0e+00		KO:K00437	cytochrome-c3 hydrogenase [EC:1.12.2.1]	EC:1.12.2.1	No
+638200324	285						0.0e+00		KO:K06983			No
+638200325	307	88	1	307	1	309	0.0e+00	552	KO:K01273	membrane dipeptidase [EC:3.4.13.19]	EC:3.4.13.19	Yes
+638200330	413						0.0e+00		KO:K00966	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	EC:2.7.7.13	No
+638200331	438						0.0e+00		KO:K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	EC:6.1.1.12	No
+638200332	607						0.0e+00		KO:K03738	aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]	EC:1.2.7.5	No
+638200333	84						0.0e+00		KO:K03636	molybdopterin synthase sulfur carrier subunit		No
+638200337	181						0.0e+00		KO:K03186	3-octaprenyl-4-hydroxybenzoate carboxy-lyase UbiX [EC:4.1.1.-]	EC:4.1.1.-	No
+638200339	170						0.0e+00		KO:K05873	adenylate cyclase, class 2 [EC:4.6.1.1]	EC:4.6.1.1	No
+638200340	375						0.0e+00		KO:K01866	tyrosyl-tRNA synthetase [EC:6.1.1.1]	EC:6.1.1.1	No
+638200342	138						0.0e+00		KO:K09736	hypothetical protein		No
+638200343	191						0.0e+00		KO:K03120	transcription initiation factor TFIID TATA-box-binding protein		No
+638200345	480						0.0e+00		KO:K01881	prolyl-tRNA synthetase [EC:6.1.1.15]	EC:6.1.1.15	No
+638200348	872						0.0e+00		KO:K06877	DEAD/DEAH box helicase domain-containing protein		No
+638200349	308						0.0e+00		KO:K07022			No
+638200353	180						0.0e+00		KO:K08281	nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]	EC:3.5.1.-	No
+638200353	180						0.0e+00		KO:K08281	nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]	EC:3.5.1.19	No
+638200357	722						0.0e+00		KO:K01874	methionyl-tRNA synthetase [EC:6.1.1.10]	EC:6.1.1.10	No
+638200358	101						0.0e+00		KO:K03926	periplasmic divalent cation tolerance protein		No
+638200359	383						0.0e+00		KO:K07562	nonsense-mediated mRNA decay protein 3		No
+638200360	102						0.0e+00		KO:K09148	hypothetical protein		No
+638200363	255						0.0e+00		KO:K07160	UPF0271 protein		No
+638200364	361						0.0e+00		KO:K06921			No
+638200365	137						0.0e+00		KO:K08978	putative membrane protein		No
+638200367	439						0.0e+00		KO:K09155	hypothetical protein		No
+638200368	196						0.0e+00		KO:K08260	adenosylcobinamide hydrolase [EC:3.5.1.90]	EC:3.5.1.90	No
+638200369	446						0.0e+00		KO:K00378	hydroxylamine reductase [EC:1.7.-.-]	EC:1.7.-	No
+638200370	130						0.0e+00		KO:K07108			No
+638200371	233						0.0e+00		KO:K07142			No
+638200373	264						0.0e+00		KO:K09686	antibiotic transport system permease protein		No
+638200374	314						0.0e+00		KO:K01990	ABC-2 type transport system ATP-binding protein		No
+638200376	263						0.0e+00		KO:K06173	tRNA pseudouridine38-40 synthase [EC:5.4.99.12]	EC:5.4.99.12	No
+638200380	231						0.0e+00		KO:K11261	formylmethanofuran dehydrogenase subunit E [EC:1.2.99.5]	EC:1.2.99.5	No
+638200381	366						0.0e+00		KO:K02016	iron complex transport system substrate-binding protein		No
+638200382	343						0.0e+00		KO:K02015	iron complex transport system permease protein		No
+638200383	257						0.0e+00		KO:K02013	iron complex transport system ATP-binding protein [EC:3.6.3.34]	EC:3.6.3.34	No
+638200384	280						0.0e+00		KO:K07049	TatD-related deoxyribonuclease		No
+638200387	483						0.0e+00		KO:K07087			No
+638200388	253						0.0e+00		KO:K01990	ABC-2 type transport system ATP-binding protein		No
+638200389	239						0.0e+00		KO:K01741	DNA-(apurinic or apyrimidinic site) lyase [EC:4.2.99.18]	EC:4.2.99.18	No
+638200390	322						0.0e+00		KO:K06984			No
+638200395	229						0.0e+00		KO:K07725	putative transcriptional regulator		No
+638200396	222						0.0e+00		KO:K07475	putative phosphohydrolase		No
+638200397	529						0.0e+00		KO:K07012			No
+638200408	211						0.0e+00		KO:K06874	zinc finger protein		No
+638200412	424						0.0e+00		KO:K07281			No
+638200412	424						0.0e+00		KO:K07291			No
+638200413	410						0.0e+00		KO:K00927	phosphoglycerate kinase [EC:2.7.2.3]	EC:2.7.2.3	No
+638200414	335						0.0e+00		KO:K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	EC:1.2.1.11	No
+638200415	394						0.0e+00		KO:K01733	threonine synthase [EC:4.2.3.1]	EC:4.2.3.1	No
+638200416	294						0.0e+00		KO:K00872	homoserine kinase [EC:2.7.1.39]	EC:2.7.1.39	No
+638200417	352						0.0e+00		KO:K00928	aspartate kinase [EC:2.7.2.4]	EC:2.7.2.4	No
+638200418	368						0.0e+00		KO:K00928	aspartate kinase [EC:2.7.2.4]	EC:2.7.2.4	No
+638200419	216						0.0e+00		KO:K03386	peroxiredoxin (alkyl hydroperoxide reductase subunit C) [EC:1.11.1.15]	EC:1.11.1.15	No
+638200420	383						0.0e+00		KO:K02040	phosphate transport system substrate-binding protein		No
+638200421	495						0.0e+00		KO:K01077	alkaline phosphatase [EC:3.1.3.1]	EC:3.1.3.1	No
+638200424	304						0.0e+00		KO:K02037	phosphate transport system permease protein		No
+638200425	277						0.0e+00		KO:K02038	phosphate transport system permease protein		No
+638200426	253						0.0e+00		KO:K02036	phosphate transport system ATP-binding protein [EC:3.6.3.27]	EC:3.6.3.27	No
+638200427	183						0.0e+00		KO:K02039	phosphate transport system protein		No
+638200428	198						0.0e+00		KO:K02039	phosphate transport system protein		No
+638200429	138						0.0e+00		KO:K07064			No
+638200433	156						0.0e+00		KO:K01992	ABC-2 type transport system permease protein		No
+638200434	315						0.0e+00		KO:K01990	ABC-2 type transport system ATP-binding protein		No
+638200435	222						0.0e+00		KO:K01069	hydroxyacylglutathione hydrolase [EC:3.1.2.6]	EC:3.1.2.6	No
+638200436	83						0.0e+00		KO:K09715	hypothetical protein		No
+638200437	175						0.0e+00		KO:K01174	micrococcal nuclease [EC:3.1.31.1]	EC:3.1.31.1	No
+638200439	451						0.0e+00		KO:K03431	phosphoglucosamine mutase [EC:5.4.2.10]	EC:5.4.2.10	No
+638200440	259						0.0e+00		KO:K06971			No
+638200441	253						0.0e+00		KO:K03424	TatD DNase family protein [EC:3.1.21.-]	EC:3.1.21.-	No
+638200442	78						0.0e+00		KO:K04758	ferrous iron transport protein A		No
+638200443	661						0.0e+00		KO:K04759	ferrous iron transport protein B		No
+638200446	370						0.0e+00		KO:K01823	isopentenyl-diphosphate delta-isomerase [EC:5.3.3.2]	EC:5.3.3.2	No
+638200452	371						0.0e+00		KO:K07129			No
+638200453	163						0.0e+00		KO:K03709	DtxR family transcriptional regulator, Mn-dependent transcriptional regulator		No
+638200454	437						0.0e+00		KO:K06901	putative MFS transporter, AGZA family, xanthine/uracil permease		No
+638200455	265						0.0e+00		KO:K00772	5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	EC:2.4.2.28	No
+638200458	476						0.0e+00		KO:K07047			No
+638200459	613						0.0e+00		KO:K00179	indolepyruvate ferredoxin oxidoreductase, alpha subunit [EC:1.2.7.8]	EC:1.2.7.8	No
+638200464	423						0.0e+00		KO:K03665	GTP-binding protein HflX		No
+638200465	318						0.0e+00		KO:K03306	inorganic phosphate transporter, PiT family		No
+638200472	354						0.0e+00		KO:K01438	acetylornithine deacetylase [EC:3.5.1.16]	EC:3.5.1.16	No
+638200474	446						0.0e+00		KO:K00941	hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]	EC:2.7.1.49	No
+638200474	446						0.0e+00		KO:K00941	hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]	EC:2.7.4.7	No
+638200475	207						0.0e+00		KO:K00788	thiamine-phosphate pyrophosphorylase [EC:2.5.1.3]	EC:2.5.1.3	No
+638200476	268						0.0e+00		KO:K00878	hydroxyethylthiazole kinase [EC:2.7.1.50]	EC:2.7.1.50	No
+638200477	414						0.0e+00		KO:K03457	nucleobase:cation symporter-1, NCS1 family		No
+638200479	214						0.0e+00		KO:K03707	thiaminase (transcriptional activator TenA) [EC:3.5.99.2]	EC:3.5.99.2	No
+638200482	398						0.0e+00		KO:K00605	aminomethyltransferase [EC:2.1.2.10]	EC:2.1.2.10	No
+638200484	351						0.0e+00		KO:K01271	Xaa-Pro dipeptidase [EC:3.4.13.9]	EC:3.4.13.9	No
+638200485	236						0.0e+00		KO:K01799	maleate isomerase [EC:5.2.1.1]	EC:5.2.1.1	No
+638200486	307						0.0e+00		KO:K00784	ribonuclease Z [EC:3.1.26.11]	EC:3.1.26.11	No
+638200491	182						0.0e+00		KO:K00762	orotate phosphoribosyltransferase [EC:2.4.2.10]	EC:2.4.2.10	No
+638200492	97						0.0e+00		KO:K02889	large subunit ribosomal protein L21e		No
+638200493	121						0.0e+00		KO:K03051	DNA-directed RNA polymerase subunit F [EC:2.7.7.6]	EC:2.7.7.6	No
+638200496	252						0.0e+00		KO:K07094	putative glycerol-1-phosphate prenyltransferase [EC:2.5.1.-]	EC:2.5.1.-	No
+638200497	608						0.0e+00		KO:K06865	ATPase		No
+638200499	399						0.0e+00		KO:K07013			No
+638200502	220						0.0e+00		KO:K00939	adenylate kinase [EC:2.7.4.3]	EC:2.7.4.3	No
+638200503	584						0.0e+00		KO:K00773	queuine tRNA-ribosyltransferase [EC:2.4.2.29]	EC:2.4.2.29	No
+638200503	584						0.0e+00		KO:K07398	conserved protein with predicted RNA binding PUA domain		No
+638200507	335						0.0e+00		KO:K04070	putative pyruvate formate lyase activating enzyme [EC:1.97.1.4]	EC:1.97.1.4	No
+638200508	117						0.0e+00		KO:K09005	hypothetical protein		No
+638200509	867						0.0e+00		KO:K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	EC:3.6.4.-	No
+638200511	148						0.0e+00		KO:K06929			No
+638200514	69	89.9	1	69	3	71	8.2e-29	125.9	KO:K03154	sulfur carrier protein		Yes
+638200517	339						0.0e+00		KO:K07561	diphthamide synthase subunit DPH2		No
+638200519	243						0.0e+00		KO:K06921			No
+638200520	207						0.0e+00		KO:K06921			No
+638200521	439						0.0e+00		KO:K06921			No
+638200523	127						0.0e+00		KO:K02995	small subunit ribosomal protein S8e		No
+638200524	479						0.0e+00		KO:K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	EC:6.3.5.4	No
+638200525	388						0.0e+00		KO:K06921			No
+638200530	992						0.0e+00		KO:K03243	translation initiation factor 5B		No
+638200532	534						0.0e+00		KO:K00612	carbamoyltransferase [EC:2.1.3.-]	EC:2.1.3.-	No
+638200535	289						0.0e+00		KO:K03799	heat shock protein HtpX [EC:3.4.24.-]	EC:3.4.24.-	No
+638200537	226						0.0e+00		KO:K06927			No
+638200540	614						0.0e+00		KO:K01322	prolyl oligopeptidase [EC:3.4.21.26]	EC:3.4.21.26	No
+638200542	94						0.0e+00		KO:K02915	large subunit ribosomal protein L34e		No
+638200543	181						0.0e+00		KO:K00945	cytidylate kinase [EC:2.7.4.14]	EC:2.7.4.14	No
+638200544	82						0.0e+00		KO:K02875	large subunit ribosomal protein L14e		No
+638200546	186						0.0e+00		KO:K06910			No
+638200552	611						0.0e+00		KO:K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	EC:6.3.5.4	No
+638200554	427						0.0e+00		KO:K00012	UDPglucose 6-dehydrogenase [EC:1.1.1.22]	EC:1.1.1.22	No
+638200555	291						0.0e+00		KO:K00963	UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]	EC:2.7.7.9	No
+638200564	148						0.0e+00		KO:K07065			No
+638200566	459						0.0e+00		KO:K06921			No
+638200573	348						0.0e+00		KO:K06921			No
+638200575	379						0.0e+00		KO:K00958	sulfate adenylyltransferase [EC:2.7.7.4]	EC:2.7.7.4	No
+638200578	174						0.0e+00		KO:K00860	adenylylsulfate kinase [EC:2.7.1.25]	EC:2.7.1.25	No
+638200579	245						0.0e+00		KO:K07090			No
+638200581	352						0.0e+00		KO:K00973	glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	EC:2.7.7.24	No
+638200582	333						0.0e+00		KO:K01710	dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	EC:4.2.1.46	No
+638200585	133						0.0e+00		KO:K07065			No
+638200586	185						0.0e+00		KO:K01790	dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]	EC:5.1.3.13	No
+638200589	169						0.0e+00		KO:K07064			No
+638200590	283						0.0e+00		KO:K00067	dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]	EC:1.1.1.133	No
+638200593	446	95.5	1	446	1	447	0.0e+00	851.3	KO:K03655	ATP-dependent DNA helicase RecG [EC:3.6.4.12]	EC:3.6.4.12	Yes
+638200603	352						0.0e+00		KO:K07011			No
+638200605	344	50.3	1	340	1	342	0.0e+00	339.3	KO:K09726	hypothetical protein		Yes
+638200608	765						0.0e+00		KO:K07151	dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.1.119]	EC:2.4.1.119	No
+638200609	110						0.0e+00		KO:K07062			No
+638200613	462						0.0e+00		KO:K06921			No
+638200616	145	46.9	1	143	1	143	5.5e-35	147.5	KO:K07064			Yes
+638200619	621						0.0e+00		KO:K03738	aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]	EC:1.2.7.5	No
+638200620	326						0.0e+00		KO:K06921			No
+638200621	250						0.0e+00		KO:K12410	NAD-dependent deacetylase [EC:3.5.1.-]	EC:3.5.1.-	No
+638200622	201						0.0e+00		KO:K05569	multicomponent Na+:H+ antiporter subunit E		No
+638200623	89						0.0e+00		KO:K05570	multicomponent Na+:H+ antiporter subunit F		No
+638200624	103						0.0e+00		KO:K05571	multicomponent Na+:H+ antiporter subunit G		No
+638200625	151						0.0e+00		KO:K05566	multicomponent Na+:H+ antiporter subunit B		No
+638200626	127						0.0e+00		KO:K05566	multicomponent Na+:H+ antiporter subunit B		No
+638200627	92						0.0e+00		KO:K05567	multicomponent Na+:H+ antiporter subunit C		No
+638200628	479						0.0e+00		KO:K05568	multicomponent Na+:H+ antiporter subunit D		No
+638200632	424						0.0e+00		KO:K01601	ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]	EC:4.1.1.39	No
+638200633	275						0.0e+00		KO:K09711	hypothetical protein		No
+638200634	384						0.0e+00		KO:K01592	tyrosine decarboxylase [EC:4.1.1.25]	EC:4.1.1.25	No
+638200636	231						0.0e+00		KO:K07025	putative hydrolase of the HAD superfamily		No
+638200639	548						0.0e+00		KO:K06915			No
+638200641	880						0.0e+00		KO:K03546	exonuclease SbcC		No
+638200654	394						0.0e+00		KO:K05947	mannosyl-3-phosphoglycerate synthase [EC:2.4.1.217]	EC:2.4.1.217	No
+638200655	243						0.0e+00		KO:K07026	mannosyl-3-phosphoglycerate phosphatase [EC:3.1.3.70]	EC:3.1.3.70	No
+638200656	465						0.0e+00		KO:K00971	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	EC:2.7.7.13	No
+638200656	465						0.0e+00		KO:K01809	mannose-6-phosphate isomerase [EC:5.3.1.8]	EC:5.3.1.8	No
+638200656	465						0.0e+00		KO:K16011	mannose-1-phosphate guanylyltransferase / mannose-6-phosphate isomerase [EC:2.7.7.13 5.3.1.8]	EC:2.7.7.13	No
+638200656	465						0.0e+00		KO:K16011	mannose-1-phosphate guanylyltransferase / mannose-6-phosphate isomerase [EC:2.7.7.13 5.3.1.8]	EC:5.3.1.8	No
+638200657	456						0.0e+00		KO:K01835	phosphoglucomutase [EC:5.4.2.2]	EC:5.4.2.2	No
+638200657	456						0.0e+00		KO:K01840	phosphomannomutase [EC:5.4.2.8]	EC:5.4.2.8	No
+638200657	456						0.0e+00		KO:K15778	phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]	EC:5.4.2.2	No
+638200657	456						0.0e+00		KO:K15778	phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]	EC:5.4.2.8	No
+638200658	405						0.0e+00		KO:K07133			No
+638200661	773						0.0e+00		KO:K04656	hydrogenase maturation protein HypF		No
+638200662	367						0.0e+00		KO:K04654	hydrogenase expression/formation protein HypD		No
+638200663	75						0.0e+00		KO:K04653	hydrogenase expression/formation protein HypC		No
+638200671	330						0.0e+00		KO:K01551	arsenite-transporting ATPase [EC:3.6.3.16]	EC:3.6.3.16	No
+638200673	592						0.0e+00		KO:K06200	carbon starvation protein		No
+638200675	593						0.0e+00		KO:K06174	ATP-binding cassette, sub-family E, member 1		No
+638200676	127						0.0e+00		KO:K07567	TdcF protein		No
+638200677	285						0.0e+00		KO:K07027			No
+638200680	450						0.0e+00		KO:K01756	adenylosuccinate lyase [EC:4.3.2.2]	EC:4.3.2.2	No
+638200681	449	85.7	1	448	3	450	0.0e+00	803.5	KO:K03500	16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]	EC:2.1.1.176	Yes
+638200683	443						0.0e+00		KO:K03592	PmbA protein		No
+638200684	473						0.0e+00		KO:K03568	TldD protein		No
+638200685	294						0.0e+00		KO:K01714	dihydrodipicolinate synthase [EC:4.2.1.52]	EC:4.2.1.52	No
+638200687	135						0.0e+00		KO:K07076			No
+638200691	113						0.0e+00		KO:K06933			No
+638200692	139						0.0e+00		KO:K06934			No
+638200693	1214						0.0e+00		KO:K03170	reverse gyrase [EC:5.99.1.3 3.6.4.12]	EC:3.6.4.12	No
+638200693	1214						0.0e+00		KO:K03170	reverse gyrase [EC:5.99.1.3 3.6.4.12]	EC:5.99.1.3	No
+638200696	105						0.0e+00		KO:K07143	UPF0148 protein		No
+638200698	278						0.0e+00		KO:K07055	tRNA wybutosine-synthesizing protein 2 [EC:2.1.1.-]	EC:2.1.1.-	No
+638200699	179						0.0e+00		KO:K06928	nucleoside-triphosphatase THEP1 [EC:3.6.1.15]	EC:3.6.1.15	No
+638200700	238						0.0e+00		KO:K02013	iron complex transport system ATP-binding protein [EC:3.6.3.34]	EC:3.6.3.34	No
+638200701	331						0.0e+00		KO:K02015	iron complex transport system permease protein		No
+638200702	817						0.0e+00		KO:K06957	tRNA(Met) cytidine acetyltransferase [EC:2.3.1.193]	EC:2.3.1.193	No
+638200709	276						0.0e+00		KO:K01247	DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	EC:3.2.2.21	No
+638200710	179						0.0e+00		KO:K03627	putative transcription factor		No
+638200711	457						0.0e+00		KO:K00823	4-aminobutyrate aminotransferase [EC:2.6.1.19]	EC:2.6.1.19	No
+638200712	517						0.0e+00		KO:K03310	alanine or glycine:cation symporter, AGCS family		No
+638200715	314						0.0e+00		KO:K03924	MoxR-like ATPase [EC:3.6.3.-]	EC:3.6.3.-	No
+638200719	390						0.0e+00		KO:K00812	aspartate aminotransferase [EC:2.6.1.1]	EC:2.6.1.1	No
+638200720	171						0.0e+00		KO:K09119	hypothetical protein		No
+638200722	413	87.9	1	413	1	411	0.0e+00	714.1	KO:K03531	cell division protein FtsZ		Yes
+638200723	257						0.0e+00		KO:K03496	chromosome partitioning protein		No
+638200726	648						0.0e+00		KO:K00179	indolepyruvate ferredoxin oxidoreductase, alpha subunit [EC:1.2.7.8]	EC:1.2.7.8	No
+638200727	202						0.0e+00		KO:K00180	indolepyruvate ferredoxin oxidoreductase, beta subunit [EC:1.2.7.8]	EC:1.2.7.8	No
+638200729	145						0.0e+00		KO:K09714	hypothetical protein		No
+638200731	133						0.0e+00		KO:K07064			No
+638200733	469						0.0e+00		KO:K06921			No
+638200734	244						0.0e+00		KO:K03465	thymidylate synthase (FAD) [EC:2.1.1.148]	EC:2.1.1.148	No
+638200735	361						0.0e+00		KO:K06921			No
+638200736	201						0.0e+00		KO:K05595	multiple antibiotic resistance protein		No
+638200737	375						0.0e+00		KO:K01622	fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11]	EC:3.1.3.11	No
+638200737	375						0.0e+00		KO:K01622	fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11]	EC:4.1.2.13	No
+638200739	380						0.0e+00		KO:K09003	hypothetical protein		No
+638200740	97						0.0e+00		KO:K07743	hypothetical protein		No
+638200742	375	84.3	1	375	1	375	0.0e+00	644	KO:K00001	alcohol dehydrogenase [EC:1.1.1.1]	EC:1.1.1.1	Yes
+638200744	336						0.0e+00		KO:K04655	hydrogenase expression/formation protein HypE		No
+638200745	155						0.0e+00		KO:K09122	hypothetical protein		No
+638200748	148						0.0e+00		KO:K00980	glycerol-3-phosphate cytidylyltransferase [EC:2.7.7.39]	EC:2.7.7.39	No
+638200748	148						0.0e+00		KO:K14656	FAD synthetase		No
+638200749	172						0.0e+00		KO:K07575	PUA domain protein		No
+638200750	208						0.0e+00		KO:K01591	orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	EC:4.1.1.23	No
+638200752	349						0.0e+00		KO:K07057			No
+638200755	317						0.0e+00		KO:K00611	ornithine carbamoyltransferase [EC:2.1.3.3]	EC:2.1.3.3	No
+638200756	262						0.0e+00		KO:K00586	diphthine synthase [EC:2.1.1.98]	EC:2.1.1.98	No
+638200758	152						0.0e+00		KO:K00610	aspartate carbamoyltransferase regulatory subunit		No
+638200759	308						0.0e+00		KO:K00609	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	EC:2.1.3.2	No
+638200764	296						0.0e+00		KO:K07108			No
+638200766	208						0.0e+00		KO:K07043			No
+638200767	369						0.0e+00		KO:K15566	tRNA (adenine9-N1/guanine9-N1)-methyltransferase [EC:2.1.1.218 2.1.1.221]		No
+638200768	455						0.0e+00		KO:K01875	seryl-tRNA synthetase [EC:6.1.1.11]	EC:6.1.1.11	No
+638200769	161						0.0e+00		KO:K07060	UPF0271 protein		No
+638200772	398						0.0e+00		KO:K07244	mgtE-like transporter		No
+638200773	356						0.0e+00		KO:K03239	translation initiation factor eIF-2B subunit alpha		No
+638200775	625						0.0e+00		KO:K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	EC:6.1.1.3	No
+638200776	162						0.0e+00		KO:K00940	nucleoside-diphosphate kinase [EC:2.7.4.6]	EC:2.7.4.6	No
+638200778	637						0.0e+00		KO:K10844	DNA excision repair protein ERCC-2 [EC:3.6.4.12]	EC:3.6.4.12	No
+638200780	562						0.0e+00		KO:K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	EC:2.2.1.6	No
+638200781	332						0.0e+00		KO:K00053	ketol-acid reductoisomerase [EC:1.1.1.86]	EC:1.1.1.86	No
+638200782	486						0.0e+00		KO:K01649	2-isopropylmalate synthase [EC:2.3.3.13]	EC:2.3.3.13	No
+638200783	423						0.0e+00		KO:K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	EC:4.2.1.33	No
+638200783	423						0.0e+00		KO:K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	EC:4.2.1.35	No
+638200784	164						0.0e+00		KO:K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	EC:4.2.1.33	No
+638200784	164						0.0e+00		KO:K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	EC:4.2.1.35	No
+638200785	354						0.0e+00		KO:K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85]	EC:1.1.1.85	No
+638200786	526						0.0e+00		KO:K01649	2-isopropylmalate synthase [EC:2.3.3.13]	EC:2.3.3.13	No
+638200787	551						0.0e+00		KO:K01687	dihydroxy-acid dehydratase [EC:4.2.1.9]	EC:4.2.1.9	No
+638200790	122						0.0e+00		KO:K07076			No
+638200792	104						0.0e+00		KO:K07076			No
+638200796	840	92.6	1	840	1	840	0.0e+00	1543.9	KO:K13525	transitional endoplasmic reticulum ATPase		Yes
+638200798	334						0.0e+00		KO:K00170	pyruvate ferredoxin oxidoreductase, beta subunit [EC:1.2.7.1]	EC:1.2.7.1	No
+638200799	395						0.0e+00		KO:K00169	pyruvate ferredoxin oxidoreductase, alpha subunit [EC:1.2.7.1]	EC:1.2.7.1	No
+638200800	105						0.0e+00		KO:K00171	pyruvate ferredoxin oxidoreductase, delta subunit [EC:1.2.7.1]	EC:1.2.7.1	No
+638200801	311						0.0e+00		KO:K00187	2-oxoisovalerate ferredoxin oxidoreductase, beta subunit [EC:1.2.7.7]	EC:1.2.7.7	No
+638200802	395						0.0e+00		KO:K00186	2-oxoisovalerate ferredoxin oxidoreductase, alpha subunit [EC:1.2.7.7]	EC:1.2.7.7	No
+638200803	105						0.0e+00		KO:K00188	2-oxoisovalerate ferredoxin oxidoreductase, delta subunit [EC:1.2.7.7]	EC:1.2.7.7	No
+638200804	185						0.0e+00		KO:K00189	2-oxoisovalerate ferredoxin oxidoreductase, gamma subunit [EC:1.2.7.7]	EC:1.2.7.7	No
+638200806	388						0.0e+00		KO:K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	EC:2.3.1.9	No
+638200807	134						0.0e+00		KO:K07068			No
+638200808	149	72.1	1	147	1	147	0.0e+00	215.7	KO:K08567	hydrogenase 2 maturation protease [EC:3.4.24.-]	EC:3.4.24.-	Yes
+638200812	228						0.0e+00		KO:K01779	aspartate racemase [EC:5.1.1.13]	EC:5.1.1.13	No
+638200815	185						0.0e+00		KO:K09723	hypothetical protein		No
+638200816	249						0.0e+00		KO:K04802	proliferating cell nuclear antigen		No
+638200818	110						0.0e+00		KO:K03057	transcription elongation factor		No
+638200819	209						0.0e+00		KO:K07477	translin		No
+638200820	194						0.0e+00		KO:K05982	deoxyribonuclease V [EC:3.1.21.7]	EC:3.1.21.7	No
+638200821	212						0.0e+00		KO:K07732	riboflavin kinase, archaea type [EC:2.7.1.161]	EC:2.7.1.161	No
+638200822	500						0.0e+00		KO:K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	EC:6.1.1.20	No
+638200823	556						0.0e+00		KO:K01890	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	EC:6.1.1.20	No
+638200824	459						0.0e+00		KO:K06921			No
+638200825	348						0.0e+00		KO:K00060	threonine 3-dehydrogenase [EC:1.1.1.103]	EC:1.1.1.103	No
+638200827	355						0.0e+00		KO:K07333	archaeal flagellar protein FlaJ		No
+638200828	814						0.0e+00		KO:K07332	archaeal flagellar protein FlaI		No
+638200832	355						0.0e+00		KO:K06948			No
+638200833	363						0.0e+00		KO:K07444	putative N6-adenine-specific DNA methylase [EC:2.1.1.-]	EC:2.1.1.-	No
+638200834	404						0.0e+00		KO:K07496	putative transposase		No
+638200838	214						0.0e+00		KO:K06953			No
+638200839	405						0.0e+00		KO:K03306	inorganic phosphate transporter, PiT family		No
+638200840	223						0.0e+00		KO:K07220	hypothetical protein		No
+638200843	477						0.0e+00		KO:K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	EC:6.1.1.16	No
+638200846	115						0.0e+00		KO:K01737	6-pyruvoyl tetrahydrobiopterin synthase [EC:4.2.3.12]	EC:4.2.3.12	No
+638200847	181						0.0e+00		KO:K02866	large subunit ribosomal protein L10e		No
+638200848	254						0.0e+00		KO:K07238	zinc transporter, ZIP family		No
+638200850	478						0.0e+00		KO:K00873	pyruvate kinase [EC:2.7.1.40]	EC:2.7.1.40	No
+638200851	446						0.0e+00		KO:K00359	NADH oxidase [EC:1.6.-.-]	EC:1.6.-	No
+638200852	159						0.0e+00		KO:K07050			No
+638200860	94						0.0e+00		KO:K03636	molybdopterin synthase sulfur carrier subunit		No
+638200861	402						0.0e+00		KO:K03750	molybdopterin molybdotransferase [EC:2.10.1.1]		No
+638200864	295						0.0e+00		KO:K01265	methionyl aminopeptidase [EC:3.4.11.18]	EC:3.4.11.18	No
+638200868	157						0.0e+00		KO:K02201	pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	EC:2.7.7.3	No
+638200870	685						0.0e+00		KO:K03168	DNA topoisomerase I [EC:5.99.1.2]	EC:5.99.1.2	No
+638200871	643						0.0e+00		KO:K09150	hypothetical protein		No
+638200874	190						0.0e+00		KO:K03136	transcription initiation factor TFIIE subunit alpha		No
+638200877	125						0.0e+00		KO:K02991	small subunit ribosomal protein S6e		No
+638200879	292						0.0e+00		KO:K03298	drug/metabolite transporter, DME family		No
+638200880	245						0.0e+00		KO:K03609	septum site-determining protein MinD		No
+638200881	277						0.0e+00		KO:K06883			No
+638200883	1112						0.0e+00		KO:K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	EC:3.6.4.-	No
+638200884	140						0.0e+00		KO:K03238	translation initiation factor 2 subunit 2		No
+638200886	138						0.0e+00		KO:K07722	CopG family transcriptional regulator, nickel-responsive regulator		No
+638200890	335						0.0e+00		KO:K00015	glyoxylate reductase [EC:1.1.1.26]	EC:1.1.1.26	No
+638200891	442						0.0e+00		KO:K07133			No
+638200892	200						0.0e+00		KO:K01304	pyroglutamyl-peptidase [EC:3.4.19.3]	EC:3.4.19.3	No
+638200896	188						0.0e+00		KO:K09725	hypothetical protein		No
+638200897	155						0.0e+00		KO:K13280	signal peptidase, endoplasmic reticulum-type [EC:3.4.-.-]	EC:3.4.-	No
+638200898	452						0.0e+00		KO:K00918	ADP-dependent phosphofructokinase/glucokinase [EC:2.7.1.146 2.7.1.147]	EC:2.7.1.146	No
+638200898	452						0.0e+00		KO:K00918	ADP-dependent phosphofructokinase/glucokinase [EC:2.7.1.146 2.7.1.147]	EC:2.7.1.147	No
+638200900	215						0.0e+00		KO:K06921			No
+638200901	157						0.0e+00		KO:K06921			No
+638200902	461						0.0e+00		KO:K06921			No
+638200911	766						0.0e+00		KO:K07151	dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.1.119]	EC:2.4.1.119	No
+638200915	143						0.0e+00		KO:K07076			No
+638200916	499						0.0e+00		KO:K05568	multicomponent Na+:H+ antiporter subunit D		No
+638200917	161						0.0e+00		KO:K05569	multicomponent Na+:H+ antiporter subunit E		No
+638200918	123						0.0e+00		KO:K05567	multicomponent Na+:H+ antiporter subunit C		No
+638200919	239						0.0e+00		KO:K05566	multicomponent Na+:H+ antiporter subunit B		No
+638200921	114						0.0e+00		KO:K05571	multicomponent Na+:H+ antiporter subunit G		No
+638200922	94	81.9	1	94	1	94	9.1e-39	159.5	KO:K05570	multicomponent Na+:H+ antiporter subunit F		Yes
+638200924	271	79.3	2	267	3	268	0.0e+00	441.8	KO:K15832	formate hydrogenlyase subunit 7		Yes
+638200927	299	68.9	2	299	7	305	0.0e+00	432.6	KO:K15829	formate hydrogenlyase subunit 4		Yes
+638200928	647						0.0e+00		KO:K00540			No
+638200929	486	58.8	7	484	3	480	0.0e+00	573.2	KO:K12139	hydrogenase-4 component D [EC:1.-.-.-]	EC:1.-	Yes
+638200930	164	81.7	1	164	1	164	0.0e+00	300.1	KO:K00196	carbon-monoxide dehydrogenase iron sulfur subunit		Yes
+638200930	164						0.0e+00		KO:K00124	formate dehydrogenase, beta subunit		No
+638200931	686						0.0e+00		KO:K00123	formate dehydrogenase, alpha subunit [EC:1.2.1.2]	EC:1.2.1.2	No
+638200935	327						0.0e+00		KO:K13280	signal peptidase, endoplasmic reticulum-type [EC:3.4.-.-]	EC:3.4.-	No
+638200939	572						0.0e+00		KO:K07333	archaeal flagellar protein FlaJ		No
+638200940	537						0.0e+00		KO:K07332	archaeal flagellar protein FlaI		No
+638200941	232						0.0e+00		KO:K07331	archaeal flagellar protein FlaH		No
+638200942	164						0.0e+00		KO:K07330	archaeal flagellar protein FlaG		No
+638200943	155						0.0e+00		KO:K07329	archaeal flagellar protein FlaF		No
+638200944	419						0.0e+00		KO:K07327	archaeal flagellar protein FlaD		No
+638200945	160						0.0e+00		KO:K07822	archaeal flagellar protein FlaC		No
+638200946	222						0.0e+00		KO:K07325	archaeal flagellin FlaB		No
+638200947	219						0.0e+00		KO:K07325	archaeal flagellin FlaB		No
+638200948	175						0.0e+00		KO:K07325	archaeal flagellin FlaB		No
+638200950	108						0.0e+00		KO:K09745	hypothetical protein		No
+638200956	422						0.0e+00		KO:K01251	adenosylhomocysteinase [EC:3.3.1.1]	EC:3.3.1.1	No
+638200957	472						0.0e+00		KO:K06921			No
+638200958	217						0.0e+00		KO:K07130	arylformamidase [EC:3.5.1.9]	EC:3.5.1.9	No
+638200964	387						0.0e+00		KO:K06921			No
+638200965	428						0.0e+00		KO:K03655	ATP-dependent DNA helicase RecG [EC:3.6.4.12]	EC:3.6.4.12	No
+638200967	241						0.0e+00		KO:K07135			No
+638200969	330						0.0e+00		KO:K06881	phosphoesterase RecJ domain-containing protein		No
+638200971	117						0.0e+00		KO:K04798	prefoldin beta subunit		No
+638200976	357						0.0e+00		KO:K06921			No
+638200977	51						0.0e+00		KO:K02924	large subunit ribosomal protein L39e		No
+638200978	94						0.0e+00		KO:K02910	large subunit ribosomal protein L31e		No
+638200979	227						0.0e+00		KO:K03264	translation initiation factor 6		No
+638200980	77						0.0e+00		KO:K02944	large subunit ribosomal protein LX		No
+638200981	148						0.0e+00		KO:K04797	prefoldin alpha subunit		No
+638200982	397						0.0e+00		KO:K06942			No
+638200983	322						0.0e+00		KO:K02077	zinc/manganese transport system substrate-binding protein		No
+638200984	437						0.0e+00		KO:K07133			No
+638200985	169						0.0e+00		KO:K03638	molybdenum cofactor biosynthesis protein B		No
+638200986	333						0.0e+00		KO:K00058	D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	EC:1.1.1.95	No
+638200988	253						0.0e+00		KO:K07090			No
+638200990	197						0.0e+00		KO:K00859	dephospho-CoA kinase [EC:2.7.1.24]	EC:2.7.1.24	No
+638200992	313						0.0e+00		KO:K07179	RIO kinase 2 [EC:2.7.11.1]	EC:2.7.11.1	No
+638200993	787						0.0e+00		KO:K12308	beta-galactosidase [EC:3.2.1.23]	EC:3.2.1.23	No
+638200995	319						0.0e+00		KO:K02032	peptide/nickel transport system ATP-binding protein		No
+638200996	322						0.0e+00		KO:K02031	peptide/nickel transport system ATP-binding protein		No
+638200997	309						0.0e+00		KO:K02034	peptide/nickel transport system permease protein		No
+638200998	330						0.0e+00		KO:K02033	peptide/nickel transport system permease protein		No
+638200999	633						0.0e+00		KO:K02035	peptide/nickel transport system substrate-binding protein		No
+638201000	483						0.0e+00		KO:K01190	beta-galactosidase [EC:3.2.1.23]	EC:3.2.1.23	No
+638201002	149						0.0e+00		KO:K07062			No
+638201004	382						0.0e+00		KO:K07468	putative ATP-dependent DNA ligase [EC:6.5.1.1]	EC:6.5.1.1	No
+638201005	435						0.0e+00		KO:K11529	glycerate 2-kinase [EC:2.7.1.165]	EC:2.7.1.165	No
+638201006	340						0.0e+00		KO:K09156	hypothetical protein		No
+638201008	739						0.0e+00		KO:K03406	methyl-accepting chemotaxis protein		No
+638201009	163						0.0e+00		KO:K03411	chemotaxis protein CheD [EC:3.5.1.44]	EC:3.5.1.44	No
+638201010	212						0.0e+00		KO:K03410	chemotaxis protein CheC		No
+638201011	214						0.0e+00		KO:K03410	chemotaxis protein CheC		No
+638201012	772						0.0e+00		KO:K03407	two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]	EC:2.7.13.3	No
+638201013	368						0.0e+00		KO:K03412	two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61]	EC:3.1.1.61	No
+638201014	120						0.0e+00		KO:K03413	two-component system, chemotaxis family, response regulator CheY		No
+638201015	283						0.0e+00		KO:K00575	chemotaxis protein methyltransferase CheR [EC:2.1.1.80]	EC:2.1.1.80	No
+638201016	374						0.0e+00		KO:K03406	methyl-accepting chemotaxis protein		No
+638201017	145						0.0e+00		KO:K03408	purine-binding chemotaxis protein CheW		No
+638201019	314						0.0e+00		KO:K07301	inner membrane protein		No
+638201028	516						0.0e+00		KO:K07021			No
+638201031	208						0.0e+00		KO:K07008	glutamine amidotransferase		No
+638201032	325						0.0e+00		KO:K07008	glutamine amidotransferase		No
+638201035	501						0.0e+00		KO:K01299	carboxypeptidase Taq [EC:3.4.17.19]	EC:3.4.17.19	No
+638201038	186						0.0e+00		KO:K00952	nicotinamide-nucleotide adenylyltransferase [EC:2.7.7.1]	EC:2.7.7.1	No
+638201039	256						0.0e+00		KO:K09134	hypothetical protein		No
+638201041	198						0.0e+00		KO:K07254	tRNA (cytidine56-2'-O)-methyltransferase [EC:2.1.1.206]	EC:2.1.1.206	No
+638201042	186						0.0e+00		KO:K00995	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]	EC:2.7.8.5	No
+638201043	229						0.0e+00		KO:K01560	2-haloacid dehalogenase [EC:3.8.1.2]	EC:3.8.1.2	No
+638201044	653						0.0e+00		KO:K11389	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin) [EC:1.2.7.6]	EC:1.2.7.6	No
+638201047	998						0.0e+00		KO:K04076	Lon-like ATP-dependent protease [EC:3.4.21.-]	EC:3.4.21.-	No
+638201050	379						0.0e+00		KO:K09744	hypothetical protein		No
+638201053	394						0.0e+00		KO:K07991	archaeal preflagellin peptidase FlaK [EC:3.4.23.52]		No
+638201055	220						0.0e+00		KO:K07174	Mn2+-dependent serine/threonine protein kinase [EC:2.7.1.-]	EC:2.7.1.-	No
+638201056	435						0.0e+00		KO:K03406	methyl-accepting chemotaxis protein		No
+638201058	276						0.0e+00		KO:K03680	translation initiation factor eIF-2B subunit delta		No
+638201059	252						0.0e+00		KO:K03742	competence/damage-inducible protein CinA		No
+638201061	339						0.0e+00		KO:K01939	adenylosuccinate synthase [EC:6.3.4.4]	EC:6.3.4.4	No
+638201062	340						0.0e+00		KO:K07566	tRNA threonylcarbamoyladenosine biosynthesis protein		No
+638201065	317						0.0e+00		KO:K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	EC:5.1.3.2	No
+638201066	332						0.0e+00		KO:K00973	glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	EC:2.7.7.24	No
+638201068	309						0.0e+00		KO:K03924	MoxR-like ATPase [EC:3.6.3.-]	EC:3.6.3.-	No
+638201074	262						0.0e+00		KO:K01101	4-nitrophenyl phosphatase [EC:3.1.3.41]	EC:3.1.3.41	No
+638201075	2122						0.0e+00		KO:K00525	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	EC:1.17.4.1	No
+638201077	439						0.0e+00		KO:K01915	glutamine synthetase [EC:6.3.1.2]	EC:6.3.1.2	No
+638201079	136						0.0e+00		KO:K09737	hypothetical protein		No
+638201083	387						0.0e+00		KO:K09123	hypothetical protein		No
+638201084	130						0.0e+00		KO:K09128	hypothetical protein		No
+638201087	295						0.0e+00		KO:K01001	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]	EC:2.7.8.15	No
+638201088	179						0.0e+00		KO:K07023	putative hydrolases of HD superfamily		No
+638201090	186						0.0e+00		KO:K06883			No
+638201092	740						0.0e+00		KO:K07463	archaea-specific RecJ-like exonuclease		No
+638201093	332						0.0e+00		KO:K07446	tRNA (guanine10-N2)-dimethyltransferase [EC:2.1.1.213]		No
+638201096	207						0.0e+00		KO:K09149	hypothetical protein		No
+638201101	317						0.0e+00		KO:K03924	MoxR-like ATPase [EC:3.6.3.-]	EC:3.6.3.-	No
+638201105	380						0.0e+00		KO:K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.-]	EC:6.3.4.-	No
+638201106	438						0.0e+00		KO:K01945	phosphoribosylamine--glycine ligase [EC:6.3.4.13]	EC:6.3.4.13	No
+638201109	174						0.0e+00		KO:K01588	5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	EC:5.4.99.18	No
+638201110	429						0.0e+00		KO:K08289	phosphoribosylglycinamide formyltransferase 2 [EC:2.1.2.2]	EC:2.1.2.2	No
+638201114	139	47.8	4	139	6	140	1.7e-28	125.9	KO:K07064			Yes
+638201131	334						0.0e+00		KO:K01933	phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	EC:6.3.3.1	No
+638201132	891						0.0e+00		KO:K01873	valyl-tRNA synthetase [EC:6.1.1.9]	EC:6.1.1.9	No
+638201133	240						0.0e+00		KO:K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	EC:1.1.1.100	No
+638201134	618						0.0e+00		KO:K01596	phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	EC:4.1.1.32	No
+638201138	276						0.0e+00		KO:K07500	hypothetical protein		No
+638201139	485						0.0e+00		KO:K00088	IMP dehydrogenase [EC:1.1.1.205]	EC:1.1.1.205	No
+638201140	197						0.0e+00		KO:K07103			No
+638201141	91						0.0e+00		KO:K01512	acylphosphatase [EC:3.6.1.7]	EC:3.6.1.7	No
+638201142	213						0.0e+00		KO:K07096			No
+638201144	484						0.0e+00		KO:K07137			No
+638201152	914						0.0e+00		KO:K01872	alanyl-tRNA synthetase [EC:6.1.1.7]	EC:6.1.1.7	No
+638201154	172						0.0e+00		KO:K03789	ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	EC:2.3.1.128	No
+638201155	170						0.0e+00		KO:K01170	tRNA-intron endonuclease, archaea type [EC:3.1.27.9]	EC:3.1.27.9	No
+638201156	398						0.0e+00		KO:K00639	glycine C-acetyltransferase [EC:2.3.1.29]	EC:2.3.1.29	No
+638201157	431						0.0e+00		KO:K01892	histidyl-tRNA synthetase [EC:6.1.1.21]	EC:6.1.1.21	No
+638201159	746						0.0e+00		KO:K07003			No
+638201161	384						0.0e+00		KO:K08975	putative membrane protein		No
+638201163	281						0.0e+00		KO:K01151	deoxyribonuclease IV [EC:3.1.21.2]	EC:3.1.21.2	No
+638201164	178						0.0e+00		KO:K01507	inorganic pyrophosphatase [EC:3.6.1.1]	EC:3.6.1.1	No
+638201165	188						0.0e+00		KO:K03049	DNA-directed RNA polymerase subunit E' [EC:2.7.7.6]	EC:2.7.7.6	No
+638201166	61						0.0e+00		KO:K03050	DNA-directed RNA polymerase subunit E" [EC:2.7.7.6]	EC:2.7.7.6	No
+638201167	179						0.0e+00		KO:K09735	hypothetical protein		No
+638201168	99						0.0e+00		KO:K02974	small subunit ribosomal protein S24e		No
+638201169	51	100	1	51	1	51	8.8e-28	122.1	KO:K02977	small subunit ribosomal protein S27Ae		Yes
+638201174	396						0.0e+00		KO:K06969	23S rRNA (cytosine1962-C5)-methyltransferase [EC:2.1.1.191]	EC:2.1.1.191	No
+638201176	183						0.0e+00		KO:K02428	dITP/XTP pyrophosphatase [EC:3.6.1.19]	EC:3.6.1.19	No
+638201177	162						0.0e+00		KO:K09129	hypothetical protein		No
+638201180	385						0.0e+00		KO:K01867	tryptophanyl-tRNA synthetase [EC:6.1.1.2]	EC:6.1.1.2	No
+638201181	119						0.0e+00		KO:K09721	hypothetical protein		No
+638201183	282						0.0e+00		KO:K00948	ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	EC:2.7.6.1	No
+638201184	419						0.0e+00		KO:K04042	bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]	EC:2.3.1.157	No
+638201184	419						0.0e+00		KO:K04042	bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]	EC:2.7.7.23	No
+638201189	102						0.0e+00		KO:K09732	hypothetical protein		No
+638201193	204						0.0e+00		KO:K06950	uncharacterized protein		No
+638201196	216						0.0e+00		KO:K07025	putative hydrolase of the HAD superfamily		No
+638201198	406						0.0e+00		KO:K13831	3-hexulose-6-phosphate synthase / 6-phospho-3-hexuloisomerase [EC:4.1.2.43 5.3.1.27]	EC:4.1.2.43	No
+638201198	406						0.0e+00		KO:K13831	3-hexulose-6-phosphate synthase / 6-phospho-3-hexuloisomerase [EC:4.1.2.43 5.3.1.27]	EC:5.3.1.27	No
+638201199	157	74.8	7	157	5	155	0.0e+00	251.5	KO:K01737	6-pyruvoyl tetrahydrobiopterin synthase [EC:4.2.3.12]	EC:4.2.3.12	Yes
+638201200	71						0.0e+00		KO:K02978	small subunit ribosomal protein S27e		No
+638201201	94						0.0e+00		KO:K02929	large subunit ribosomal protein L44e		No
+638201202	187						0.0e+00		KO:K06287	septum formation protein		No
+638201203	430						0.0e+00		KO:K01689	enolase [EC:4.2.1.11]	EC:4.2.1.11	No
+638201204	242						0.0e+00		KO:K07134			No
+638201206	771						0.0e+00		KO:K02319	DNA polymerase I [EC:2.7.7.7]	EC:2.7.7.7	No
+638201208	136						0.0e+00		KO:K07064			No
+638201210	589						0.0e+00		KO:K07739	elongator complex protein 3 [EC:2.3.1.48]	EC:2.3.1.48	No
+638201212	390						0.0e+00		KO:K00763	nicotinate phosphoribosyltransferase [EC:2.4.2.11]	EC:2.4.2.11	No
+638201213	67						0.0e+00		KO:K05337	ferredoxin		No
+638201214	475						0.0e+00		KO:K00266	glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14]	EC:1.4.1.13	No
+638201214	475						0.0e+00		KO:K00266	glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14]	EC:1.4.1.14	No
+638201215	292						0.0e+00		KO:K00528	ferredoxin--NADP+ reductase [EC:1.18.1.2]	EC:1.18.1.2	No
+638201217	154						0.0e+00		KO:K07581	hypothetical protein		No
+638201218	212						0.0e+00		KO:K03539	ribonuclease P/MRP protein subunit RPP1 [EC:3.1.26.5]	EC:3.1.26.5	No
+638201223	228						0.0e+00		KO:K01803	triosephosphate isomerase (TIM) [EC:5.3.1.1]	EC:5.3.1.1	No
+638201224	210						0.0e+00		KO:K01079	phosphoserine phosphatase [EC:3.1.3.3]	EC:3.1.3.3	No
+638201225	219						0.0e+00		KO:K00573	protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]	EC:2.1.1.77	No
+638201226	208						0.0e+00		KO:K07579	putative methylase		No
+638201229	705						0.0e+00		KO:K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	EC:6.3.5.3	No
+638201231	223						0.0e+00		KO:K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	EC:6.3.5.3	No
+638201232	84						0.0e+00		KO:K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	EC:6.3.5.3	No
+638201233	192						0.0e+00		KO:K06859	glucose-6-phosphate isomerase, archaeal [EC:5.3.1.9]	EC:5.3.1.9	No
+638201235	335						0.0e+00		KO:K02032	peptide/nickel transport system ATP-binding protein		No
+638201236	319						0.0e+00		KO:K02031	peptide/nickel transport system ATP-binding protein		No
+638201237	477						0.0e+00		KO:K02034	peptide/nickel transport system permease protein		No
+638201238	353						0.0e+00		KO:K02033	peptide/nickel transport system permease protein		No
+638201239	931						0.0e+00		KO:K02035	peptide/nickel transport system substrate-binding protein		No
+638201240	404						0.0e+00		KO:K01465	dihydroorotase [EC:3.5.2.3]	EC:3.5.2.3	No
+638201241	247						0.0e+00		KO:K02823	dihydroorotate dehydrogenase electron transfer subunit		No
+638201244	405						0.0e+00		KO:K07050			No
+638201247	214						0.0e+00		KO:K02120	V-type H+-transporting ATPase subunit D [EC:3.6.3.14]	EC:3.6.3.14	No
+638201248	465						0.0e+00		KO:K02118	V-type H+-transporting ATPase subunit B [EC:3.6.3.14]	EC:3.6.3.14	No
+638201249	1017						0.0e+00		KO:K02117	V-type H+-transporting ATPase subunit A [EC:3.6.3.14]	EC:3.6.3.14	No
+638201250	103						0.0e+00		KO:K02122	V-type H+-transporting ATPase subunit F [EC:3.6.3.14]	EC:3.6.3.14	No
+638201251	370						0.0e+00		KO:K02119	V-type H+-transporting ATPase subunit C [EC:3.6.3.14]	EC:3.6.3.14	No
+638201252	199						0.0e+00		KO:K02121	V-type H+-transporting ATPase subunit E [EC:3.6.3.14]	EC:3.6.3.14	No
+638201253	158						0.0e+00		KO:K02124	V-type H+-transporting ATPase subunit K [EC:3.6.3.14]	EC:3.6.3.14	No
+638201254	659						0.0e+00		KO:K02123	V-type H+-transporting ATPase subunit I [EC:3.6.3.14]	EC:3.6.3.14	No
+638201255	108						0.0e+00		KO:K02121	V-type H+-transporting ATPase subunit E [EC:3.6.3.14]	EC:3.6.3.14	No
+638201256	227						0.0e+00		KO:K03499	trk system potassium uptake protein TrkA		No
+638201257	507						0.0e+00		KO:K03072	preprotein translocase subunit SecD		No
+638201258	308						0.0e+00		KO:K03074	preprotein translocase subunit SecF		No
+638201259	324						0.0e+00		KO:K01409	O-sialoglycoprotein endopeptidase [EC:3.4.24.57]	EC:3.4.24.57	No
+638201259	324						0.0e+00		KO:K15900	tRNA threonylcarbamoyladenosine biosynthesis protein		No
+638201261	335						0.0e+00		KO:K07027			No
+638201263	139						0.0e+00		KO:K01611	S-adenosylmethionine decarboxylase [EC:4.1.1.50]	EC:4.1.1.50	No
+638201264	235						0.0e+00		KO:K06986			No
+638201265	502						0.0e+00		KO:K00283	glycine dehydrogenase subunit 2 [EC:1.4.4.2]	EC:1.4.4.2	No
+638201266	449						0.0e+00		KO:K00282	glycine dehydrogenase subunit 1 [EC:1.4.4.2]	EC:1.4.4.2	No
+638201267	220						0.0e+00		KO:K07025	putative hydrolase of the HAD superfamily		No
+638201269	154						0.0e+00		KO:K01494	dCTP deaminase [EC:3.5.4.13]	EC:3.5.4.13	No
+638201271	107						0.0e+00		KO:K02869	large subunit ribosomal protein L12		No
+638201272	341						0.0e+00		KO:K02864	large subunit ribosomal protein L10		No
+638201273	216	100	1	216	4	219	0.0e+00	418.3	KO:K02863	large subunit ribosomal protein L1		Yes

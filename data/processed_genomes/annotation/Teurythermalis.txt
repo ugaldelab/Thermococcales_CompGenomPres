@@ -1,0 +1,2180 @@
+AIU70944.1	Product	hypothetical protein
+AIU70940.1	Product	hypothetical protein
+AIU70941.1	Product	hypothetical protein
+AIU70942.1	Product	hypothetical protein
+AIU70943.1	Product	hypothetical protein
+AIU70937.1	Product	chemotaxis protein
+AIU68845.1	Product	hypothetical protein
+AIU68846.1	Product	hypothetical protein
+AIU68847.1	Product	hypothetical protein
+AIU68848.1	Product	hypothetical protein
+AIU68849.1	Product	hypothetical protein
+AIU68850.1	Product	hypothetical protein
+AIU68851.1	Product	ribonuclease P
+AIU68852.1	Product	cyclase
+AIU68853.1	Product	S-adenosyl-L-homocysteine hydrolase
+AIU68854.1	Product	molybdenum ABC transporter ATP-binding protein
+AIU68855.1	Product	hypothetical protein
+AIU68856.1	Product	ABC transporter ATPase
+AIU68857.1	Product	molybdenum ABC transporter permease
+AIU68858.1	Product	molybdenum ABC transporter substrate-binding protein
+AIU68859.1	Product	oxetanocin
+AIU68860.1	Product	GTP-binding protein
+AIU68861.1	Product	GTP-binding protein
+AIU68862.1	Product	hypothetical protein
+AIU68863.1	Product	hypothetical protein
+AIU68864.1	Product	DNA methylase
+AIU68865.1	Product	MFS transporter
+AIU68866.1	Product	membrane protein
+AIU68867.1	Product	aromatic amino acid aminotransferase
+AIU68868.1	Product	hypothetical protein
+AIU68869.1	Product	transcriptional regulator
+AIU68870.1	Product	cell division protein FtsZ
+AIU68871.1	Product	hypothetical protein
+AIU68872.1	Product	CopG family transcriptional regulator
+AIU68873.1	Product	FAD synthase
+AIU68874.1	Product	RNA-binding protein
+AIU68875.1	Product	orotidine 5'-phosphate decarboxylase
+AIU68875.1	EC_number	4.1.1.23
+AIU68876.1	Product	hypothetical protein
+AIU68877.1	Product	myo-inositol-1-phosphate synthase
+AIU68878.1	Product	CDP-alcohol phosphatidyltransferase
+AIU68879.1	Product	hypothetical protein
+AIU68880.1	Product	hypothetical protein
+AIU68881.1	Product	NUDIX hydrolase
+AIU68882.1	Product	carbohydrate kinase
+AIU68883.1	Product	H/ACA RNA-protein complex protein Gar1
+AIU68884.1	Product	transcription initiation factor IIB
+AIU68885.1	Product	histone
+AIU68886.1	Product	ribulose 1,5-bisphosphate carboxylase
+AIU68887.1	Product	ArsR family transcriptional regulator
+AIU68888.1	Product	hypothetical protein
+AIU68889.1	Product	hypothetical protein
+AIU68890.1	Product	hypothetical protein
+AIU68891.1	Product	peptidase
+AIU68892.1	Product	membrane protein
+AIU68893.1	Product	hypothetical protein
+AIU68894.1	Product	CoA-binding protein
+AIU68895.1	Product	hypothetical protein
+AIU68896.1	Product	hypothetical protein
+AIU68897.1	Product	hypothetical protein
+AIU68898.1	Product	XRE family transcriptional regulator
+AIU68899.1	Product	hypothetical protein
+AIU68900.1	Product	multidrug ABC transporter ATP-binding protein
+AIU68901.1	Product	ABC transporter
+AIU68902.1	Product	hypothetical protein
+AIU68903.1	Product	Gufa protein
+AIU68904.1	Product	hypothetical protein
+AIU68905.1	Product	ski2-like helicase
+AIU68906.1	Product	hypothetical protein
+AIU68907.1	Product	peptide ABC transporter ATPase
+AIU68908.1	Product	peptide ABC transporter ATPase
+AIU68909.1	Product	peptide ABC transporter permease
+AIU68910.1	Product	peptide ABC transporter permease
+AIU68911.1	Product	DNA-binding protein
+AIU68912.1	Product	AsnC family transcriptional regulator
+AIU68913.1	Product	signal recognition particle
+AIU68914.1	Product	biotin synthase
+AIU68915.1	Product	tRNA methyltransferase
+AIU68916.1	Product	hypothetical protein
+AIU68917.1	Product	ferredoxin-NADP reductase
+AIU68918.1	Product	dihydropyrimidine dehydrogenase
+AIU68919.1	Product	ATPase
+AIU68920.1	Product	TrmB family transcriptional regulator
+AIU68921.1	Product	4-hydroxybenzoate polyprenyltransferase
+AIU68922.1	Product	ABC transporter
+AIU68923.1	Product	glycosyl transferase
+AIU68924.1	Product	hypothetical protein
+AIU68925.1	Product	glycine cleavage system protein H
+AIU68926.1	Product	pyruvoyl-dependent arginine decarboxylase
+AIU68927.1	Product	spermidine synthase
+AIU68928.1	Product	hypothetical protein
+AIU68929.1	Product	hypothetical protein
+AIU68930.1	Product	nucleotide-binding protein
+AIU68931.1	Product	hypothetical protein
+AIU68932.1	Product	metal-dependent hydrolase
+AIU68933.1	Product	sodium:proline symporter
+AIU68934.1	Product	acetyl-CoA synthetase
+AIU68935.1	Product	indolepyruvate oxidoreductase
+AIU68936.1	Product	indolepyruvate oxidoreductase
+AIU68937.1	Product	hypothetical protein
+AIU68938.1	Product	hypothetical protein
+AIU68939.1	Product	ATPase
+AIU68940.1	Product	hypothetical protein
+AIU68941.1	Product	TATA-box-binding protein
+AIU68942.1	Product	hypothetical protein
+AIU68943.1	Product	hypothetical protein
+AIU68944.1	Product	hypothetical protein
+AIU68945.1	Product	transcription factor
+AIU68946.1	Product	30S ribosomal protein S19
+AIU68947.1	Product	hypothetical protein
+AIU68948.1	Product	AcaC
+AIU68949.1	Product	acetyl-CoA acetyltransferase
+AIU68949.1	EC_number	2.3.1.9
+AIU68950.1	Product	hypothetical protein
+AIU68951.1	Product	hypothetical protein
+AIU68952.1	Product	fibrillin
+AIU68953.1	Product	C/D box methylation guide ribonucleoprotein complex aNOP56 subunit
+AIU68954.1	Product	hypothetical protein
+AIU68955.1	Product	hypothetical protein
+AIU68956.1	Product	translation initiation factor IF-2B subunit delta
+AIU68957.1	Product	aminotransferase
+AIU68958.1	Product	glutamine amidotransferase
+AIU68959.1	Product	radical SAM protein
+AIU68960.1	Product	OsmC/Ohr family stress-inducible protein
+AIU68961.1	Product	GMP synthase
+AIU68961.1	EC_number	6.3.5.2
+AIU68962.1	Product	nucleotide-binding protein
+AIU68963.1	Product	hypothetical protein
+AIU68964.1	Product	GMP synthase [glutamine-hydrolyzing] subunit B
+AIU68965.1	Product	5-formaminoimidazole-4-carboxamide-1-(beta)-D- ribofuranosyl 5'-monophosphate synthetase
+AIU68966.1	Product	phosphoribosylformylglycinamidine synthase
+AIU68967.1	Product	hypothetical protein
+AIU68968.1	Product	hypothetical protein
+AIU68969.1	Product	hypothetical protein
+AIU68970.1	Product	hypothetical protein
+AIU68971.1	Product	hypothetical protein
+AIU68972.1	Product	phosphoribosylformylglycinamidine synthase
+AIU68972.1	EC_number	6.3.5.3
+AIU68973.1	Product	phosphoribosylformylglycinamidine synthase
+AIU68974.1	Product	5-formaminoimidazole-4-carboxamide-1-(beta)-D- ribofuranosyl 5'-monophosphate synthetase
+AIU68975.1	Product	phosphoribosylamine--glycine ligase
+AIU68976.1	Product	hypothetical protein
+AIU68977.1	Product	hypothetical protein
+AIU68978.1	Product	phosphoribosylaminoimidazole carboxylase
+AIU68979.1	Product	phosphoribosylglycinamide formyltransferase
+AIU68980.1	Product	hypothetical protein
+AIU68981.1	Product	phosphoribosylaminoimidazole synthetase
+AIU68982.1	Product	phosphoribosylaminoimidazole-succinocarboxamide synthase
+AIU68983.1	Product	amidophosphoribosyltransferase
+AIU68983.1	EC_number	2.4.2.14
+AIU68984.1	Product	formate dehydrogenase
+AIU68985.1	Product	glutamine amidotransferase
+AIU68986.1	Product	pyridoxal biosynthesis lyase PdxS
+AIU68987.1	Product	nucleotidyltransferase
+AIU68988.1	Product	nicotinate-nucleotide pyrophosphorylase
+AIU68988.1	EC_number	2.4.2.19
+AIU68989.1	Product	hypothetical protein
+AIU68990.1	Product	quinolinate synthase A
+AIU68991.1	Product	L-aspartate oxidase
+AIU68991.1	EC_number	1.4.3.16
+AIU68992.1	Product	hypothetical protein
+AIU68993.1	Product	multidrug ABC transporter ATP-binding protein
+AIU68994.1	Product	inosine-5-monophosphate dehydrogenase
+AIU68995.1	Product	hypothetical protein
+AIU68996.1	Product	ATPase AAA
+AIU68997.1	Product	hypothetical protein
+AIU68998.1	Product	hypothetical protein
+AIU68999.1	Product	hypothetical protein
+AIU69000.1	Product	thermosome subunit
+AIU69001.1	Product	hypothetical protein
+AIU69002.1	Product	ribonucleoside-triphosphate reductase
+AIU69002.1	EC_number	1.17.4.2
+AIU69003.1	Product	hypothetical protein
+AIU69004.1	Product	effector protein
+AIU69005.1	Product	RNA-binding protein
+AIU69006.1	Product	CopY family transcriptional regulator
+AIU69007.1	Product	zinc metallopeptidase
+AIU69008.1	Product	dCMP deaminase
+AIU69009.1	Product	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
+AIU69010.1	Product	dolichol-phosphate glucosyltransferase
+AIU69011.1	Product	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
+AIU69012.1	Product	CRISPR-associated protein Cas6
+AIU69013.1	Product	nucleotidase
+AIU69014.1	Product	tyrosine protein kinase
+AIU69015.1	Product	hypothetical protein
+AIU69016.1	Product	biotin synthase
+AIU69017.1	Product	quinolone resistance protein
+AIU69018.1	Product	asparaginase
+AIU69019.1	Product	transcriptional regulator
+AIU69020.1	Product	sugar transporter
+AIU69021.1	Product	indolepyruvate oxidoreductase subunit B
+AIU69021.1	EC_number	1.2.7.8
+AIU69022.1	Product	methyltransferase
+AIU69023.1	Product	lysyl-tRNA synthetase
+AIU69024.1	Product	PhoI
+AIU69025.1	Product	membrane protein
+AIU69026.1	Product	hypothetical protein
+AIU69027.1	Product	phosphatase
+AIU69028.1	Product	ribose-phosphate pyrophosphokinase
+AIU69029.1	Product	membrane protein
+AIU69030.1	Product	RNA-binding protein
+AIU69031.1	Product	hypothetical protein
+AIU69032.1	Product	DNA repair protein RadB
+AIU69033.1	Product	ATPase
+AIU69034.1	Product	RNA-binding protein
+AIU69035.1	Product	hypothetical protein
+AIU69036.1	Product	molybdenum cofactor biosynthesis protein MoeA
+AIU69037.1	Product	hypothetical protein
+AIU69038.1	Product	hypothetical protein
+AIU69039.1	Product	hypothetical protein
+AIU69040.1	Product	tRNA (guanine-N1)-methyltransferase
+AIU69041.1	Product	hypothetical protein
+AIU69042.1	Product	replication protein C
+AIU69043.1	Product	Pab RFC-2 intein
+AIU69044.1	Product	hypothetical protein
+AIU69045.1	Product	2-amino-3-ketobutyrate CoA ligase
+AIU69046.1	Product	ribonuclease BN
+AIU69047.1	Product	30S ribosomal protein S18
+AIU69048.1	Product	DNA helicase
+AIU69049.1	Product	double-stranded DNA repair protein Mre11
+AIU69050.1	Product	DNA repair protein Rad50
+AIU69051.1	Product	5'-3' exonuclease
+AIU69052.1	Product	iron ABC transporter
+AIU69053.1	Product	iron ABC transporter permease
+AIU69054.1	Product	proteasome subunit beta
+AIU69055.1	Product	hypothetical protein
+AIU69056.1	Product	threonine synthase
+AIU69057.1	Product	dioxygenase
+AIU69058.1	Product	GTPase
+AIU69059.1	Product	hypothetical protein
+AIU69060.1	Product	transposase
+AIU69061.1	Product	hypothetical protein
+AIU69062.1	Product	hypothetical protein
+AIU69063.1	Product	hypothetical protein
+AIU69064.1	Product	phosphomethylpyrimidine kinase
+AIU69065.1	Product	aspartate carbamoyltransferase
+AIU69066.1	Product	aspartate carbamoyltransferase
+AIU69067.1	Product	membrane protein
+AIU69068.1	Product	hypothetical protein
+AIU69069.1	Product	hypothetical protein
+AIU69070.1	Product	hypothetical protein
+AIU69071.1	Product	phosphoglucosamine mutase
+AIU69071.1	EC_number	5.4.2.10
+AIU69072.1	Product	hypothetical protein
+AIU69073.1	Product	hypothetical protein
+AIU69074.1	Product	hypothetical protein
+AIU69075.1	Product	hypothetical protein
+AIU69076.1	Product	alpha-amylase
+AIU69077.1	Product	peptidase
+AIU69078.1	Product	TLDD - like protein
+AIU69079.1	Product	regulatory protein
+AIU69080.1	Product	hypothetical protein
+AIU69081.1	Product	ATP-dependent protease
+AIU69082.1	Product	transposase
+AIU69083.1	Product	deacylase
+AIU69084.1	Product	hypothetical protein
+AIU69085.1	Product	transposase
+AIU69086.1	Product	hypothetical protein
+AIU69087.1	Product	lipoate--protein ligase
+AIU69088.1	Product	hypothetical protein
+AIU69089.1	Product	hypothetical protein
+AIU69090.1	Product	hypothetical protein
+AIU69091.1	Product	ribonuclease VapC
+AIU69092.1	Product	hypothetical protein
+AIU69093.1	Product	cobinamide adenolsyltransferase
+AIU69094.1	Product	transcriptional regulator
+AIU69095.1	Product	membrane protein
+AIU69096.1	Product	effector of murein hydrolase LrgA
+AIU69097.1	Product	phosphate ABC transporter substrate-binding protein
+AIU69098.1	Product	chemotaxis protein
+AIU69099.1	Product	hypothetical protein
+AIU69100.1	Product	hypothetical protein
+AIU69101.1	Product	hypothetical protein
+AIU69102.1	Product	DNA polymerase
+AIU69103.1	Product	sodium:proton antiporter
+AIU69104.1	Product	pantothenate kinase
+AIU69105.1	Product	hypothetical protein
+AIU69106.1	Product	DNA ligase
+AIU69107.1	Product	hypothetical protein
+AIU69108.1	Product	orotate phosphoribosyltransferase
+AIU69109.1	Product	phosphodiesterase
+AIU69110.1	Product	hypothetical protein
+AIU69111.1	Product	SAM-dependent methyltransferase
+AIU69112.1	Product	transcriptional regulator
+AIU69113.1	Product	membrane protein
+AIU69114.1	Product	fuculose phosphate aldolase
+AIU69114.1	EC_number	4.1.2.17
+AIU69115.1	Product	hypothetical protein
+AIU69116.1	Product	ubiquinone biosynthesis protein
+AIU69117.1	Product	hypothetical protein
+AIU69118.1	Product	hypothetical protein
+AIU69119.1	Product	hypothetical protein
+AIU69120.1	Product	hypothetical protein
+AIU69121.1	Product	RNA-binding protein
+AIU69122.1	Product	phosphoserine phosphatase
+AIU69123.1	Product	carbamate kinase
+AIU69123.1	EC_number	2.7.2.2
+AIU69124.1	Product	oxidoreductase
+AIU69125.1	Product	hypothetical protein
+AIU69126.1	Product	multidrug ABC transporter ATPase
+AIU69127.1	Product	hypothetical protein
+AIU69128.1	Product	hypothetical protein
+AIU69129.1	Product	glyceraldehyde-3-phosphate:ferredoxin oxidoreductase
+AIU69130.1	Product	fructose 1,6-bisphosphatase
+AIU69131.1	Product	hypothetical protein
+AIU69132.1	Product	hypothetical protein
+AIU69133.1	Product	permease
+AIU69134.1	Product	glycine cleavage system protein T
+AIU69135.1	Product	universal stress protein
+AIU69136.1	Product	hypothetical protein
+AIU69137.1	Product	cation tolerance protein CutA
+AIU69138.1	Product	acylphosphatase
+AIU69138.1	EC_number	3.6.1.7
+AIU69139.1	Product	hypothetical protein
+AIU69140.1	Product	sugar kinase
+AIU69141.1	Product	hypothetical protein
+AIU69142.1	Product	transcription factor
+AIU69143.1	Product	hypothetical protein
+AIU69144.1	Product	hypothetical protein
+AIU69145.1	Product	ATP-binding protein
+AIU69146.1	Product	pyruvate ferredoxin oxidoreductase
+AIU69147.1	Product	pyruvate ferredoxin oxidoreductase
+AIU69148.1	Product	pyruvate ferredoxin oxidoreductase
+AIU69148.1	EC_number	1.2.7.1
+AIU69149.1	Product	2-ketoisovalerate ferredoxin oxidoreductase
+AIU69149.1	EC_number	1.2.7.7
+AIU69150.1	Product	pyruvate ferredoxin oxidoreductase
+AIU69151.1	Product	2-ketoisovalerate ferredoxin oxidoreductase
+AIU69151.1	EC_number	1.2.7.7
+AIU69152.1	Product	pyruvate ferredoxin oxidoreductase
+AIU69152.1	EC_number	1.2.7.1
+AIU69153.1	Product	Na-dependent transporter
+AIU69154.1	Product	GTP-binding protein HflX
+AIU69155.1	Product	hypothetical protein
+AIU69156.1	Product	nascent polypeptide-associated complex protein
+AIU69157.1	Product	hypothetical protein
+AIU69158.1	Product	GlcNAc transferase
+AIU69159.1	Product	cysteine methyltransferase
+AIU69160.1	Product	RNA methyltransferase
+AIU69161.1	Product	hypothetical protein
+AIU69162.1	Product	2-dehydropantoate 2-reductase
+AIU69163.1	Product	hypothetical protein
+AIU69164.1	Product	3-phosphoglycerate dehydrogenase
+AIU69165.1	Product	fumarate hydratase
+AIU69166.1	Product	fumarate hydratase
+AIU69166.1	EC_number	4.2.1.2
+AIU69167.1	Product	malate dehydrogenase
+AIU69168.1	Product	signal peptidase
+AIU69169.1	Product	hypothetical protein
+AIU69170.1	Product	hypothetical protein
+AIU69171.1	Product	membrane dipeptidase
+AIU69172.1	Product	recombinase
+AIU69173.1	Product	hypothetical protein
+AIU69174.1	Product	DNA-binding protein
+AIU69175.1	Product	membrane protein
+AIU69176.1	Product	hypothetical protein
+AIU69177.1	Product	peptidase S9
+AIU69178.1	Product	membrane protein
+AIU69179.1	Product	serine/threonine protein kinase
+AIU69180.1	Product	AsnC family transcriptional regulator
+AIU69181.1	Product	hypothetical protein
+AIU69182.1	Product	hypothetical protein
+AIU69183.1	Product	hypothetical protein
+AIU69184.1	Product	hypothetical protein
+AIU69185.1	Product	hypothetical protein
+AIU69186.1	Product	ABC transporter
+AIU69187.1	Product	ABC transporter permease
+AIU69188.1	Product	hypothetical protein
+AIU69189.1	Product	hypothetical protein
+AIU69190.1	Product	phosphate permease
+AIU69191.1	Product	phosphoesterase
+AIU69192.1	Product	carbohydrate-binding protein
+AIU69193.1	Product	threonylcarbamoyladenosine tRNA methylthiotransferase
+AIU69194.1	Product	deoxyribonuclease
+AIU69195.1	Product	alcohol dehydrogenase
+AIU69196.1	Product	coenzyme F420 hydrogenase
+AIU69197.1	Product	coenzyme F420 hydrogenase
+AIU69198.1	Product	coenzyme F420 hydrogenase
+AIU69199.1	Product	monovalent cation/H+ antiporter subunit E
+AIU69200.1	Product	monovalent cation/H+ antiporter subunit F
+AIU69201.1	Product	monovalent cation/H+ antiporter subunit G
+AIU69202.1	Product	membrane protein
+AIU69203.1	Product	hydrogenase
+AIU69204.1	Product	monovalent cation/H+ antiporter subunit B
+AIU69205.1	Product	monovalent cation/H+ antiporter subunit C
+AIU69206.1	Product	monovalent cation/H+ antiporter subunit D
+AIU69207.1	Product	hydrogenase
+AIU69208.1	Product	hydrogenase
+AIU69209.1	Product	hydrogenase
+AIU69210.1	Product	NADH dehydrogenase
+AIU69211.1	Product	CO-induced hydrogenase subunit K
+AIU69212.1	Product	NADH-plastoquinone oxidoreductase subunit
+AIU69213.1	Product	rubrerythrin
+AIU69214.1	Product	rubrerythrin
+AIU69215.1	Product	RNA-binding protein
+AIU69216.1	Product	ATPase
+AIU69217.1	Product	hydrolase
+AIU69218.1	Product	thioredoxin reductase
+AIU69219.1	Product	4-aminobutyrate aminotransferase
+AIU69219.1	EC_number	2.6.1.19
+AIU69220.1	Product	membrane protein
+AIU69221.1	Product	hypothetical protein
+AIU69222.1	Product	deoxyribose-phosphate aldolase
+AIU69223.1	Product	hypothetical protein
+AIU69224.1	Product	hypothetical protein
+AIU69225.1	Product	enolase
+AIU69225.1	EC_number	4.2.1.11
+AIU69226.1	Product	PadR family transcriptional regulator
+AIU69227.1	Product	multidrug RND transporter
+AIU69228.1	Product	biotin synthase
+AIU69229.1	Product	hypothetical protein
+AIU69230.1	Product	hypothetical protein
+AIU69231.1	Product	hypothetical protein
+AIU69232.1	Product	hypothetical protein
+AIU69233.1	Product	hypothetical protein
+AIU69234.1	Product	transcriptional regulator
+AIU69235.1	Product	hypothetical protein
+AIU69236.1	Product	adenosine monophosphate-protein transferase
+AIU69237.1	Product	transcriptional regulator
+AIU69238.1	Product	Fe-S oxidoreductase
+AIU69239.1	Product	molybdenum cofactor biosynthesis protein MoaE
+AIU69240.1	Product	hypothetical protein
+AIU69241.1	Product	adenylyltransferase
+AIU69242.1	Product	molybdopterin converting factor
+AIU69243.1	Product	hypothetical protein
+AIU69244.1	Product	hypothetical protein
+AIU69245.1	Product	hypothetical protein
+AIU69246.1	Product	Sun/NOL1/NOP nucleolar protein
+AIU69247.1	Product	membrane protein
+AIU69248.1	Product	inorganic polyphosphate kinase
+AIU69248.1	EC_number	2.7.1.23
+AIU69249.1	Product	hypothetical protein
+AIU69250.1	Product	UGMP family protein
+AIU69251.1	Product	hypothetical protein
+AIU69252.1	Product	acyl-CoA synthetase
+AIU69253.1	Product	triosephosphate isomerase
+AIU69254.1	Product	hypothetical protein
+AIU69255.1	Product	hypothetical protein
+AIU69256.1	Product	hypothetical protein
+AIU69257.1	Product	hypothetical protein
+AIU69258.1	Product	hypothetical protein
+AIU69259.1	Product	hypothetical protein
+AIU69260.1	Product	hypothetical protein
+AIU69261.1	Product	hypothetical protein
+AIU69262.1	Product	hypothetical protein
+AIU69263.1	Product	hypothetical protein
+AIU69264.1	Product	DNA helicase
+AIU69265.1	Product	hypothetical protein
+AIU69266.1	Product	hypothetical protein
+AIU69267.1	Product	hypothetical protein
+AIU69268.1	Product	hypothetical protein
+AIU69269.1	Product	DNA polymerase II large subunit
+AIU69269.1	EC_number	2.7.7.7
+AIU69270.1	Product	DNA polymerase II
+AIU69271.1	Product	cell division control protein Cdc6
+AIU69272.1	Product	DNA-binding protein
+AIU69273.1	Product	calcium-gated potassium channel protein
+AIU69274.1	Product	Pko RadA intein
+AIU69275.1	Product	hypothetical protein
+AIU69276.1	Product	hypothetical protein
+AIU69277.1	Product	3-isopropylmalate dehydratase
+AIU69278.1	Product	5'-methylthioadenosine phosphorylase
+AIU69278.1	EC_number	2.4.2.28
+AIU69279.1	Product	hypothetical protein
+AIU69280.1	Product	hypothetical protein
+AIU69281.1	Product	hypothetical protein
+AIU69282.1	Product	hypothetical protein
+AIU69283.1	Product	N-ethylammeline chlorohydrolase
+AIU69284.1	Product	hypothetical protein
+AIU69285.1	Product	hypothetical protein
+AIU69286.1	Product	carbohydrate kinase
+AIU69287.1	Product	alpha-amylase
+AIU69288.1	Product	ArsR family transcriptional regulator
+AIU69289.1	Product	hypothetical protein
+AIU69290.1	Product	ArsR family transcriptional regulator
+AIU69291.1	Product	CoA-binding protein
+AIU69292.1	Product	hypothetical protein
+AIU69293.1	Product	hypothetical protein
+AIU69294.1	Product	ATP-binding protein
+AIU69295.1	Product	permease
+AIU69296.1	Product	tryptophan--tRNA ligase
+AIU69296.1	EC_number	6.1.1.2
+AIU69297.1	Product	hypothetical protein
+AIU69298.1	Product	hypothetical protein
+AIU69299.1	Product	hypothetical protein
+AIU69300.1	Product	hypothetical protein
+AIU69301.1	Product	acylpyruvase
+AIU69302.1	Product	PhoU family transcriptional regulator
+AIU69303.1	Product	phosphate transporter PhoU
+AIU69304.1	Product	phosphate ABC transporter ATP-binding protein
+AIU69305.1	Product	phosphate ABC transporter permease
+AIU69306.1	Product	phosphate ABC transporter permease
+AIU69307.1	Product	AP endonuclease
+AIU69308.1	Product	alkaline phosphatase
+AIU69309.1	Product	phosphate-binding protein
+AIU69310.1	Product	hypothetical protein
+AIU69311.1	Product	peptide transporter
+AIU69312.1	Product	cell division protein
+AIU69313.1	Product	DNA methyltransferase
+AIU69314.1	Product	hypothetical protein
+AIU69315.1	Product	peptide ABC transporter permease
+AIU69316.1	Product	GTP-binding protein
+AIU69317.1	Product	hypothetical protein
+AIU69318.1	Product	hypothetical protein
+AIU69319.1	Product	hypothetical protein
+AIU69320.1	Product	secretion system protein
+AIU69321.1	Product	type II secretion protein F
+AIU69322.1	Product	type II secretion protein F
+AIU69323.1	Product	peptidylprolyl isomerase
+AIU69324.1	Product	hypothetical protein
+AIU69325.1	Product	hypothetical protein
+AIU69326.1	Product	hypothetical protein
+AIU69327.1	Product	hypothetical protein
+AIU69328.1	Product	magnesium chelatase
+AIU69329.1	Product	MoxR associated protein
+AIU69330.1	Product	hypothetical protein
+AIU69331.1	Product	carbohydrate kinase
+AIU69332.1	Product	peptidase M32
+AIU69333.1	Product	hypothetical protein
+AIU69334.1	Product	isomerase
+AIU69335.1	Product	bacteriochlorophyll synthase
+AIU69336.1	Product	pyrrolidone-carboxylate peptidase
+AIU69337.1	Product	hypothetical protein
+AIU69338.1	Product	hypothetical protein
+AIU69339.1	Product	hypothetical protein
+AIU69340.1	Product	ArsR family transcriptional regulator
+AIU69341.1	Product	hypothetical protein
+AIU69342.1	Product	hypothetical protein
+AIU69343.1	Product	CAAX protease
+AIU69344.1	Product	ArsR family transcriptional regulator
+AIU69345.1	Product	hypothetical protein
+AIU69346.1	Product	hypothetical protein
+AIU69347.1	Product	Programmed cell death toxin YdcE-like protein
+AIU69348.1	Product	Programmed cell death antitoxin YdcD-like protein
+AIU69349.1	Product	ATP pyrophosphatase
+AIU69350.1	Product	metalloprotease
+AIU69351.1	Product	hypothetical protein
+AIU69352.1	Product	hypothetical protein
+AIU69353.1	Product	L-tyrosine decarboxylase
+AIU69353.1	EC_number	4.1.1.25
+AIU69354.1	Product	sodium:proton antiporter
+AIU69355.1	Product	hypothetical protein
+AIU69356.1	Product	hydrolase
+AIU69357.1	Product	phosphatidate cytidylyltransferase
+AIU69358.1	Product	hypothetical protein
+AIU69359.1	Product	4-alpha-glucanotransferase
+AIU69360.1	Product	hypothetical protein
+AIU69361.1	Product	hypothetical protein
+AIU69362.1	Product	hypothetical protein
+AIU69363.1	Product	glycosyltransferase
+AIU69364.1	Product	hypothetical protein
+AIU69365.1	Product	CTU1/ATPBD3 family protein
+AIU69366.1	Product	hypothetical protein
+AIU69367.1	Product	hypothetical protein
+AIU69368.1	Product	hypothetical protein
+AIU69369.1	Product	hypothetical protein
+AIU69370.1	Product	FAD-dependent oxidoreductase
+AIU69371.1	Product	hypothetical protein
+AIU69372.1	Product	sodium:proton antiporter
+AIU69373.1	Product	sodium:proton antiporter
+AIU69374.1	Product	hypothetical protein
+AIU69375.1	Product	hypothetical protein
+AIU69376.1	Product	chemotaxis protein
+AIU69377.1	Product	membrane protein
+AIU69378.1	Product	histidyl-tRNA synthetase
+AIU69379.1	Product	hypothetical protein
+AIU69380.1	Product	alanyl-tRNA synthetase
+AIU69381.1	Product	ABC transporter
+AIU69382.1	Product	ABC transporter
+AIU69383.1	Product	hypothetical protein
+AIU69384.1	Product	hypothetical protein
+AIU69385.1	Product	hypothetical protein
+AIU69386.1	Product	hypothetical protein
+AIU69387.1	Product	hypothetical protein
+AIU69388.1	Product	hypothetical protein
+AIU69389.1	Product	hypothetical protein
+AIU69390.1	Product	ABC transporter permease
+AIU69391.1	Product	hypothetical protein
+AIU69392.1	Product	hypothetical protein
+AIU69393.1	Product	hypothetical protein
+AIU69394.1	Product	hypothetical protein
+AIU69395.1	Product	hypothetical protein
+AIU69396.1	Product	hypothetical protein
+AIU69397.1	Product	ABC transporter
+AIU69398.1	Product	hypothetical protein
+AIU69399.1	Product	hypothetical protein
+AIU69400.1	Product	hypothetical protein
+AIU69401.1	Product	hypothetical protein
+AIU69402.1	Product	hypothetical protein
+AIU69403.1	Product	hypothetical protein
+AIU69404.1	Product	ABC transporter
+AIU69405.1	Product	hypothetical protein
+AIU69406.1	Product	hypothetical protein
+AIU69407.1	Product	hypothetical protein
+AIU69408.1	Product	S-adenosylmethionine decarboxylase
+AIU69409.1	Product	preprotein translocase subunit SecF
+AIU69410.1	Product	preprotein translocase subunit SecD
+AIU69411.1	Product	potassium transporter TrkA
+AIU69412.1	Product	ATP synthase subunit H
+AIU69412.1	EC_number	3.6.3.14
+AIU69413.1	Product	ATP synthase subunit I
+AIU69414.1	Product	ATP synthase subunit K
+AIU69414.1	EC_number	3.6.3.14
+AIU69415.1	Product	ATP synthase subunit E
+AIU69415.1	EC_number	3.6.3.14
+AIU69416.1	Product	ATP synthase subunit C
+AIU69417.1	Product	ATP synthase subunit F
+AIU69418.1	Product	ATP synthase subunit A
+AIU69419.1	Product	ATP synthase subunit B
+AIU69419.1	EC_number	3.6.3.14
+AIU69420.1	Product	ATP synthase subunit D
+AIU69420.1	EC_number	3.6.3.14
+AIU69421.1	Product	CDP-abequose synthase
+AIU69422.1	Product	chemotaxis protein
+AIU69423.1	Product	alanyl-tRNA editing protein AlaX
+AIU69424.1	Product	hypothetical protein
+AIU69425.1	Product	hypothetical protein
+AIU69426.1	Product	radical SAM family protein
+AIU69427.1	Product	dihydroorotate dehydrogenase
+AIU69428.1	Product	dihydroorotase
+AIU69428.1	EC_number	3.5.2.3
+AIU69429.1	Product	peptide ABC transporter substrate-binding protein
+AIU69430.1	Product	peptide ABC transporter permease
+AIU69431.1	Product	peptide transporter
+AIU69432.1	Product	peptide ABC transporter ATPase
+AIU69433.1	Product	peptide ABC transporter ATPase
+AIU69434.1	Product	hypothetical protein
+AIU69435.1	Product	NAD synthetase
+AIU69436.1	Product	drug/metabolite transporter 3
+AIU69437.1	Product	glutamine synthetase
+AIU69438.1	Product	hypothetical protein
+AIU69439.1	Product	hypothetical protein
+AIU69440.1	Product	hypothetical protein
+AIU69441.1	Product	DNA primase
+AIU69442.1	Product	DNA primase
+AIU69443.1	Product	ATPase
+AIU69444.1	Product	hypothetical protein
+AIU69445.1	Product	hypothetical protein
+AIU69446.1	Product	rRNA methyltransferase
+AIU69447.1	Product	hypothetical protein
+AIU69448.1	Product	hypothetical protein
+AIU69449.1	Product	hypothetical protein
+AIU69450.1	Product	hypothetical protein
+AIU69451.1	Product	hypothetical protein
+AIU69452.1	Product	hypothetical protein
+AIU69453.1	Product	hypothetical protein
+AIU69454.1	Product	hypothetical protein
+AIU69455.1	Product	hypothetical protein
+AIU69456.1	Product	hypothetical protein
+AIU69457.1	Product	hypothetical protein
+AIU69458.1	Product	hypothetical protein
+AIU69459.1	Product	hypothetical protein
+AIU69460.1	Product	hypothetical protein
+AIU69461.1	Product	hypothetical protein
+AIU69462.1	Product	hypothetical protein
+AIU69463.1	Product	hypothetical protein
+AIU69464.1	Product	hypothetical protein
+AIU69465.1	Product	hypothetical protein
+AIU69466.1	Product	hypothetical protein
+AIU69467.1	Product	hypothetical protein
+AIU69468.1	Product	hypothetical protein
+AIU69469.1	Product	hypothetical protein
+AIU69470.1	Product	hypothetical protein
+AIU69471.1	Product	hypothetical protein
+AIU69472.1	Product	hypothetical protein
+AIU69473.1	Product	hypothetical protein
+AIU69474.1	Product	hypothetical protein
+AIU69475.1	Product	SAM-dependent methyltransferase
+AIU69476.1	Product	diaminopimelate aminotransferase
+AIU69477.1	Product	hypothetical protein
+AIU69478.1	Product	peptide transporter
+AIU69479.1	Product	hydrolase
+AIU69480.1	Product	phosphopentomutase
+AIU69481.1	Product	hypothetical protein
+AIU69482.1	Product	glycerol-3-phosphate ABC transporter ATP-binding protein
+AIU69483.1	Product	amylopullulanase
+AIU69484.1	Product	sugar transporter
+AIU69485.1	Product	sugar transporter
+AIU69486.1	Product	maltotriose-binding protein
+AIU69487.1	Product	neopullulanase
+AIU69488.1	Product	transcriptional regulator
+AIU69489.1	Product	transcriptional antiterminator
+AIU69490.1	Product	ABC transporter permease
+AIU69491.1	Product	sugar ABC transporter permease
+AIU69492.1	Product	glycosyl transferase family 1
+AIU69493.1	Product	TrmB family transcriptional regulator
+AIU69494.1	Product	glycogen synthase
+AIU69495.1	Product	ribonuclease P protein component 2
+AIU69495.1	EC_number	3.1.26.5
+AIU69496.1	Product	Fe-S protein, radical SAM family
+AIU69497.1	Product	diacetylchitobiose deacetylase
+AIU69498.1	Product	ribonuclease
+AIU69499.1	Product	hypothetical protein
+AIU69500.1	Product	beta-galactosidase
+AIU69501.1	Product	DNA-binding protein
+AIU69502.1	Product	peptide ABC transporter permease
+AIU69503.1	Product	peptide ABC transporter permease
+AIU69504.1	Product	peptide ABC transporter ATPase
+AIU69505.1	Product	peptide ABC transporter
+AIU69506.1	Product	glucosamine-fructose-6-phosphate aminotransferase
+AIU69507.1	Product	beta-galactosidase
+AIU69508.1	Product	hypothetical protein
+AIU69509.1	Product	DNA-binding protein
+AIU69510.1	Product	ATPase AAA
+AIU69511.1	Product	hypothetical protein
+AIU69512.1	Product	isoleucyl-tRNA synthetase
+AIU69513.1	Product	NTPase
+AIU69514.1	Product	hypothetical protein
+AIU69515.1	Product	hypothetical protein
+AIU69516.1	Product	hypothetical protein
+AIU69517.1	Product	permease
+AIU69518.1	Product	osmotically inducible protein C
+AIU69519.1	Product	transposase
+AIU69520.1	Product	hypothetical protein
+AIU69521.1	Product	glycoside hydrolase
+AIU69522.1	Product	CCA-adding protein
+AIU69523.1	Product	hypothetical protein
+AIU69524.1	Product	xanthine phosphoribosyltransferase
+AIU69525.1	Product	response regulator SirA
+AIU69526.1	Product	hypothetical protein
+AIU69527.1	Product	HAD family hydrolase
+AIU69528.1	Product	hypothetical protein
+AIU69529.1	Product	hypothetical protein
+AIU69530.1	Product	hypothetical protein
+AIU69531.1	Product	hypothetical protein
+AIU69532.1	Product	dolichol-P-glucose synthetase
+AIU69533.1	Product	glycosyl transferase
+AIU69534.1	Product	hypothetical protein
+AIU69535.1	Product	hypothetical protein
+AIU69536.1	Product	hypothetical protein
+AIU69537.1	Product	glycosyl transferase family 2
+AIU69538.1	Product	glycosyl transferase
+AIU69539.1	Product	dolichol-phosphate mannosyltransferase
+AIU69540.1	Product	oligosaccharyl transferase, STT3 subunit
+AIU69541.1	Product	hypothetical protein
+AIU69542.1	Product	glycosyl transferase family 1
+AIU69543.1	Product	hypothetical protein
+AIU69544.1	Product	hypothetical protein
+AIU69545.1	Product	hypothetical protein
+AIU69546.1	Product	hypothetical protein
+AIU69547.1	Product	hypothetical protein
+AIU69548.1	Product	hypothetical protein
+AIU69549.1	Product	UTP--glucose-1-phosphate uridylyltransferase
+AIU69550.1	Product	UDP-glucose 6-dehydrogenase
+AIU69551.1	Product	peptide-binding protein
+AIU69552.1	Product	glucose-1-phosphate thymidylyltransferase
+AIU69553.1	Product	nucleotidyltransferase
+AIU69554.1	Product	UDP-glucose 4-epimerase
+AIU69555.1	Product	hypothetical protein
+AIU69556.1	Product	hypothetical protein
+AIU69557.1	Product	hypothetical protein
+AIU69558.1	Product	hypothetical protein
+AIU69559.1	Product	Signal peptidase I, S26B/S24 family protein
+AIU69560.1	Product	hypothetical protein
+AIU69561.1	Product	inorganic pyrophosphatase
+AIU69562.1	Product	DNA-directed RNA polymerase subunit E'
+AIU69562.1	EC_number	2.7.7.6
+AIU69563.1	Product	transcription elongation factor Spt4
+AIU69564.1	Product	hypothetical protein
+AIU69565.1	Product	30S ribosomal protein S24
+AIU69566.1	Product	30S ribosomal protein S27
+AIU69567.1	Product	protoporphyrinogen oxidase
+AIU69568.1	Product	tRNA-modifying protein
+AIU69569.1	Product	hypothetical protein
+AIU69570.1	Product	cell division protein FtsZ
+AIU69571.1	Product	hypothetical protein
+AIU69572.1	Product	hypothetical protein
+AIU69573.1	Product	hypothetical protein
+AIU69574.1	Product	hypothetical protein
+AIU69575.1	Product	hypothetical protein
+AIU69576.1	Product	hypothetical protein
+AIU69577.1	Product	hypothetical protein
+AIU69578.1	Product	hypothetical protein
+AIU69579.1	Product	TonB-dependent receptor
+AIU69580.1	Product	membrane protein
+AIU69581.1	Product	hypothetical protein
+AIU69582.1	Product	apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+AIU69583.1	Product	membrane protein
+AIU69584.1	Product	transcriptional regulator
+AIU69585.1	Product	hypothetical protein
+AIU69586.1	Product	peptidase
+AIU69587.1	Product	transcriptional regulator
+AIU69588.1	Product	GTP-binding protein
+AIU69589.1	Product	hypothetical protein
+AIU69590.1	Product	hypothetical protein
+AIU69591.1	Product	proline permease
+AIU69592.1	Product	D-nopaline dehydrogenase
+AIU69593.1	Product	sarcosine oxidase subunit beta
+AIU69594.1	Product	transporter
+AIU69595.1	Product	RNA 2'-phosphotransferase
+AIU69596.1	Product	metal-dependent hydrolase
+AIU69597.1	Product	hypothetical protein
+AIU69598.1	Product	NADH oxidase
+AIU69599.1	Product	toxin RelE
+AIU69600.1	Product	hypothetical protein
+AIU69601.1	Product	uridylate kinase
+AIU69602.1	Product	sarcosine oxidase subunit beta
+AIU69603.1	Product	(2Fe-2S)-binding protein
+AIU69604.1	Product	ferredoxin
+AIU69605.1	Product	sarcosine oxidase subunit alpha
+AIU69606.1	Product	1-aminocyclopropane-1-carboxylate deaminase
+AIU69607.1	Product	dihydroorotate dehydrogenase
+AIU69608.1	Product	AbrB family transcriptional regulator
+AIU69609.1	Product	nucleotide-binding protein
+AIU69610.1	Product	7-cyano-7-deazaguanine synthase
+AIU69611.1	Product	chromosome segregation and condensation protein ScpB
+AIU69612.1	Product	replication factor A
+AIU69613.1	Product	replication protein RepA
+AIU69614.1	Product	replication protein RepA
+AIU69615.1	Product	ribonucleoside-triphosphate reductase
+AIU69616.1	Product	prenyltransferase UbiA-like protein
+AIU69617.1	Product	polyhydroxyalkanoate depolymerase
+AIU69618.1	Product	AsnC family transcriptional regulator
+AIU69619.1	Product	GTP-binding protein EngB
+AIU69620.1	Product	hypothetical protein
+AIU69621.1	Product	preprotein translocase subunit SecG
+AIU69622.1	Product	30S ribosomal protein S6
+AIU69623.1	Product	translation initiation factor IF-2 subunit gamma
+AIU69624.1	Product	nucleotide-binding protein
+AIU69625.1	Product	hypothetical protein
+AIU69626.1	Product	hypothetical protein
+AIU69627.1	Product	hypothetical protein
+AIU69628.1	Product	ABC transporter
+AIU69629.1	Product	metal-dependent phosphohydrolase
+AIU69630.1	Product	hypothetical protein
+AIU69631.1	Product	hypothetical protein
+AIU69632.1	Product	hypothetical protein
+AIU69633.1	Product	mechanosensitive ion channel protein MscS
+AIU69634.1	Product	Fmu (Sun) domain-containing protein
+AIU69635.1	Product	hypothetical protein
+AIU69636.1	Product	ATPase
+AIU69637.1	Product	hypothetical protein
+AIU69638.1	Product	hypothetical protein
+AIU69639.1	Product	hypothetical protein
+AIU69640.1	Product	S-adenosyl-L-methionine:L-histidine 3-amino-3-carboxypropyltransferase
+AIU69641.1	Product	hypothetical protein
+AIU69642.1	Product	transposase
+AIU69643.1	Product	hypothetical protein
+AIU69644.1	Product	membrane protein
+AIU69645.1	Product	transcriptional regulator
+AIU69646.1	Product	membrane protein
+AIU69647.1	Product	hypothetical protein
+AIU69648.1	Product	SAM-dependent methyltransferase
+AIU69649.1	Product	acyltransferase
+AIU69650.1	Product	exonuclease SbcD
+AIU69651.1	Product	transcriptional regulator
+AIU69652.1	Product	peptidase M28
+AIU69653.1	Product	hypothetical protein
+AIU69654.1	Product	recombinase
+AIU69655.1	Product	dolichol monophosphate mannose synthase
+AIU69656.1	Product	XRE family transcriptional regulator
+AIU69657.1	Product	hypothetical protein
+AIU69658.1	Product	hypothetical protein
+AIU69659.1	Product	hypothetical protein
+AIU69660.1	Product	hypothetical protein
+AIU69661.1	Product	2-deoxy-D-gluconate 3-dehydrogenase
+AIU69662.1	Product	nicotinate phosphoribosyltransferase
+AIU69662.1	EC_number	6.3.4.21
+AIU69663.1	Product	ferredoxin
+AIU69664.1	Product	ring hydroxylating protein
+AIU69665.1	Product	ATPase
+AIU69666.1	Product	hypothetical protein
+AIU69667.1	Product	membrane protein
+AIU69668.1	Product	alkaline serine protease
+AIU69669.1	Product	hypothetical protein
+AIU69670.1	Product	ATPase
+AIU69671.1	Product	ATP-dependent DNA ligase
+AIU69672.1	Product	50S ribosomal protein L10e
+AIU69673.1	Product	hypothetical protein
+AIU69674.1	Product	hypothetical protein
+AIU69675.1	Product	hypothetical protein
+AIU69676.1	Product	hypothetical protein
+AIU69677.1	Product	MFS transporter
+AIU69678.1	Product	aspartate aminotransferase
+AIU69679.1	Product	ATPase
+AIU69680.1	Product	ArsR family transcriptional regulator
+AIU69681.1	Product	asparagine synthetase
+AIU69682.1	Product	hypothetical protein
+AIU69683.1	Product	hypothetical protein
+AIU69684.1	Product	glutamate synthase
+AIU69685.1	Product	NADH dehydrogenase
+AIU69686.1	Product	NADH dehydrogenase
+AIU69687.1	Product	hypothetical protein
+AIU69688.1	Product	hypothetical protein
+AIU69689.1	Product	translation factor
+AIU69690.1	Product	metal-dependent hydrolase
+AIU69691.1	Product	ribosomal subunit interface protein
+AIU69692.1	Product	hypothetical protein
+AIU69693.1	Product	hypothetical protein
+AIU69694.1	Product	phosphodiesterase
+AIU69695.1	Product	Gins 23 protein
+AIU69696.1	Product	translation initiation factor IF-2 subunit beta
+AIU69697.1	Product	methylmalonyl-CoA carboxyltransferase
+AIU69698.1	Product	methylmalonyl-CoA epimerase
+AIU69699.1	Product	acetyl-CoA carboxylase
+AIU69699.1	EC_number	6.4.1.2
+AIU69700.1	Product	glutaconyl-CoA decarboxylase subunit beta
+AIU69701.1	Product	hypothetical protein
+AIU69702.1	Product	homoserine dehydrogenase
+AIU69702.1	EC_number	1.1.1.3
+AIU69703.1	Product	hypothetical protein
+AIU69704.1	Product	hypothetical protein
+AIU69705.1	Product	hypothetical protein
+AIU69706.1	Product	hypothetical protein
+AIU69707.1	Product	RNA-binding protein
+AIU69708.1	Product	exonuclease
+AIU69709.1	Product	RNA-binding protein
+AIU69710.1	Product	RNA-associated protein
+AIU69711.1	Product	proteasome subunit alpha
+AIU69711.1	EC_number	3.4.25.1
+AIU69712.1	Product	membrane protein
+AIU69713.1	Product	HIT family hydrolase
+AIU69714.1	Product	nucleotide pyrophosphohydrolase
+AIU69715.1	Product	hypothetical protein
+AIU69716.1	Product	membrane protein
+AIU69717.1	Product	2-keto acid:ferredoxin oxidoreductase subunit alpha
+AIU69718.1	Product	hypothetical protein
+AIU69719.1	Product	hypothetical protein
+AIU69720.1	Product	hypothetical protein
+AIU69721.1	Product	hypothetical protein
+AIU69722.1	Product	hypothetical protein
+AIU69723.1	Product	membrane protein
+AIU69724.1	Product	nicotinamidase
+AIU69725.1	Product	hypothetical protein
+AIU69726.1	Product	thioesterase
+AIU69727.1	Product	PadR family transcriptional regulator
+AIU69728.1	Product	MFS transporter
+AIU69729.1	Product	asparaginase
+AIU69730.1	Product	hypothetical protein
+AIU69731.1	Product	hypothetical protein
+AIU69732.1	Product	multidrug transporter
+AIU69733.1	Product	hypothetical protein
+AIU69734.1	Product	membrane protein
+AIU69735.1	Product	hypothetical protein
+AIU69736.1	Product	2-haloalkanoic acid dehalogenase
+AIU69737.1	Product	endonuclease
+AIU69738.1	Product	hypothetical protein
+AIU69739.1	Product	SAM-dependent tRNA/rRNA cytosine-C5 methylase
+AIU69740.1	Product	hypothetical protein
+AIU69741.1	Product	hypothetical protein
+AIU69742.1	Product	hypothetical protein
+AIU69743.1	Product	hypothetical protein
+AIU69744.1	Product	MarR family transcriptional regulator
+AIU69745.1	Product	hypothetical protein
+AIU69746.1	Product	ABC transporter ATP-binding protein
+AIU69747.1	Product	aminopeptidase
+AIU69748.1	Product	ABC transporter
+AIU69749.1	Product	ABC transporter ATPase
+AIU69750.1	Product	guanine permease
+AIU69751.1	Product	iron-dependent repressor
+AIU69752.1	Product	diphthine synthase
+AIU69752.1	EC_number	2.1.1.98
+AIU69753.1	Product	methylase
+AIU69754.1	Product	50S ribosomal protein L3
+AIU69755.1	Product	50S ribosomal protein L4
+AIU69756.1	Product	50S ribosomal protein L23
+AIU69757.1	Product	50S ribosomal protein L2
+AIU69758.1	Product	30S ribosomal protein S19
+AIU69759.1	Product	50S ribosomal protein L22
+AIU69760.1	Product	30S ribosomal protein S3
+AIU69761.1	Product	50S ribosomal protein L29
+AIU69762.1	Product	protein translation factor SUI1
+AIU69763.1	Product	ribonuclease P
+AIU69764.1	Product	30S ribosomal protein S17
+AIU69765.1	Product	50S ribosomal protein L14
+AIU69766.1	Product	50S ribosomal protein L24
+AIU69767.1	Product	hypothetical protein
+AIU69768.1	Product	50S ribosomal protein L5
+AIU69769.1	Product	30S ribosomal protein S14
+AIU69770.1	Product	30S ribosomal protein S8
+AIU69771.1	Product	50S ribosomal protein L6
+AIU69772.1	Product	50S ribosomal protein L32
+AIU69773.1	Product	50S ribosomal protein L19
+AIU69774.1	Product	50S ribosomal protein L18
+AIU69775.1	Product	30S ribosomal protein S5
+AIU69776.1	Product	50S ribosomal protein L30
+AIU69777.1	Product	50S ribosomal protein L15
+AIU69778.1	Product	preprotein translocase subunit SecY
+AIU69779.1	Product	adenylate kinase
+AIU69779.1	EC_number	2.7.4.3
+AIU69780.1	Product	membrane protein
+AIU69781.1	Product	50S ribosomal protein L34
+AIU69782.1	Product	cytidylate kinase
+AIU69782.1	EC_number	2.7.4.14
+AIU69783.1	Product	hypothetical protein
+AIU69784.1	Product	H/ACA RNA-protein complex component Cbf5p
+AIU69785.1	Product	hypothetical protein
+AIU69786.1	Product	hypothetical protein
+AIU69787.1	Product	hypothetical protein
+AIU69788.1	Product	hypothetical protein
+AIU69789.1	Product	16S rRNA methyltransferase
+AIU69790.1	Product	30S ribosomal protein S13
+AIU69791.1	Product	30S ribosomal protein S4
+AIU69792.1	Product	30S ribosomal protein S11
+AIU69793.1	Product	DNA-directed RNA polymerase subunit D
+AIU69794.1	Product	hypothetical protein
+AIU69795.1	Product	50S ribosomal protein L13
+AIU69796.1	Product	30S ribosomal protein S9
+AIU69797.1	Product	DNA-directed RNA polymerase subunit N
+AIU69798.1	Product	DNA-directed RNA polymerase subunit K
+AIU69799.1	Product	hypothetical protein
+AIU69800.1	Product	30S ribosomal protein S2
+AIU69801.1	Product	50S ribosomal protein L40
+AIU69802.1	Product	PadR family transcriptional regulator
+AIU69803.1	Product	hypothetical protein
+AIU69804.1	Product	hypothetical protein
+AIU69805.1	Product	metallophosphoesterase
+AIU69806.1	Product	AsnC family transcriptional regulator
+AIU69807.1	Product	hypothetical protein
+AIU69808.1	Product	adenine phosphoribosyltransferase
+AIU69809.1	Product	Fe-S-cluster oxidoreductase
+AIU69810.1	Product	AsnC family transcriptional regulator
+AIU69811.1	Product	signal recognition particle
+AIU69812.1	Product	hypothetical protein
+AIU69813.1	Product	hypothetical protein
+AIU69814.1	Product	hypothetical protein
+AIU69815.1	Product	5'-methylthioadenosine phosphorylase
+AIU69815.1	EC_number	2.4.2.28
+AIU69816.1	Product	pyridine nucleotide-disulfide oxidoreductase
+AIU69817.1	Product	hypothetical protein
+AIU69818.1	Product	hypothetical protein
+AIU69819.1	Product	uridine phosphorylase
+AIU69820.1	Product	threonine synthase
+AIU69820.1	EC_number	4.2.3.1
+AIU69821.1	Product	hypothetical protein
+AIU69822.1	Product	nucleotidyltransferase
+AIU69823.1	Product	mevalonate kinase
+AIU69823.1	EC_number	2.7.1.36
+AIU69824.1	Product	acetylglutamate kinase
+AIU69825.1	Product	hypothetical protein
+AIU69826.1	Product	isopentenyl pyrophosphate isomerase
+AIU69827.1	Product	ribonuclease J
+AIU69828.1	Product	serralysin
+AIU69829.1	Product	hypothetical protein
+AIU69830.1	Product	hypothetical protein
+AIU69831.1	Product	methyltransferase
+AIU69832.1	Product	leucine--tRNA ligase
+AIU69832.1	EC_number	6.1.1.4
+AIU69833.1	Product	X-Pro aminopeptidase
+AIU69834.1	Product	hypothetical protein
+AIU69835.1	Product	hypothetical protein
+AIU69836.1	Product	hypothetical protein
+AIU69837.1	Product	hypothetical protein
+AIU69838.1	Product	ribonuclease P protein component 3
+AIU69838.1	EC_number	3.1.26.5
+AIU69839.1	Product	cystathionine gamma-synthase
+AIU69839.1	EC_number	2.5.1.48
+AIU69840.1	Product	5,10-methylenetetrahydrofolate reductase
+AIU69841.1	Product	5-methyltetrahydropteroyltriglutamate-- homocysteine methyltransferase
+AIU69842.1	Product	methionine synthase
+AIU69843.1	Product	serine kinase
+AIU69844.1	Product	aspartate-semialdehyde dehydrogenase
+AIU69844.1	EC_number	1.2.1.11
+AIU69845.1	Product	tryptophan synthase beta chain
+AIU69846.1	Product	hypothetical protein
+AIU69847.1	Product	hypothetical protein
+AIU69848.1	Product	hypothetical protein
+AIU69849.1	Product	hypothetical protein
+AIU69850.1	Product	hypothetical protein
+AIU69851.1	Product	nickel-responsive regulator
+AIU69852.1	Product	fibronectin-binding protein
+AIU69853.1	Product	hypothetical protein
+AIU69854.1	Product	1,4-alpha-glucan branching protein
+AIU69855.1	Product	nitrogen regulatory protein P-II 1
+AIU69856.1	Product	alpha-glucosidase
+AIU69857.1	Product	Na+dependent transporter
+AIU69858.1	Product	glutamate dehydrogenase
+AIU69859.1	Product	endonuclease
+AIU69860.1	Product	hypothetical protein
+AIU69861.1	Product	proteasome subunit beta
+AIU69862.1	Product	hypothetical protein
+AIU69863.1	Product	ribose 5-phosphate isomerase
+AIU69864.1	Product	hypothetical protein
+AIU69865.1	Product	hypothetical protein
+AIU69866.1	Product	D-tyrosyl-tRNA(Tyr) deacylase
+AIU69867.1	Product	cell division protein FtsZ
+AIU69868.1	Product	preprotein translocase subunit SecE
+AIU69869.1	Product	transcription antiterminator NusG
+AIU69870.1	Product	50S ribosomal protein L11
+AIU69871.1	Product	50S ribosomal protein L1
+AIU69872.1	Product	acidic ribosomal protein P0
+AIU69873.1	Product	50S ribosomal protein L12
+AIU69874.1	Product	deoxycytidine triphosphate deaminase
+AIU69875.1	Product	histone
+AIU69876.1	Product	Fe-S oxidoreductase
+AIU69877.1	Product	hypothetical protein
+AIU69878.1	Product	hypothetical protein
+AIU69879.1	Product	transposase
+AIU69880.1	Product	glutamyl-tRNA ligase
+AIU69880.1	EC_number	6.1.1.17
+AIU69881.1	Product	membrane protein
+AIU69882.1	Product	alpha-glucan phosphorylase
+AIU69883.1	Product	phosphoenolpyruvate carboxykinase
+AIU69884.1	Product	phospho-sugar mutase
+AIU69885.1	Product	thymidylate kinase
+AIU69886.1	Product	glycine dehydrogenase
+AIU69886.1	EC_number	1.4.4.2
+AIU69887.1	Product	glycine dehydrogenase
+AIU69888.1	Product	phospholipase
+AIU69889.1	Product	hydrolase
+AIU69890.1	Product	hypothetical protein
+AIU69891.1	Product	metallophosphoesterase
+AIU69892.1	Product	membrane protein
+AIU69893.1	Product	hypothetical protein
+AIU69894.1	Product	hypothetical protein
+AIU69895.1	Product	molybdopterin oxidoreductase
+AIU69896.1	Product	pyridine nucleotide-disulfide oxidoreductase
+AIU69897.1	Product	glycerol-3-phosphate dehydrogenase
+AIU69898.1	Product	carbohydrate kinase
+AIU69899.1	Product	hypothetical protein
+AIU69900.1	Product	glycerophosphodiester phosphodiesterase
+AIU69901.1	Product	glycerophosphodiester phosphodiesterase
+AIU69902.1	Product	sucrose transporter
+AIU69903.1	Product	transporter
+AIU69904.1	Product	alpha/beta hydrolase
+AIU69905.1	Product	uracil phosphoribosyltransferase
+AIU69906.1	Product	multidrug transporter MatE
+AIU69907.1	Product	polysaccharide deacetylase
+AIU69908.1	Product	multidrug transporter MatE
+AIU69909.1	Product	DNA-binding protein
+AIU69910.1	Product	AbrB family transcriptional regulator
+AIU69911.1	Product	phosphoenolpyruvate synthase
+AIU69912.1	Product	glycosyltransferase
+AIU69913.1	Product	hypothetical protein
+AIU69914.1	Product	hypothetical protein
+AIU69915.1	Product	hypothetical protein
+AIU69916.1	Product	hypothetical protein
+AIU69917.1	Product	hypothetical protein
+AIU69918.1	Product	hypothetical protein
+AIU69919.1	Product	Nonsense-mediated mRNA decay NMD3 like protein
+AIU69920.1	Product	CoA-disulfide reductase
+AIU69921.1	Product	potassium transporter Kef
+AIU69922.1	Product	ATP-NAD kinase
+AIU69923.1	Product	hypothetical protein
+AIU69924.1	Product	hypothetical protein
+AIU69925.1	Product	cysteine desulfurase
+AIU69926.1	Product	hypothetical protein
+AIU69927.1	Product	carbon monoxide dehydrogenase
+AIU69928.1	Product	hydrogenase expression protein
+AIU69929.1	Product	hypothetical protein
+AIU69930.1	Product	nucleotidyltransferase
+AIU69931.1	Product	hydrogenase expression protein
+AIU69932.1	Product	hydrogenase assembly protein HupF
+AIU69933.1	Product	hydrogenase
+AIU69934.1	Product	hydrogenase assembly protein HupF
+AIU69935.1	Product	TetR family transcriptional regulator
+AIU69936.1	Product	formate dehydrogenase
+AIU69937.1	Product	formate dehydrogenase
+AIU69938.1	Product	sodium:proton antiporter
+AIU69939.1	Product	hydrogenase
+AIU69940.1	Product	hydrogenase
+AIU69941.1	Product	hydrogenase 3 large subunit
+AIU69942.1	Product	hydrogenase
+AIU69943.1	Product	hydrogenase
+AIU69944.1	Product	membrane protein
+AIU69945.1	Product	nucleotidyltransferase
+AIU69946.1	Product	hydantoin racemase
+AIU69947.1	Product	sodium:proton antiporter
+AIU69948.1	Product	pH regulation protein F
+AIU69949.1	Product	sodium:proton antiporter
+AIU69950.1	Product	sodium:proton antiporter
+AIU69951.1	Product	NADH-ubiquinone oxidoreductase subunit 4L
+AIU69952.1	Product	cation:proton antiporter
+AIU69953.1	Product	monovalent cation/H+ antiporter subunit D
+AIU69954.1	Product	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+AIU69955.1	Product	hydrogenase maturation protease
+AIU69956.1	Product	hypothetical protein
+AIU69957.1	Product	hypothetical protein
+AIU69958.1	Product	ATP-binding protein
+AIU69959.1	Product	hydrogenase nickel incorporation protein
+AIU69960.1	Product	hypothetical protein
+AIU69961.1	Product	ArsR family transcriptional regulator
+AIU69962.1	Product	C4-dicarboxylate ABC transporter
+AIU69963.1	Product	permease
+AIU69964.1	Product	ferredoxin
+AIU69965.1	Product	ABC transporter ATP-binding protein
+AIU69966.1	Product	hypothetical protein
+AIU69967.1	Product	C4-dicarboxylate ABC transporter
+AIU69968.1	Product	dinitrogenase iron-molybdenum cofactor
+AIU69969.1	Product	GNAT family acetyltraansferase
+AIU69970.1	Product	4-oxalocrotonate tautomerase
+AIU69971.1	Product	flavodoxin
+AIU69972.1	Product	hypothetical protein
+AIU69973.1	Product	nitroreductase
+AIU69974.1	Product	hypothetical protein
+AIU69975.1	Product	DNA-binding protein
+AIU69976.1	Product	permease
+AIU69977.1	Product	hypothetical protein
+AIU69978.1	Product	hypothetical protein
+AIU69979.1	Product	carboxylate transporter
+AIU69980.1	Product	ATP-binding protein
+AIU69981.1	Product	ABC transporter
+AIU69982.1	Product	OsmC-like stress-induced protein (OsmC)
+AIU69983.1	Product	ATP-binding protein
+AIU69984.1	Product	membrane protein
+AIU69985.1	Product	permease
+AIU69986.1	Product	hypothetical protein
+AIU69987.1	Product	hypothetical protein
+AIU69988.1	Product	cobalt transporter
+AIU69989.1	Product	hypothetical protein
+AIU69990.1	Product	ribonuclease Z
+AIU69991.1	Product	transcription elongation factor NusA
+AIU69992.1	Product	glucose-6-phosphate isomerase
+AIU69992.1	EC_number	5.3.1.9
+AIU69993.1	Product	ADP-dependent glucokinase
+AIU69993.1	EC_number	2.7.1.147
+AIU69994.1	Product	mannose-1-phosphate guanyltransferase
+AIU69994.1	EC_number	2.7.7.13
+AIU69995.1	Product	phosphoglucomutase
+AIU69995.1	EC_number	5.4.2.2
+AIU69996.1	Product	3-isopropylmalate dehydratase
+AIU69997.1	Product	ribosome biogenesis protein Nop10
+AIU69998.1	Product	translation initiation factor IF-2 subunit alpha
+AIU69999.1	Product	30S ribosomal protein S27
+AIU70000.1	Product	50S ribosomal protein L44
+AIU70001.1	Product	hypothetical protein
+AIU70002.1	Product	membrane protein
+AIU70003.1	Product	membrane protein
+AIU70004.1	Product	alanine aminotransferase
+AIU70005.1	Product	thiamine biosynthesis protein ThiS
+AIU70006.1	Product	hypothetical protein
+AIU70007.1	Product	DNA topoisomerase I
+AIU70008.1	Product	hypothetical protein
+AIU70009.1	Product	digeranylgeranylglycerophospholipid reductase
+AIU70010.1	Product	ferredoxin
+AIU70011.1	Product	transcriptional regulator
+AIU70012.1	Product	glutaredoxin
+AIU70013.1	Product	DNA-directed RNA polymerase subunit H
+AIU70014.1	Product	DNA-directed RNA polymerase subunit B
+AIU70014.1	EC_number	2.7.7.6
+AIU70015.1	Product	DNA-directed RNA polymerase subunit A'
+AIU70015.1	EC_number	2.7.7.6
+AIU70016.1	Product	DNA-directed RNA polymerase subunit A''
+AIU70016.1	EC_number	2.7.7.6
+AIU70017.1	Product	50S ribosomal protein L30
+AIU70018.1	Product	transcription elongation factor NusA
+AIU70019.1	Product	30S ribosomal protein S12
+AIU70020.1	Product	30S ribosomal protein S7
+AIU70021.1	Product	phosphodiesterase
+AIU70022.1	Product	hypothetical protein
+AIU70023.1	Product	hypothetical protein
+AIU70024.1	Product	hypothetical protein
+AIU70025.1	Product	aldehyde:ferredoxin oxidoreductase
+AIU70026.1	Product	molybdopterin converting factor
+AIU70027.1	Product	aldehyde:ferredoxin oxidoreductase
+AIU70028.1	Product	CRISPR-associated protein Cas6
+AIU70029.1	Product	hypothetical protein
+AIU70030.1	Product	hypothetical protein
+AIU70031.1	Product	CRISPR-associated protein
+AIU70032.1	Product	hypothetical protein
+AIU70033.1	Product	hypothetical protein
+AIU70034.1	Product	hypothetical protein
+AIU70035.1	Product	CRISPR-associated protein Cas1
+AIU70036.1	Product	CRISPR-associated protein Csa5
+AIU70037.1	Product	CRISPR-associated protein DevR
+AIU70038.1	Product	CRISPR-associated protein Cas5
+AIU70039.1	Product	CRISPR-associated protein Csx9
+AIU70040.1	Product	RNA helicase
+AIU70041.1	Product	hydrolase
+AIU70042.1	Product	transcriptional regulator
+AIU70043.1	Product	nuclease
+AIU70044.1	Product	CRISPR-associated protein Cas2
+AIU70045.1	Product	acetyl-CoA synthetase
+AIU70046.1	Product	biotin--protein ligase
+AIU70047.1	Product	hypothetical protein
+AIU70048.1	Product	hypothetical protein
+AIU70049.1	Product	reverse gyrase
+AIU70049.1	EC_number	5.99.1.3
+AIU70050.1	Product	transcriptional regulator
+AIU70051.1	Product	hypothetical protein
+AIU70052.1	Product	hypothetical protein
+AIU70053.1	Product	ArsR family transcriptional regulator
+AIU70054.1	Product	hypothetical protein
+AIU70055.1	Product	arginase
+AIU70056.1	Product	Fe-S cluster assembly protein HesB
+AIU70057.1	Product	hypothetical protein
+AIU70058.1	Product	2-haloalkanoic acid dehalogenase
+AIU70059.1	Product	hypothetical protein
+AIU70060.1	Product	hypothetical protein
+AIU70061.1	Product	phosphohydrolase
+AIU70062.1	Product	transcription elongation factor NusA
+AIU70063.1	Product	aspartate--tRNA ligase
+AIU70064.1	Product	membrane protein
+AIU70065.1	Product	peptidyl-tRNA hydrolase
+AIU70065.1	EC_number	3.1.1.29
+AIU70066.1	Product	pseudouridine synthase
+AIU70067.1	Product	phosphoglycolate phosphatase
+AIU70068.1	Product	GNAT family acetyltransferase
+AIU70069.1	Product	peptidase M20
+AIU70070.1	Product	50S ribosomal protein L37
+AIU70071.1	Product	DNA-directed RNA polymerase subunit P
+AIU70072.1	Product	ribosomal biogenesis protein
+AIU70073.1	Product	monovalent cation/H+ antiporter subunit E
+AIU70074.1	Product	monovalent cation/H+ antiporter subunit F
+AIU70075.1	Product	monovalent cation/H+ antiporter subunit G
+AIU70938.1	Product	sodium:proton antiporter
+AIU70076.1	Product	sodium:proton antiporter
+AIU70077.1	Product	monovalent cation/H+ antiporter subunit B
+AIU70078.1	Product	cation:proton antiporter
+AIU70079.1	Product	cation:proton antiporter
+AIU70080.1	Product	hypothetical protein
+AIU70081.1	Product	sodium:proton antiporter
+AIU70082.1	Product	hypothetical protein
+AIU70083.1	Product	hypothetical protein
+AIU70084.1	Product	prefoldin subunit beta
+AIU70085.1	Product	hypothetical protein
+AIU70086.1	Product	DNA polymerase III subunit beta
+AIU70087.1	Product	hypothetical protein
+AIU70088.1	Product	phosphoesterase
+AIU70089.1	Product	hypothetical protein
+AIU70090.1	Product	hypothetical protein
+AIU70091.1	Product	hypothetical protein
+AIU70092.1	Product	tRNA-binding protein
+AIU70093.1	Product	hypothetical protein
+AIU70094.1	Product	hypothetical protein
+AIU70095.1	Product	aldehyde:ferredoxin oxidoreductase
+AIU70096.1	Product	hypothetical protein
+AIU70097.1	Product	hypothetical protein
+AIU70098.1	Product	hypothetical protein
+AIU70099.1	Product	hypothetical protein
+AIU70100.1	Product	aldo/keto reductase
+AIU70101.1	Product	phosphoglycerate mutase
+AIU70102.1	Product	sodium:calcium antiporter
+AIU70103.1	Product	HIT family hydrolase
+AIU70104.1	Product	deoxyribonuclease
+AIU70105.1	Product	hypothetical protein
+AIU70106.1	Product	sodium:proton antiporter
+AIU70107.1	Product	thymidylate synthase
+AIU70108.1	Product	ornithine carbamoyltransferase
+AIU70109.1	Product	SAM-dependent tRNA/rRNA cytosine-C5 methylase
+AIU70110.1	Product	hypothetical protein
+AIU70111.1	Product	metallophosphoesterase
+AIU70112.1	Product	saccharopine dehydrogenase
+AIU70113.1	Product	16S rRNA methyltransferase
+AIU70114.1	Product	membrane protein
+AIU70115.1	Product	translation initiation factor IF-5A
+AIU70116.1	Product	hypothetical protein
+AIU70117.1	Product	transporter
+AIU70118.1	Product	universal stress protein
+AIU70119.1	Product	agmatinase
+AIU70120.1	Product	hypothetical protein
+AIU70121.1	Product	potassium transporter
+AIU70122.1	Product	hypothetical protein
+AIU70123.1	Product	voltage-gated chloride channel
+AIU70124.1	Product	phosphotransferase
+AIU70125.1	Product	thiamine-monophosphate kinase
+AIU70126.1	Product	membrane protein
+AIU70127.1	Product	glycosyl transferase
+AIU70128.1	Product	polysaccharide deacetylase
+AIU70129.1	Product	hypothetical protein
+AIU70130.1	Product	hypothetical protein
+AIU70131.1	Product	hypothetical protein
+AIU70132.1	Product	hypothetical protein
+AIU70133.1	Product	hypothetical protein
+AIU70134.1	Product	rubrerythrin
+AIU70135.1	Product	16S rRNA methyltransferase
+AIU70136.1	Product	hypothetical protein
+AIU70137.1	Product	DNA-directed RNA polymerase subunit F
+AIU70138.1	Product	50S ribosomal protein L21
+AIU70139.1	Product	hypothetical protein
+AIU70140.1	Product	pseudouridine synthase
+AIU70141.1	Product	transcriptional regulator
+AIU70142.1	Product	glutamyl-tRNA amidotransferase
+AIU70143.1	Product	glutamyl-tRNA amidotransferase
+AIU70144.1	Product	hypothetical protein
+AIU70145.1	Product	3-hydroxy-3-methylglutaryl-CoA reductase
+AIU70146.1	Product	phosphodiesterase
+AIU70147.1	Product	L-threonine 3-dehydrogenase
+AIU70147.1	EC_number	1.1.1.103
+AIU70148.1	Product	phenylalanyl-tRNA synthetase
+AIU70149.1	Product	phenylalanyl-tRNA synthetase
+AIU70150.1	Product	pseudouridine synthase
+AIU70151.1	Product	DNA repair protein Rad25
+AIU70152.1	Product	hypothetical protein
+AIU70153.1	Product	ABC transporter
+AIU70154.1	Product	hypothetical protein
+AIU70155.1	Product	N-glycosylase
+AIU70156.1	Product	GHMP kinase
+AIU70157.1	Product	hypothetical protein
+AIU70158.1	Product	dihydropteroate synthase
+AIU70159.1	Product	membrane protein
+AIU70160.1	Product	hypothetical protein
+AIU70161.1	Product	peptidase
+AIU70162.1	Product	AP endonuclease
+AIU70163.1	Product	hypothetical protein
+AIU70164.1	Product	DNA-directed RNA polymerase subunit L
+AIU70165.1	Product	hypothetical protein
+AIU70166.1	Product	RNA-binding protein
+AIU70167.1	Product	threonine--tRNA ligase
+AIU70167.1	EC_number	6.1.1.3
+AIU70168.1	Product	hypothetical protein
+AIU70169.1	Product	TBP-interacting protein
+AIU70170.1	Product	UDP diphosphate synthase
+AIU70171.1	Product	hypothetical protein
+AIU70172.1	Product	Holliday junction resolvase
+AIU70173.1	Product	membrane protein
+AIU70174.1	Product	peptidase M42
+AIU70175.1	Product	archaemetzincin
+AIU70176.1	Product	adenylate cyclase
+AIU70177.1	Product	hypothetical protein
+AIU70178.1	Product	potassium transporter
+AIU70179.1	Product	methionine aminopeptidase
+AIU70179.1	EC_number	3.4.11.18
+AIU70180.1	Product	hypothetical protein
+AIU70181.1	Product	hypothetical protein
+AIU70182.1	Product	hypothetical protein
+AIU70183.1	Product	hypothetical protein
+AIU70184.1	Product	hypothetical protein
+AIU70185.1	Product	hypothetical protein
+AIU70186.1	Product	hypothetical protein
+AIU70187.1	Product	hypothetical protein
+AIU70188.1	Product	hypothetical protein
+AIU70189.1	Product	hypothetical protein
+AIU70190.1	Product	hypothetical protein
+AIU70191.1	Product	hypothetical protein
+AIU70192.1	Product	hypothetical protein
+AIU70193.1	Product	hypothetical protein
+AIU70194.1	Product	hypothetical protein
+AIU70195.1	Product	hypothetical protein
+AIU70196.1	Product	hypothetical protein
+AIU70197.1	Product	hypothetical protein
+AIU70198.1	Product	hypothetical protein
+AIU70199.1	Product	ATPase
+AIU70200.1	Product	hypothetical protein
+AIU70201.1	Product	hypothetical protein
+AIU70202.1	Product	hypothetical protein
+AIU70203.1	Product	hypothetical protein
+AIU70204.1	Product	hypothetical protein
+AIU70205.1	Product	hypothetical protein
+AIU70206.1	Product	hypothetical protein
+AIU70207.1	Product	hypothetical protein
+AIU70208.1	Product	hypothetical protein
+AIU70209.1	Product	hypothetical protein
+AIU70210.1	Product	hypothetical protein
+AIU70211.1	Product	hypothetical protein
+AIU70212.1	Product	DNA-binding protein
+AIU70213.1	Product	hypothetical protein
+AIU70214.1	Product	inosine-5-monophosphate dehydrogenase
+AIU70215.1	Product	membrane protein
+AIU70216.1	Product	glucose-1-phosphate thymidylyltransferase
+AIU70217.1	Product	hypothetical protein
+AIU70218.1	Product	metallo-beta-lactamase
+AIU70219.1	Product	hypothetical protein
+AIU70220.1	Product	hypothetical protein
+AIU70221.1	Product	hypothetical protein
+AIU70222.1	Product	hypothetical protein
+AIU70223.1	Product	CTP synthetase
+AIU70223.1	EC_number	6.3.4.2
+AIU70224.1	Product	hypothetical protein
+AIU70225.1	Product	hypothetical protein
+AIU70226.1	Product	hypothetical protein
+AIU70227.1	Product	membrane protein
+AIU70228.1	Product	7-cyano-7-deazaguanine tRNA-ribosyltransferase
+AIU70229.1	Product	sodium:phosphate symporter
+AIU70230.1	Product	glycosyl transferase
+AIU70231.1	Product	hypothetical protein
+AIU70232.1	Product	helicase
+AIU70233.1	Product	peptidase M24
+AIU70234.1	Product	haloacid dehalogenase
+AIU70235.1	Product	50S ribosomal protein L35
+AIU70236.1	Product	tRNA (guanine-N2)-dimethyltransferase
+AIU70237.1	Product	hypothetical protein
+AIU70238.1	Product	nucleotide-binding protein
+AIU70239.1	Product	hypothetical protein
+AIU70240.1	Product	damage-inducible protein
+AIU70241.1	Product	50S ribosomal protein L37
+AIU70242.1	Product	small nuclear ribonucleoprotein
+AIU70243.1	Product	glycyl-tRNA synthetease
+AIU70244.1	Product	hypothetical protein
+AIU70245.1	Product	hypothetical protein
+AIU70246.1	Product	amino acid permease
+AIU70247.1	Product	deoxyhypusine synthase
+AIU70247.1	EC_number	2.5.1.46
+AIU70248.1	Product	sugar dehydrogenase
+AIU70248.1	EC_number	1.1.1.47
+AIU70249.1	Product	isochorismatase
+AIU70250.1	Product	pyridine nucleotide-disulfide oxidoreductase
+AIU70251.1	Product	radical SAM protein
+AIU70252.1	Product	imidazolonepropionase
+AIU70253.1	Product	protease
+AIU70254.1	Product	hypothetical protein
+AIU70255.1	Product	hypothetical protein
+AIU70256.1	Product	protease
+AIU70257.1	Product	thermosome subunit
+AIU70258.1	Product	O-sialoglycoprotein endopeptidase
+AIU70259.1	Product	chemotaxis protein
+AIU70260.1	Product	DNA mismatch repair protein
+AIU70261.1	Product	hypothetical protein
+AIU70262.1	Product	amino acid permease
+AIU70263.1	Product	NAD-dependent protein deacylase
+AIU70264.1	Product	hypothetical protein
+AIU70265.1	Product	haloacid dehalogenase
+AIU70266.1	Product	hydrothetical protein
+AIU70267.1	Product	ligand-binding protein SH3
+AIU70268.1	Product	hypothetical protein
+AIU70269.1	Product	TldE-like protein
+AIU70270.1	Product	hypothetical protein
+AIU70271.1	Product	MFS transporter permease
+AIU70272.1	Product	nucleotide pyrophosphohydrolase
+AIU70273.1	Product	phosphoesterase
+AIU70274.1	Product	hypothetical protein
+AIU70275.1	Product	spermidine/putrescine ABC transporter ATP-binding protein
+AIU70276.1	Product	iron ABC transporter permease
+AIU70277.1	Product	ABC transporter substrate-binding protein
+AIU70278.1	Product	hypothetical protein
+AIU70279.1	Product	tyrosyl-tRNA synthetase
+AIU70280.1	Product	AsnC family transcriptional regulator
+AIU70281.1	Product	transposase
+AIU70282.1	Product	RNA helicase
+AIU70283.1	Product	hypothetical protein
+AIU70284.1	Product	ABC transporter permease
+AIU70285.1	Product	transposase
+AIU70286.1	Product	ABC transporter ATP-binding protein
+AIU70287.1	Product	hypothetical protein
+AIU70288.1	Product	biotin transporter BioY
+AIU70289.1	Product	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+AIU70290.1	Product	hypothetical protein
+AIU70291.1	Product	hypothetical protein
+AIU70292.1	Product	hypothetical protein
+AIU70293.1	Product	hypothetical protein
+AIU70294.1	Product	multidrug transporter
+AIU70295.1	Product	daunorubicin ABC transporter ATP-binding protein
+AIU70296.1	Product	hypothetical protein
+AIU70297.1	Product	peptidase S9
+AIU70298.1	Product	hypothetical protein
+AIU70299.1	Product	hypothetical protein
+AIU70300.1	Product	tRNA(Met) cytidine acetyltransferase
+AIU70301.1	Product	hypothetical protein
+AIU70302.1	Product	hypothetical protein
+AIU70303.1	Product	ABC transporter substrate-binding protein
+AIU70304.1	Product	hypothetical protein
+AIU70305.1	Product	hypothetical protein
+AIU70306.1	Product	hypothetical protein
+AIU70307.1	Product	hypothetical protein
+AIU70308.1	Product	chromosome assembly protein
+AIU70309.1	Product	hypothetical protein
+AIU70310.1	Product	serine/threonine protein kinase
+AIU70311.1	Product	cell division protein
+AIU70312.1	Product	serine/threonine protein kinase
+AIU70313.1	Product	serine/threonine protein phosphatase
+AIU70314.1	Product	hypothetical protein
+AIU70315.1	Product	serine/threonine protein phosphatase
+AIU70316.1	Product	serine/threonine protein kinase
+AIU70317.1	Product	hypothetical protein
+AIU70318.1	Product	Nodulation efficiency protein D-like protein (nefD)
+AIU70319.1	Product	amidohydrolase
+AIU70320.1	Product	asparagine--tRNA ligase
+AIU70321.1	Product	hypothetical protein
+AIU70322.1	Product	hypothetical protein
+AIU70323.1	Product	7-carboxy-7-deazaguanine synthase
+AIU70324.1	Product	hypothetical protein
+AIU70325.1	Product	TATA box-binding protein
+AIU70326.1	Product	hypothetical protein
+AIU70327.1	Product	hypothetical protein
+AIU70328.1	Product	hypothetical protein
+AIU70329.1	Product	hypothetical protein
+AIU70330.1	Product	hypothetical protein
+AIU70331.1	Product	hypothetical protein
+AIU70332.1	Product	hypothetical protein
+AIU70333.1	Product	membrane protein
+AIU70334.1	Product	hypothetical protein
+AIU70335.1	Product	glutaredoxin
+AIU70336.1	Product	electron transporter
+AIU70337.1	Product	hypothetical protein
+AIU70338.1	Product	hypothetical protein
+AIU70339.1	Product	transcriptional regulator
+AIU70340.1	Product	hypothetical protein
+AIU70341.1	Product	hypothetical protein
+AIU70342.1	Product	hypothetical protein
+AIU70343.1	Product	diguanylate cyclase
+AIU70344.1	Product	proline dipeptidase
+AIU70345.1	Product	hypothetical protein
+AIU70346.1	Product	hypothetical protein
+AIU70347.1	Product	iron transporter FeoB
+AIU70348.1	Product	hypothetical protein
+AIU70349.1	Product	hypothetical protein
+AIU70350.1	Product	hypothetical protein
+AIU70351.1	Product	ABC transporter
+AIU70352.1	Product	uracil permease
+AIU70353.1	Product	NADH dehydrogenase
+AIU70354.1	Product	NADH-quinone oxidoreductase subunit D
+AIU70355.1	Product	NADH dehydrogenase
+AIU70356.1	Product	NADH dehydrogenase
+AIU70357.1	Product	NADH dehydrogenase
+AIU70358.1	Product	NADH dehydrogenase
+AIU70359.1	Product	NADH dehydrogenase
+AIU70360.1	Product	monovalent cation/H+ antiporter subunit C
+AIU70361.1	Product	cation:proton antiporter
+AIU70362.1	Product	hypothetical protein
+AIU70363.1	Product	hypothetical protein
+AIU70364.1	Product	monovalent cation/H+ antiporter subunit F
+AIU70365.1	Product	cation:proton antiporter
+AIU70366.1	Product	regulator
+AIU70367.1	Product	molybdenum cofactor biosynthesis protein MoaA
+AIU70368.1	Product	hypothetical protein
+AIU70369.1	Product	UDP-N-acetylglucosamine 2-epimerase
+AIU70370.1	Product	NDP-sugar dehydrogenase
+AIU70371.1	Product	hypothetical protein
+AIU70372.1	Product	hypothetical protein
+AIU70373.1	Product	lipoate--protein ligase
+AIU70374.1	Product	arginyl-tRNA synthetase
+AIU70375.1	Product	ATPase AAA
+AIU70376.1	Product	hypothetical protein
+AIU70377.1	Product	hypothetical protein
+AIU70378.1	Product	peptide chain release factor 1
+AIU70379.1	Product	membrane protein
+AIU70380.1	Product	hypothetical protein
+AIU70381.1	Product	hypothetical protein
+AIU70382.1	Product	hypothetical protein
+AIU70383.1	Product	hypothetical protein
+AIU70384.1	Product	metalloprotease
+AIU70385.1	Product	hypothetical protein
+AIU70386.1	Product	hypothetical protein
+AIU70387.1	Product	hypothetical protein
+AIU70388.1	Product	hypothetical protein
+AIU70389.1	Product	hypothetical protein
+AIU70390.1	Product	hypothetical protein
+AIU70391.1	Product	membrane protein
+AIU70392.1	Product	hypothetical protein
+AIU70393.1	Product	hypothetical protein
+AIU70394.1	Product	glucanase
+AIU70395.1	Product	nucleotidyltransferase
+AIU70396.1	Product	hypothetical protein
+AIU70397.1	Product	hypothetical protein
+AIU70398.1	Product	hypothetical protein
+AIU70399.1	Product	glycosyl transferase
+AIU70400.1	Product	asparagine synthase
+AIU70401.1	Product	GTPase
+AIU70402.1	Product	CDP-4-dehydro-6-deoxy-D-gulose 4-reductase
+AIU70403.1	Product	twitching motility protein PilT
+AIU70404.1	Product	septum formation inhibitor Maf
+AIU70405.1	Product	6-pyruvoyl tetrahydropterin synthase
+AIU70406.1	Product	hypothetical protein
+AIU70407.1	Product	2-oxoglutarate ferredoxin oxidoreductase subunit gamma
+AIU70407.1	EC_number	1.2.7.3
+AIU70408.1	Product	2-oxoglutarate synthase
+AIU70409.1	Product	2-oxoglutarate ferredoxin oxidoreductase subunit alpha
+AIU70409.1	EC_number	1.2.7.3
+AIU70410.1	Product	hypothetical protein
+AIU70411.1	Product	hypothetical protein
+AIU70412.1	Product	2-oxoglutarate ferredoxin oxidoreductase subunit gamma
+AIU70412.1	EC_number	1.2.7.3
+AIU70413.1	Product	2-oxoglutarate synthase
+AIU70414.1	Product	2-oxoglutarate ferredoxin oxidoreductase subunit alpha
+AIU70414.1	EC_number	1.2.7.3
+AIU70415.1	Product	2-keto acid:ferredoxin oxidoreductase subunit delta
+AIU70416.1	Product	Fe-S oxidoreductase
+AIU70417.1	Product	hypothetical protein
+AIU70418.1	Product	5'-nucleotidase
+AIU70419.1	Product	hypothetical protein
+AIU70420.1	Product	hypothetical protein
+AIU70421.1	Product	hypothetical protein
+AIU70422.1	Product	hypothetical protein
+AIU70423.1	Product	cell division protein FtsY
+AIU70424.1	Product	hypothetical protein
+AIU70425.1	Product	ABC transporter substrate-binding protein
+AIU70426.1	Product	ABC transporter ATP-binding protein
+AIU70427.1	Product	ribose ABC transporter permease
+AIU70428.1	Product	ABC transporter permease
+AIU70429.1	Product	ABC transporter substrate-binding protein
+AIU70430.1	Product	hypothetical protein
+AIU70431.1	Product	hypothetical protein
+AIU70432.1	Product	xanthine phosphoribosyltransferase
+AIU70433.1	Product	NDP-sugar synthase
+AIU70434.1	Product	DNA-binding protein
+AIU70435.1	Product	iron transporter
+AIU70436.1	Product	Fe2+ transport protein
+AIU70437.1	Product	membrane protein
+AIU70438.1	Product	ATP pyrophosphatase
+AIU70439.1	Product	hydrogenase assembly protein HupF
+AIU70440.1	Product	mRNA surveillance protein Pelota
+AIU70441.1	Product	damage-inducible protein CinA
+AIU70442.1	Product	glyceraldehyde-3-phosphate dehydrogenase
+AIU70442.1	EC_number	1.2.1.59
+AIU70443.1	Product	hypothetical protein
+AIU70444.1	Product	tRNA(Ile2) 2-agmatinylcytidine synthetase
+AIU70445.1	Product	hypothetical protein
+AIU70446.1	Product	beta-lactamase
+AIU70447.1	Product	rubrerythrin
+AIU70448.1	Product	rubredoxin
+AIU70449.1	Product	superoxide reductase
+AIU70450.1	Product	hypothetical protein
+AIU70451.1	Product	hypothetical protein
+AIU70452.1	Product	bacteriocin
+AIU70453.1	Product	iron ABC transporter ATP-binding protein
+AIU70454.1	Product	iron ABC transporter permease
+AIU70455.1	Product	hypothetical protein
+AIU70456.1	Product	hypothetical protein
+AIU70457.1	Product	hypothetical protein
+AIU70458.1	Product	hypothetical protein
+AIU70459.1	Product	tRNA (guanine-N2)-dimethyltransferase
+AIU70460.1	Product	alanyl-tRNA editing protein AlaX
+AIU70461.1	Product	hypothetical protein
+AIU70462.1	Product	hypothetical protein
+AIU70463.1	Product	hypothetical protein
+AIU70464.1	Product	translation initiation factor 2
+AIU70465.1	Product	hypothetical protein
+AIU70466.1	Product	50S ribosomal protein L7
+AIU70467.1	Product	30S ribosomal protein S28
+AIU70468.1	Product	50S ribosomal protein L24
+AIU70469.1	Product	nucleoside diphosphate kinase
+AIU70470.1	Product	hypothetical protein
+AIU70471.1	Product	translation initiation factor IF-2
+AIU70472.1	Product	hypothetical protein
+AIU70473.1	Product	SAM-dependent methyltransferase
+AIU70474.1	Product	serine hydroxymethyltransferase
+AIU70475.1	Product	hypothetical protein
+AIU70476.1	Product	DNA-directed RNA polymerase subunit M
+AIU70477.1	Product	DNA polymerase
+AIU70478.1	Product	Gins 15 protein
+AIU70479.1	Product	dehydrogenase
+AIU70480.1	Product	peroxiredoxin
+AIU70480.1	EC_number	1.11.1.15
+AIU70481.1	Product	ribosomal protein-serine acetyltransferase
+AIU70482.1	Product	transcriptional regulator
+AIU70483.1	Product	nucleotidyltransferase
+AIU70484.1	Product	hypothetical protein
+AIU70485.1	Product	molybdenum cofactor biosynthesis protein
+AIU70486.1	Product	molybdopterin adenylyltransferase
+AIU70487.1	Product	adenosylcobinamide amidohydrolase
+AIU70488.1	Product	hypothetical protein
+AIU70939.1	Product	hypothetical protein
+AIU70489.1	Product	cobalamin biosynthesis protein CobQ
+AIU70490.1	Product	hypothetical protein
+AIU70491.1	Product	cobalamin biosynthesis protein CobY
+AIU70492.1	Product	cobalamin synthase
+AIU70493.1	Product	hypothetical protein
+AIU70494.1	Product	hypothetical protein
+AIU70495.1	Product	hypothetical protein
+AIU70496.1	Product	ATP pyrophosphatase
+AIU70497.1	Product	hypothetical protein
+AIU70498.1	Product	cobalamin biosynthesis protein CobD
+AIU70499.1	Product	aminotransferase
+AIU70500.1	Product	SAM-dependent methyltransferase
+AIU70501.1	Product	hypothetical protein
+AIU70502.1	Product	hypothetical protein
+AIU70503.1	Product	hypothetical protein
+AIU70504.1	Product	valyl-tRNA synthetase
+AIU70505.1	Product	tRNA (guanine-N2)-dimethyltransferase
+AIU70506.1	Product	hypothetical protein
+AIU70507.1	Product	TldD/PmbA family protein
+AIU70508.1	Product	hypothetical protein
+AIU70509.1	Product	hypothetical protein
+AIU70510.1	Product	TldD-like protein
+AIU70511.1	Product	hypothetical protein
+AIU70512.1	Product	carbohydrate-binding protein
+AIU70513.1	Product	aspartate racemase
+AIU70514.1	Product	translation-associated GTPase
+AIU70515.1	Product	adenylate cyclase
+AIU70516.1	Product	transcriptional regulator
+AIU70517.1	Product	aromatic acid decarboxylase
+AIU70518.1	Product	hypothetical protein
+AIU70519.1	Product	pyruvate kinase
+AIU70520.1	Product	peptidase M54
+AIU70521.1	Product	hypothetical protein
+AIU70522.1	Product	camphor resistance protein CrcB
+AIU70523.1	Product	hypothetical protein
+AIU70524.1	Product	hypothetical protein
+AIU70525.1	Product	phosphopantothenoylcysteine decarboxylase
+AIU70526.1	Product	aspartate racemase
+AIU70527.1	Product	carbamoyl transferase
+AIU70528.1	Product	hypothetical protein
+AIU70529.1	Product	prolyl-tRNA synthetase
+AIU70530.1	Product	2-hydroxyacid dehydrogenase
+AIU70531.1	Product	hypothetical protein
+AIU70532.1	Product	permease
+AIU70533.1	Product	permease
+AIU70534.1	Product	hypothetical protein
+AIU70535.1	Product	hypothetical protein
+AIU70536.1	Product	membrane protein
+AIU70537.1	Product	hypothetical protein
+AIU70538.1	Product	hypothetical protein
+AIU70539.1	Product	ATPase
+AIU70540.1	Product	methionyl-tRNA synthetase
+AIU70541.1	Product	cysteinyl-tRNA synthetase
+AIU70542.1	Product	peptidylprolyl isomerase
+AIU70543.1	Product	hypothetical protein
+AIU70544.1	Product	CAAX protease
+AIU70545.1	Product	ABC transporter ATP-binding protein
+AIU70546.1	Product	phosphomethylpyrimidine kinase
+AIU70547.1	Product	ribonucleoside-triphosphate reductase
+AIU70548.1	Product	phosphomethylpyrimidine synthase
+AIU70549.1	Product	phosphoribosylaminoimidazole-succinocarboxamide synthase
+AIU70550.1	Product	5-formaminoimidazole-4-carboxamide-1-(beta)-D- ribofuranosyl 5'-monophosphate synthetase
+AIU70551.1	Product	IMP cyclohydrolase
+AIU70552.1	Product	6,7-dimethyl-8-ribityllumazine synthase
+AIU70553.1	Product	3,4-dihydroxy-2-butanone 4-phosphate synthase
+AIU70553.1	EC_number	3.5.4.25
+AIU70554.1	Product	hypothetical protein
+AIU70555.1	Product	riboflavin synthase subunit alpha
+AIU70556.1	Product	riboflavin deaminase
+AIU70557.1	Product	peptidase S9
+AIU70558.1	Product	ATPase
+AIU70559.1	Product	translation initiation factor IF-2B subunit alpha
+AIU70560.1	Product	hypothetical protein
+AIU70561.1	Product	cobalamin adenosyltransferase
+AIU70562.1	Product	MFS transporter
+AIU70563.1	Product	hypothetical protein
+AIU70564.1	Product	membrane protein
+AIU70565.1	Product	ArsR family transcriptional regulator
+AIU70566.1	Product	PadR family transcriptional regulator
+AIU70567.1	Product	multidrug RND transporter
+AIU70568.1	Product	transporter
+AIU70569.1	Product	30S ribosomal protein S15
+AIU70570.1	Product	single-stranded DNA endonuclease
+AIU70571.1	Product	KEOPS complex subunit
+AIU70572.1	Product	hypothetical protein
+AIU70573.1	Product	hypothetical protein
+AIU70574.1	Product	membrane protein
+AIU70575.1	Product	transcriptional regulator
+AIU70576.1	Product	regulatory protein
+AIU70577.1	Product	ArsR family transcriptional regulator
+AIU70578.1	Product	deaminase
+AIU70579.1	Product	hypothetical protein
+AIU70580.1	Product	ATP-dependent protease Lon
+AIU70581.1	Product	ABC transporter ATP-binding protein
+AIU70582.1	Product	hypothetical protein
+AIU70583.1	Product	hypothetical protein
+AIU70584.1	Product	protein frxA
+AIU70585.1	Product	hypothetical protein
+AIU70586.1	Product	hypothetical protein
+AIU70587.1	Product	sulfhydrogenase 1 subunit alpha
+AIU70588.1	Product	sulfhydrogenase 1 subunit delta
+AIU70589.1	Product	cytochrome-c3 hydrogenase subunit gamma
+AIU70590.1	Product	hydrogenase
+AIU70591.1	Product	formate dehydrogenase
+AIU70592.1	Product	hydantoin racemase
+AIU70593.1	Product	formate hydrogenlyase
+AIU70594.1	Product	hydrogenase
+AIU70595.1	Product	hydrogenase 3 large subunit
+AIU70596.1	Product	hydrogenase
+AIU70597.1	Product	hypothetical protein
+AIU70598.1	Product	pH regulation protein F
+AIU70599.1	Product	cation:proton antiporter
+AIU70600.1	Product	membrane bound complex 1 subunit E
+AIU70601.1	Product	sodium:proton antiporter
+AIU70602.1	Product	NADH-ubiquinone oxidoreductase subunit 4L
+AIU70603.1	Product	cation:proton antiporter
+AIU70604.1	Product	monovalent cation/H+ antiporter subunit D
+AIU70605.1	Product	hypothetical protein
+AIU70606.1	Product	glutamate synthase
+AIU70607.1	Product	formate dehydrogenase
+AIU70608.1	Product	hypothetical protein
+AIU70609.1	Product	multidrug ABC transporter ATPase
+AIU70610.1	Product	multidrug ABC transporter permease
+AIU70611.1	Product	membrane protein
+AIU70612.1	Product	vitamin B12 transporter
+AIU70613.1	Product	inosine-5-monophosphate dehydrogenase
+AIU70614.1	Product	hypothetical protein
+AIU70615.1	Product	phosphoesterase
+AIU70616.1	Product	hypothetical protein
+AIU70617.1	Product	riboflavin kinase
+AIU70618.1	Product	endonuclease V
+AIU70619.1	Product	haloacid dehalogenase
+AIU70620.1	Product	S-adenosylmethionine synthetase
+AIU70620.1	EC_number	2.5.1.6
+AIU70621.1	Product	hypothetical protein
+AIU70622.1	Product	metallophosphoesterase
+AIU70623.1	Product	aromatic amino acid aminotransferase
+AIU70624.1	Product	chromosome partitioning protein ParB
+AIU70625.1	Product	hypothetical protein
+AIU70626.1	Product	2-haloalkanoic acid dehalogenase
+AIU70627.1	Product	seryl-tRNA synthetase
+AIU70628.1	Product	cell division protein
+AIU70629.1	Product	molybdenum cofactor biosynthesis protein MoeA
+AIU70630.1	Product	hypothetical protein
+AIU70631.1	Product	ATPase AAA
+AIU70632.1	Product	NDP-sugar epimerase
+AIU70633.1	Product	hypothetical protein
+AIU70634.1	Product	adenylosuccinate synthetase
+AIU70634.1	EC_number	6.3.4.4
+AIU70635.1	Product	hypothetical protein
+AIU70636.1	Product	lysophospholipase
+AIU70637.1	Product	membrane protein
+AIU70638.1	Product	hypothetical protein
+AIU70639.1	Product	anion transporter
+AIU70640.1	Product	hypothetical protein
+AIU70641.1	Product	carbon starvation protein CstA
+AIU70642.1	Product	pyruvate carboxylase
+AIU70643.1	Product	fructose-bisphosphate aldolase
+AIU70644.1	Product	biotin--protein ligase
+AIU70644.1	EC_number	6.3.4.15
+AIU70645.1	Product	amino acid transporter
+AIU70646.1	Product	hypothetical protein
+AIU70647.1	Product	50S ribosomal protein L39
+AIU70648.1	Product	50S ribosomal protein L31
+AIU70649.1	Product	translation initiation factor 6
+AIU70650.1	Product	50S ribosomal protein LX
+AIU70651.1	Product	hypothetical protein
+AIU70652.1	Product	RNA-binding protein
+AIU70653.1	Product	30S ribosomal protein S19
+AIU70654.1	Product	hypothetical protein
+AIU70655.1	Product	hypothetical protein
+AIU70656.1	Product	transcription initiation factor IIB
+AIU70657.1	Product	flap endonuclease-1
+AIU70658.1	Product	hypothetical protein
+AIU70659.1	Product	acetyl CoA synthetase
+AIU70660.1	Product	hypothetical protein
+AIU70661.1	Product	metallophosphoesterase
+AIU70662.1	Product	photosystem reaction center subunit H
+AIU70663.1	Product	prefoldin subunit alpha
+AIU70664.1	Product	ATPase
+AIU70665.1	Product	cobalamin biosynthesis protein CobQ
+AIU70666.1	Product	dinitrogenase iron-molybdenum cofactor
+AIU70667.1	Product	transposase
+AIU70668.1	Product	hypothetical protein
+AIU70669.1	Product	hypothetical protein
+AIU70670.1	Product	hypothetical protein
+AIU70671.1	Product	hypothetical protein
+AIU70672.1	Product	ABC transporter permease
+AIU70673.1	Product	iron-siderophore ABC transporter substrate-binding protein
+AIU70674.1	Product	methyltransferase type 11
+AIU70675.1	Product	hypothetical protein
+AIU70676.1	Product	dinitrogenase iron-molybdenum cofactor
+AIU70677.1	Product	hypothetical protein
+AIU70678.1	Product	dinitrogenase iron-molybdenum cofactor
+AIU70679.1	Product	membrane protein
+AIU70680.1	Product	DNA-binding protein
+AIU70681.1	Product	hypothetical protein
+AIU70682.1	Product	6-carboxy-5,6,7,8-tetrahydropterin synthase
+AIU70683.1	Product	hypothetical protein
+AIU70684.1	Product	adenylosuccinate lyase
+AIU70684.1	EC_number	4.3.2.2
+AIU70685.1	Product	hypothetical protein
+AIU70686.1	Product	hypothetical protein
+AIU70687.1	Product	DNA/RNA-binding protein albA
+AIU70688.1	Product	hypothetical protein
+AIU70689.1	Product	inosine-5-monophosphate dehydrogenase
+AIU70690.1	Product	NTPase
+AIU70691.1	Product	methylthioribose-1-phosphate isomerase
+AIU70692.1	Product	hypothetical protein
+AIU70693.1	Product	alcohol dehydrogenase
+AIU70694.1	Product	MFS transporter permease
+AIU70695.1	Product	hypothetical protein
+AIU70696.1	Product	hypothetical protein
+AIU70697.1	Product	hypothetical protein
+AIU70698.1	Product	hypothetical protein
+AIU70699.1	Product	large helicase
+AIU70700.1	Product	acetylornithine deacetylase
+AIU70700.1	EC_number	3.5.1.16
+AIU70701.1	Product	hydrolase
+AIU70702.1	Product	hypothetical protein
+AIU70703.1	Product	rubrerythrin
+AIU70704.1	Product	deoxyribonuclease
+AIU70705.1	Product	methyltransferase
+AIU70706.1	Product	dihydropteroate synthase
+AIU70707.1	Product	hypothetical protein
+AIU70708.1	Product	methylmalonyl-CoA mutase
+AIU70709.1	Product	GTPase
+AIU70710.1	Product	methylmalonyl-CoA epimerase
+AIU70711.1	Product	hypothetical protein
+AIU70712.1	Product	chromosome segregation protein SMC
+AIU70713.1	Product	chromosome segregation protein ScpA
+AIU70714.1	Product	hypothetical protein
+AIU70715.1	Product	hypothetical protein
+AIU70716.1	Product	DEAD/DEAH box helicase
+AIU70717.1	Product	hypothetical protein
+AIU70718.1	Product	30S ribosomal protein S10
+AIU70719.1	Product	elongation factor 1-alpha
+AIU70719.1	EC_number	3.6.5.3
+AIU70720.1	Product	hypothetical protein
+AIU70721.1	Product	hypothetical protein
+AIU70722.1	Product	elongation factor EF-2
+AIU70723.1	Product	phosphohydrolase
+AIU70724.1	Product	ABC transporter
+AIU70725.1	Product	hypothetical protein
+AIU70726.1	Product	hypothetical protein
+AIU70727.1	Product	hypothetical protein
+AIU70728.1	Product	hypothetical protein
+AIU70729.1	Product	hypothetical protein
+AIU70730.1	Product	plasmid stabilization protein
+AIU70731.1	Product	hypothetical protein
+AIU70732.1	Product	GTP cyclohydrolase
+AIU70733.1	Product	hypothetical protein
+AIU70734.1	Product	restriction endonuclease
+AIU70735.1	Product	DNA-binding protein
+AIU70736.1	Product	hypothetical protein
+AIU70737.1	Product	DNA topoisomerase VI subunit A
+AIU70738.1	Product	DNA topoisomerase
+AIU70739.1	Product	RNA-processing protein
+AIU70740.1	Product	hypothetical protein
+AIU70741.1	Product	translation initiation factor 1A
+AIU70742.1	Product	ABC transporter
+AIU70743.1	Product	ABC transporter
+AIU70744.1	Product	ribonuclease HII
+AIU70745.1	Product	dolichyl-phosphate-mannose-protein mannosyltransferase
+AIU70746.1	Product	methyltransferase
+AIU70747.1	Product	hypothetical protein
+AIU70748.1	Product	glutamine amidotransferase
+AIU70749.1	Product	peptide transporter
+AIU70750.1	Product	inosine-5-monophosphate dehydrogenase
+AIU70751.1	Product	hypothetical protein
+AIU70752.1	Product	adenylate kinase
+AIU70753.1	Product	hypothetical protein
+AIU70754.1	Product	hypothetical protein
+AIU70755.1	Product	hypothetical protein
+AIU70756.1	Product	endonuclease
+AIU70757.1	Product	hypothetical protein
+AIU70758.1	Product	geranylgeranylglyceryl phosphate synthase
+AIU70759.1	Product	hypothetical protein
+AIU70760.1	Product	peptide transporter
+AIU70761.1	Product	aldehyde:ferredoxin oxidoreductase
+AIU70762.1	Product	ATPase
+AIU70763.1	Product	tRNA wyosine derivatives biosynthesis protein Taw2
+AIU70764.1	Product	hypothetical protein
+AIU70765.1	Product	CRISPR-associated protein Cas4
+AIU70766.1	Product	hypothetical protein
+AIU70767.1	Product	2,3-diphosphoglycerate synthetase
+AIU70768.1	Product	2-phosphoglycerate kinase
+AIU70769.1	Product	phosphohydrolase
+AIU70770.1	Product	inosine-5-monophosphate dehydrogenase
+AIU70771.1	Product	glutamine amidotransferase
+AIU70772.1	Product	restriction endonuclease
+AIU70773.1	Product	hydrogenase
+AIU70774.1	Product	ATPase
+AIU70775.1	Product	hypothetical protein
+AIU70776.1	Product	hypothetical protein
+AIU70777.1	Product	hypothetical protein
+AIU70778.1	Product	hypothetical protein
+AIU70779.1	Product	CRISPR-associated protein Cmr4
+AIU70780.1	Product	hypothetical protein
+AIU70781.1	Product	hypothetical protein
+AIU70782.1	Product	hypothetical protein
+AIU70783.1	Product	hypothetical protein
+AIU70784.1	Product	CRISPR-associated protein Cas2
+AIU70785.1	Product	CRISPR-associated protein Cas6
+AIU70786.1	Product	hypothetical protein
+AIU70787.1	Product	hypothetical protein
+AIU70788.1	Product	hypothetical protein
+AIU70789.1	Product	hypothetical protein
+AIU70790.1	Product	hypothetical protein
+AIU70791.1	Product	thymidylate synthase
+AIU70792.1	Product	HAD family hydrolase
+AIU70793.1	Product	phosphoesterase
+AIU70794.1	Product	dolichol-phosphate mannose synthase
+AIU70795.1	Product	3-methyl-2-oxobutanoate hydroxymethyltransferase
+AIU70796.1	Product	CopG family transcriptional regulator
+AIU70797.1	Product	twitching motility protein PilT
+AIU70798.1	Product	archease
+AIU70799.1	Product	tRNA methyltransferase
+AIU70800.1	Product	hypothetical protein
+AIU70801.1	Product	Mja hyp2 intein
+AIU70802.1	Product	hypothetical protein
+AIU70803.1	Product	molybdenum cofactor biosynthesis protein MoaC
+AIU70804.1	Product	hypothetical protein
+AIU70805.1	Product	thymidine phosphorylase
+AIU70806.1	Product	hypothetical protein
+AIU70807.1	Product	hypothetical protein
+AIU70808.1	Product	ATP-binding protein
+AIU70809.1	Product	hypothetical protein
+AIU70810.1	Product	nodulation protein NfeD
+AIU70811.1	Product	hypothetical protein
+AIU70812.1	Product	3-methyladenine DNA glycosylase
+AIU70813.1	Product	nucleotide-binding protein
+AIU70814.1	Product	hypothetical protein
+AIU70815.1	Product	hypothetical protein
+AIU70816.1	Product	hypothetical protein
+AIU70817.1	Product	kinase
+AIU70818.1	Product	hypothetical protein
+AIU70819.1	Product	LamB/YcsF family protein
+AIU70820.1	Product	allophanate hydrolase
+AIU70821.1	Product	urea amidolyase
+AIU70822.1	Product	hypothetical protein
+AIU70823.1	Product	glycerol-1-phosphate dehydrogenase
+AIU70823.1	EC_number	1.1.1.261
+AIU70824.1	Product	hypothetical protein
+AIU70825.1	Product	membrane protein
+AIU70826.1	Product	fructose-1,6-bisphosphatase
+AIU70827.1	Product	peptidase
+AIU70828.1	Product	hypothetical protein
+AIU70829.1	Product	DNA repair helicase
+AIU70830.1	Product	hypothetical protein
+AIU70831.1	Product	peptidase M42
+AIU70832.1	Product	sugar fermentation stimulation protein
+AIU70833.1	Product	topoisomerase
+AIU70834.1	Product	recombinase XerC
+AIU70835.1	Product	ATPase
+AIU70836.1	Product	6-phosphofructokinase
+AIU70836.1	EC_number	2.7.1.146
+AIU70837.1	Product	maleate cis-trans isomerase
+AIU70838.1	Product	NAD(P)H-flavin oxidoreductase
+AIU70839.1	Product	membrane protein
+AIU70840.1	Product	thiamine biosynthesis protein ThiI
+AIU70841.1	Product	membrane protein
+AIU70842.1	Product	hypothetical protein
+AIU70843.1	Product	cysteine synthase
+AIU70844.1	Product	hypothetical protein
+AIU70845.1	Product	hypothetical protein
+AIU70846.1	Product	acetyl-CoA synthetase
+AIU70847.1	Product	CoA-binding protein
+AIU70848.1	Product	xylose isomerase
+AIU70849.1	Product	cation transporter
+AIU70850.1	Product	potassium channel protein
+AIU70851.1	Product	potassium channel protein
+AIU70852.1	Product	hypothetical protein
+AIU70853.1	Product	endonuclease III
+AIU70854.1	Product	ATPase
+AIU70855.1	Product	PadR family transcriptional regulator
+AIU70856.1	Product	ABC transporter ATP-binding protein
+AIU70857.1	Product	ABC transporter
+AIU70858.1	Product	phosphoglycerate kinase
+AIU70859.1	Product	restriction endonuclease
+AIU70860.1	Product	hypothetical protein
+AIU70861.1	Product	hypothetical protein
+AIU70862.1	Product	ABC transporter permease
+AIU70863.1	Product	ABC transporter
+AIU70864.1	Product	methylmalonyl-CoA mutase
+AIU70865.1	Product	hypothetical protein
+AIU70866.1	Product	mRNA 3'-end processing factor
+AIU70867.1	Product	heat-shock protein
+AIU70868.1	Product	ATPase AAA
+AIU70869.1	Product	hypothetical protein
+AIU70870.1	Product	molybdopterin-guanine dinucleotide biosynthesis protein MobB
+AIU70871.1	Product	hypothetical protein
+AIU70872.1	Product	hypothetical protein
+AIU70873.1	Product	hypothetical protein
+AIU70874.1	Product	ATP-binding protein
+AIU70875.1	Product	hypothetical protein
+AIU70876.1	Product	hypothetical protein
+AIU70877.1	Product	hypothetical protein
+AIU70878.1	Product	NADH oxidase
+AIU70879.1	Product	protein tyrosine phosphatase
+AIU70880.1	Product	carbon-nitrogen hydrolase
+AIU70881.1	Product	peptidase
+AIU70882.1	Product	hypothetical protein
+AIU70883.1	Product	ubiquinone biosynthesis protein UbiE
+AIU70884.1	Product	hypothetical protein
+AIU70885.1	Product	hypothetical protein
+AIU70886.1	Product	hypothetical protein
+AIU70887.1	Product	hypothetical protein
+AIU70888.1	Product	hypothetical protein
+AIU70889.1	Product	hypothetical protein
+AIU70890.1	Product	hypothetical protein
+AIU70891.1	Product	hypothetical protein
+AIU70892.1	Product	ArsR family transcriptional regulator
+AIU70893.1	Product	hypothetical protein
+AIU70894.1	Product	GNAT family acetyltraansferase
+AIU70895.1	Product	hypothetical protein
+AIU70896.1	Product	hypothetical protein
+AIU70897.1	Product	hypothetical protein
+AIU70898.1	Product	hypothetical protein
+AIU70899.1	Product	hypothetical protein
+AIU70900.1	Product	hypothetical protein
+AIU70901.1	Product	hypothetical protein
+AIU70902.1	Product	nicotinamide-nucleotide adenylyltransferase
+AIU70902.1	EC_number	2.7.7.1
+AIU70903.1	Product	nucleotide-binding protein
+AIU70904.1	Product	hypothetical protein
+AIU70905.1	Product	hydroxide adenosyltransferase
+AIU70906.1	Product	hypothetical protein
+AIU70907.1	Product	tRNA 2'-O-methylase
+AIU70908.1	Product	hypothetical protein
+AIU70909.1	Product	2-haloalkanoic acid dehalogenase
+AIU70910.1	Product	hypothetical protein
+AIU70911.1	Product	isomerase
+AIU70912.1	Product	transposase
+AIU70913.1	Product	phosphoserine phosphatase
+AIU70914.1	Product	protein-L-isoaspartate O-methyltransferase
+AIU70915.1	Product	hypothetical protein
+AIU70916.1	Product	flagellar assembly protein FlaJ
+AIU70917.1	Product	hypothetical protein
+AIU70918.1	Product	flagellar accessory protein FlaH
+AIU70919.1	Product	flagellar protein G
+AIU70920.1	Product	flagella
+AIU70921.1	Product	flagellar protein D
+AIU70922.1	Product	flagellar protein FlaC
+AIU70923.1	Product	flagellin
+AIU70924.1	Product	flagellin
+AIU70925.1	Product	flagellin
+AIU70926.1	Product	methyltransferase
+AIU70927.1	Product	transcriptional regulator
+AIU70928.1	Product	hypothetical protein
+AIU70929.1	Product	chemotaxis protein CheW
+AIU70930.1	Product	hypothetical protein
+AIU70931.1	Product	chemotaxis protein
+AIU70932.1	Product	chemotaxis protein CheY
+AIU70933.1	Product	chemotaxis protein CheY
+AIU70934.1	Product	histidine kinase
+AIU70935.1	Product	chemotaxis protein CheC
+AIU70936.1	Product	chemotaxis protein CheD
